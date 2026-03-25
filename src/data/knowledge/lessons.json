@@ -1,0 +1,82 @@
+{
+  "lessons": [
+    {
+      "id": "lesson-1",
+      "lessonNumber": 1,
+      "title": "óra: 1st lesson",
+      "relativePath": "1. óra: 1st lesson"
+    },
+    {
+      "id": "lesson-2",
+      "lessonNumber": 2,
+      "title": "óra: 2nd lesson",
+      "relativePath": "2. óra: 2nd lesson"
+    },
+    {
+      "id": "lesson-3",
+      "lessonNumber": 3,
+      "title": "óra: 3rd lesson",
+      "relativePath": "3. óra: 3rd lesson"
+    },
+    {
+      "id": "lesson-4",
+      "lessonNumber": 4,
+      "title": "óra: 4th lesson",
+      "relativePath": "4. óra: 4th lesson"
+    },
+    {
+      "id": "lesson-5",
+      "lessonNumber": 5,
+      "title": "óra: 5th lesson",
+      "relativePath": "5. óra: 5th lesson"
+    },
+    {
+      "id": "lesson-6",
+      "lessonNumber": 6,
+      "title": "óra: 6th lesson",
+      "relativePath": "6. óra: 6th lesson"
+    },
+    {
+      "id": "lesson-7",
+      "lessonNumber": 7,
+      "title": "óra: 7th lesson",
+      "relativePath": "7. óra: 7th lesson"
+    },
+    {
+      "id": "lesson-8",
+      "lessonNumber": 8,
+      "title": "óra: 8th lesson",
+      "relativePath": "8. óra: 8th lesson"
+    },
+    {
+      "id": "lesson-9",
+      "lessonNumber": 9,
+      "title": "óra: 9th lesson",
+      "relativePath": "9. óra: 9th lesson"
+    },
+    {
+      "id": "lesson-10",
+      "lessonNumber": 10,
+      "title": "óra: 10th lesson",
+      "relativePath": "10. óra: 10th lesson"
+    },
+    {
+      "id": "lesson-11",
+      "lessonNumber": 11,
+      "title": "óra: 11th lesson",
+      "relativePath": "11. óra: 11th lesson"
+    },
+    {
+      "id": "lesson-12",
+      "lessonNumber": 12,
+      "title": "óra: 12th lesson",
+      "relativePath": "12. óra: 12th lesson"
+    },
+    {
+      "id": "lesson-13",
+      "lessonNumber": 13,
+      "title": "óra: 13th lesson",
+      "relativePath": "13. óra: 13th lesson"
+    }
+  ]
+}

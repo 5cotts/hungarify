@@ -1,0 +1,71 @@
+15:01:05	 From HunLan Solutions : örülök-I am glad
+15:07:11	 From HunLan Solutions : Köszönöm szépen a szép munkát! Thank you for the nice job!
+15:07:43	 From HunLan Solutions : Mi a lány neve?
+15:07:56	 From HunLan Solutions : lány-girl
+15:08:05	 From HunLan Solutions : 2. Hol él a lány?
+15:08:13	 From HunLan Solutions : hol-where
+15:08:23	 From HunLan Solutions : 3. Hány éves a lány?
+15:08:35	 From HunLan Solutions : 4. Milyen nyelven tanul?
+15:08:40	 From HunLan Solutions : tanul-she studies
+15:08:45	 From HunLan Solutions : milyen-what kind of
+15:08:49	 From HunLan Solutions : nyelv-language
+15:09:11	 From HunLan Solutions : 5. Mi a lány foglalkozása?
+15:09:16	 From HunLan Solutions : foglalkozás-profession
+15:12:38	 From HunLan Solutions : édes-sweet
+15:12:40	 From HunLan Solutions : anya-mother
+15:13:56	 From HunLan Solutions : test-body
+15:13:59	 From HunLan Solutions : vér-blood
+15:21:30	 From HunLan Solutions : NAME+nak/nek hívnak
+15:21:35	 From HunLan Solutions : hívnak-they call
+15:21:58	 From HunLan Solutions : Nem vagyok házas-I am not married
+15:22:56	 From HunLan Solutions : beszélek-I speak + LANGUAGE+ul/ül
+15:23:15	 From HunLan Solutions : német-németül
+15:23:23	 From HunLan Solutions : török-törökül
+15:23:29	 From HunLan Solutions : angol-angolul
+15:23:36	 From HunLan Solutions : magyar-magyarul
+15:23:59	 From HunLan Solutions : Most tanulok magyarul
+15:24:02	 From HunLan Solutions : most-now
+15:24:06	 From HunLan Solutions : tanulok-I study
+15:27:05	 From HunLan Solutions : anya-mother
+15:27:08	 From HunLan Solutions : nyelv-language
+15:28:02	 From HunLan Solutions : A nagyapám és a nagyanyám volt magyar
+15:28:17	 From HunLan Solutions : A nagyszüleim voltak magyarok
+15:28:23	 From HunLan Solutions : voltak-they were
+15:28:36	 From HunLan Solutions : a nagyszüleim-my grandparents
+15:29:32	 From HunLan Solutions : Milyen mérnök?
+15:29:49	 From HunLan Solutions : Szoftvermérnök
+15:30:24	 From HunLan Solutions : bemutatkozni-to introduce
+15:33:04	 From HunLan Solutions : Nem vagyok házas-I am not married
+15:34:02	 From HunLan Solutions : Beszélek-I speak
+15:36:01	 From HunLan Solutions : Nem.
+15:36:15	 From HunLan Solutions : Nincs testvérem-I have no sibling
+15:36:27	 From HunLan Solutions : Egyedüli gyerek vagyok-I am an only child
+15:37:44	 From HunLan Solutions : New Yorkban élek-I am living in New York
+15:39:45	 From HunLan Solutions : Nem vagyok-Not I am
+15:42:06	 From HunLan Solutions : Az édesanyám-my Sweet mother
+15:42:13	 From HunLan Solutions : Az édesanyám neve Betsy
+15:44:30	 From HunLan Solutions : név-name
+15:44:33	 From HunLan Solutions : neve-your name
+15:44:40	 From HunLan Solutions : my name-a nevem
+15:44:51	 From HunLan Solutions : A nevem Scott
+15:44:56	 From HunLan Solutions : Scott vagyok
+15:45:05	 From HunLan Solutions : Scottnak hívnak
+15:45:51	 From HunLan Solutions : Nincs gyerekem-I have no child
+15:47:17	 From HunLan Solutions : Az édesapám neve (my Sweet father's name) Fred
+15:48:36	 From HunLan Solutions : felmenő-ancestor
+15:48:51	 From HunLan Solutions : felmenője-your ancestor
+15:48:58	 From HunLan Solutions : ki-who
+15:51:19	 From HunLan Solutions : Az édesanyám hatvanhat =66 éves
+15:51:46	 From HunLan Solutions : Az édesapám hatvanhét=67 éves
+15:56:27	 From HunLan Solutions : egyedül-alone
+15:56:30	 From HunLan Solutions : állni-to stand
+16:13:18	 From HunLan Solutions : már-already
+16:13:50	 From HunLan Solutions : nyugdíjas-retired
+16:33:27	 From HunLan Solutions : január 7
+16:33:37	 From HunLan Solutions : 4:30pm
+16:34:16	 From HunLan Solutions : Nagyon boldog karácsonyt kívánok!
+16:34:26	 From HunLan Solutions : karácsony-Xmas
+16:34:29	 From HunLan Solutions : boldog-happy
+16:34:56	 From HunLan Solutions : Jövőre találkozunk
+16:35:00	 From HunLan Solutions : jövőre-next year
+16:35:05	 From HunLan Solutions : találkozunk-we meet

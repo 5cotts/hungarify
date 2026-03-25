@@ -1,0 +1,604 @@
+{
+  "items": [
+    {
+      "id": "p-36",
+      "hu": "16:32:23\t From HunLan Solutions : Köszönöm szépen a mai órát!",
+      "en": null,
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 42
+    },
+    {
+      "id": "p-37",
+      "hu": "16:32:43\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "p-100",
+      "hu": "15:29:57\t From HunLan Solutions : Milyen bachelor diplomája van?",
+      "en": null,
+      "lesson": 10,
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "p-101",
+      "hu": "16:39:41\t From HunLan Solutions : Szép hétvégét kívánok!",
+      "en": null,
+      "lesson": 10,
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 73
+    },
+    {
+      "id": "p-168",
+      "hu": "15:13:56\t From HunLan Solutions : Hány órakor? At what time?",
+      "en": null,
+      "lesson": 11,
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 34
+    },
+    {
+      "id": "p-169",
+      "hu": "15:23:40\t From HunLan Solutions : Mikor végez a munkában?",
+      "en": null,
+      "lesson": 11,
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 54
+    },
+    {
+      "id": "p-170",
+      "hu": "15:34:40\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 11,
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 82
+    },
+    {
+      "id": "p-173",
+      "hu": "14:01:35\t From HunLan Solutions : Jó idő van Floridában?",
+      "en": null,
+      "lesson": 11,
+      "sourceFile": "11. óra: 11th lesson/chat.txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "p-182",
+      "hu": "17:09:46\t From HunLan Solutions : Mióta? How long, since when?",
+      "en": null,
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "p-183",
+      "hu": "17:36:09\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "p-234",
+      "hu": "10:01:10\t From HunLan Solutions : hosszú volt az út?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "p-235",
+      "hu": "10:16:21\t From HunLan Solutions : Én szeretem a palacsintát.",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "p-236",
+      "hu": "11:25:05\t From HunLan Solutions : Mi az édesapja foglalkozása?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 54
+    },
+    {
+      "id": "p-237",
+      "hu": "11:25:18\t From HunLan Solutions : Az édesapám villamosmérnök.",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 55
+    },
+    {
+      "id": "p-238",
+      "hu": "11:25:24\t From HunLan Solutions : Mi az édesanyja foglalkozása?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 56
+    },
+    {
+      "id": "p-239",
+      "hu": "11:25:33\t From HunLan Solutions : Az édesanyám családanya.",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 57
+    },
+    {
+      "id": "p-240",
+      "hu": "11:26:35\t From HunLan Solutions : Ön magyar származású?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 58
+    },
+    {
+      "id": "p-241",
+      "hu": "11:26:50\t From HunLan Solutions : Anyai vagy apai ágon magyar származású?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 59
+    },
+    {
+      "id": "p-242",
+      "hu": "11:27:07\t From HunLan Solutions : Melyik felmenője volt magyar?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 62
+    },
+    {
+      "id": "p-243",
+      "hu": "11:27:42\t From HunLan Solutions : Mi volt az apai nagypapája neve?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 65
+    },
+    {
+      "id": "p-244",
+      "hu": "11:28:10\t From HunLan Solutions : Ő hol született?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 67
+    },
+    {
+      "id": "p-245",
+      "hu": "11:29:03\t From HunLan Solutions : Hol van ez a Bakonyjákó?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 70
+    },
+    {
+      "id": "p-246",
+      "hu": "11:30:25\t From HunLan Solutions : Milyen nyelven beszélt a nagyapja?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 76
+    },
+    {
+      "id": "p-247",
+      "hu": "11:31:06\t From HunLan Solutions : Mi volt a nagypapája foglalkozása?",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 78
+    },
+    {
+      "id": "p-248",
+      "hu": "11:32:32\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 83
+    },
+    {
+      "id": "p-296",
+      "hu": "16:32:03\t From HunLan Solutions : Ön hogy vagy?",
+      "en": null,
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 7
+    },
+    {
+      "id": "p-297",
+      "hu": "16:32:09\t From HunLan Solutions : És Ön? And you?",
+      "en": null,
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 8
+    },
+    {
+      "id": "p-298",
+      "hu": "17:34:12\t From HunLan Solutions : Mi a lány neve?",
+      "en": null,
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 22
+    },
+    {
+      "id": "p-299",
+      "hu": "17:34:49\t From HunLan Solutions : 2. Hol él a lány?",
+      "en": null,
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 27
+    },
+    {
+      "id": "p-300",
+      "hu": "17:35:11\t From HunLan Solutions : 3. Milyen nyelven beszél a lány?",
+      "en": null,
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 30
+    },
+    {
+      "id": "p-301",
+      "hu": "17:35:42\t From HunLan Solutions : 4. Mi a lány foglalkozása?",
+      "en": null,
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 34
+    },
+    {
+      "id": "p-302",
+      "hu": "17:36:06\t From HunLan Solutions : 5. Hány éves a lány?",
+      "en": null,
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 36
+    },
+    {
+      "id": "p-303",
+      "hu": "18:02:42\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 71
+    },
+    {
+      "id": "p-351",
+      "hu": "15:07:11\t From HunLan Solutions : Köszönöm szépen a szép munkát! Thank you for the nice job!",
+      "en": null,
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "p-352",
+      "hu": "15:07:43\t From HunLan Solutions : Mi a lány neve?",
+      "en": null,
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "p-353",
+      "hu": "15:08:05\t From HunLan Solutions : 2. Hol él a lány?",
+      "en": null,
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 5
+    },
+    {
+      "id": "p-354",
+      "hu": "15:08:23\t From HunLan Solutions : 3. Hány éves a lány?",
+      "en": null,
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 7
+    },
+    {
+      "id": "p-355",
+      "hu": "15:09:11\t From HunLan Solutions : 5. Mi a lány foglalkozása?",
+      "en": null,
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "p-356",
+      "hu": "15:29:32\t From HunLan Solutions : Milyen mérnök?",
+      "en": null,
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 35
+    },
+    {
+      "id": "p-357",
+      "hu": "16:34:16\t From HunLan Solutions : Nagyon boldog karácsonyt kívánok!",
+      "en": null,
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 66
+    },
+    {
+      "id": "p-385",
+      "hu": "16:31:45\t From HunLan Solutions : Boldog újévet!/ Happy New Year!",
+      "en": null,
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "p-386",
+      "hu": "16:49:30\t From HunLan Solutions : Hol él Flóra?",
+      "en": null,
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 6
+    },
+    {
+      "id": "p-387",
+      "hu": "16:49:57\t From HunLan Solutions : 2. Mi Flóra foglalkozása?",
+      "en": null,
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 8
+    },
+    {
+      "id": "p-388",
+      "hu": "16:50:21\t From HunLan Solutions : 3. Mi Balázs foglalkozása?",
+      "en": null,
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 10
+    },
+    {
+      "id": "p-389",
+      "hu": "16:50:37\t From HunLan Solutions : 4. Hol él Balázs?",
+      "en": null,
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "p-390",
+      "hu": "16:50:52\t From HunLan Solutions : 5. Milyen nyelven beszél Balázs?",
+      "en": null,
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "p-391",
+      "hu": "17:59:29\t From HunLan Solutions : Köszönöm a mai órát!",
+      "en": null,
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 45
+    },
+    {
+      "id": "p-392",
+      "hu": "17:59:40\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 46
+    },
+    {
+      "id": "p-412",
+      "hu": "18:00:07\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 5,
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 32
+    },
+    {
+      "id": "p-450",
+      "hu": "15:34:26\t From HunLan Solutions : És esik az eső?",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "p-451",
+      "hu": "15:34:44\t From HunLan Solutions : Esik a hó?",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "p-452",
+      "hu": "15:36:24\t From HunLan Solutions : Ott hány Fahrenheit van most?",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "p-453",
+      "hu": "15:36:42\t From HunLan Solutions : Fúj a szél?",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "p-454",
+      "hu": "15:37:55\t From HunLan Solutions : Hol él Szabolcs?",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 25
+    },
+    {
+      "id": "p-455",
+      "hu": "15:38:54\t From HunLan Solutions : 4. Milyen nemzetiségű Szabolcs barátnője?",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 31
+    },
+    {
+      "id": "p-456",
+      "hu": "15:39:26\t From HunLan Solutions : 5. Mi Szabolcs bátyjának a foglalkozása?",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 34
+    },
+    {
+      "id": "p-457",
+      "hu": "15:52:10\t From HunLan Solutions : anyai vagy apai nagymama és nagypapa?",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 46
+    },
+    {
+      "id": "p-458",
+      "hu": "16:34:45\t From HunLan Solutions : Köszönöm szépen a mai órát!",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 77
+    },
+    {
+      "id": "p-459",
+      "hu": "16:34:56\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 6,
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 78
+    },
+    {
+      "id": "p-525",
+      "hu": "17:05:13\t From HunLan Solutions : és ma?",
+      "en": null,
+      "lesson": 7,
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "p-537",
+      "hu": "18:03:14\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 8,
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "p-584",
+      "hu": "15:17:26\t From HunLan Solutions : Az apai nagyapám Magyarországon, Bakonyjákón született.",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "p-585",
+      "hu": "15:18:08\t From HunLan Solutions : Közel van Pápához és Győrhöz.",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 6
+    },
+    {
+      "id": "p-586",
+      "hu": "15:23:07\t From HunLan Solutions : A második világháború után.",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "p-587",
+      "hu": "15:57:15\t From HunLan Solutions : Mi az édesapja foglalkozása?",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 32
+    },
+    {
+      "id": "p-588",
+      "hu": "15:57:37\t From HunLan Solutions : Milyen mérnök?",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 34
+    },
+    {
+      "id": "p-589",
+      "hu": "15:58:10\t From HunLan Solutions : Mi az édesanyja foglalkozása?",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "p-590",
+      "hu": "15:58:27\t From HunLan Solutions : Az édesanyám családanya.",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 38
+    },
+    {
+      "id": "p-591",
+      "hu": "15:58:40\t From HunLan Solutions : Mi volt az apai nagyapja foglalkozása?",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 39
+    },
+    {
+      "id": "p-592",
+      "hu": "15:59:02\t From HunLan Solutions : A nagyapám szerelő volt.",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 40
+    },
+    {
+      "id": "p-593",
+      "hu": "16:25:06\t From HunLan Solutions : Melyik városban született?",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 57
+    },
+    {
+      "id": "p-594",
+      "hu": "16:25:15\t From HunLan Solutions : Hol született?",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 59
+    },
+    {
+      "id": "p-595",
+      "hu": "16:33:41\t From HunLan Solutions : Jó utat kívánok!",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 69
+    },
+    {
+      "id": "p-596",
+      "hu": "16:34:30\t From HunLan Solutions : Köszönöm szépen a mai órát!",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 73
+    },
+    {
+      "id": "p-597",
+      "hu": "16:34:43\t From HunLan Solutions : Szép hetet kívánok!",
+      "en": null,
+      "lesson": 9,
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 74
+    }
+  ]
+}

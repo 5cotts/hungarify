@@ -1,0 +1,74 @@
+15:08:09	 From HunLan Solutions : látnivaló-sightseeing
+15:08:55	 From HunLan Solutions : hős-hero
+15:26:45	 From HunLan Solutions : egyetem-university
+15:28:18	 From HunLan Solutions : Az Észak-Keleti Egyetemen végeztem.
+15:28:35	 From HunLan Solutions : Itt egy bachelor diplomát szereztem
+15:28:44	 From HunLan Solutions : diploma-University degree
+15:28:49	 From HunLan Solutions : szereztem-I got
+15:29:10	 From HunLan Solutions : Most a Pensylvaniai Egyetemen tanulok
+15:29:26	 From HunLan Solutions : Mesterképzésen tanulok
+15:29:33	 From HunLan Solutions : mesterképzés-master course
+15:29:57	 From HunLan Solutions : Milyen bachelor diplomája van?
+15:30:22	 From HunLan Solutions : közgazdász-economics
+15:30:28	 From HunLan Solutions : közgazdász diploma
+15:30:47	 From HunLan Solutions : A bachelor diplomám közgazdász
+15:31:02	 From HunLan Solutions : Mit tanul most?
+15:31:23	 From HunLan Solutions : Most informatikát tanulok
+15:31:34	 From HunLan Solutions : informatika-IT science
+15:31:53	 From HunLan Solutions : mert szoftvermérnök szeretnék lenni
+15:32:01	 From HunLan Solutions : szeretnék -I would like
+15:40:21	 From HunLan Solutions : ugatni-to barke
+15:40:28	 From HunLan Solutions : utca-street
+15:41:28	 From HunLan Solutions : tanuló, diák-student
+15:41:31	 From HunLan Solutions : levél-letter
+15:41:35	 From HunLan Solutions : írni-to write
+15:42:09	 From HunLan Solutions : népdal-folk song
+15:42:30	 From HunLan Solutions : énekelni-to sing
+15:42:38	 From HunLan Solutions : kulcs-key
+15:43:19	 From HunLan Solutions : olvasni-to read
+15:43:24	 From HunLan Solutions : fizetni-to pay
+15:43:35	 From HunLan Solutions : étterem-restaurant
+15:43:42	 From HunLan Solutions : vacsora-dinner
+15:43:46	 From HunLan Solutions : után-after
+15:44:07	 From HunLan Solutions : mesekönyv-tale book
+15:44:27	 From HunLan Solutions : válaszolni-to answer
+15:44:30	 From HunLan Solutions : tudni-can
+15:44:45	 From HunLan Solutions : kérdés-question
+15:44:49	 From HunLan Solutions : úszni-to swim
+15:45:40	 From HunLan Solutions : várni-to wait
+15:45:44	 From HunLan Solutions : mondani-to say
+15:48:52	 From HunLan Solutions : játék-toy, game
+15:48:57	 From HunLan Solutions : játszani-to play
+15:53:04	 From HunLan Solutions : segíteni-to help
+15:53:08	 From HunLan Solutions : segít-verb stem
+15:53:12	 From HunLan Solutions : tanítani-to teach
+15:53:18	 From HunLan Solutions : tanít-verb stem
+15:53:22	 From HunLan Solutions : küldeni-to send
+15:53:32	 From HunLan Solutions : küld-verb stem
+15:53:43	 From HunLan Solutions : mondani-to say
+15:53:48	 From HunLan Solutions : mond-verb stem
+16:01:14	 From HunLan Solutions : főzni-to cook
+16:01:18	 From HunLan Solutions : főz-verb stem
+16:01:24	 From HunLan Solutions : hozni-to bring
+16:01:27	 From HunLan Solutions : hoz-verb stem
+16:01:32	 From HunLan Solutions : keresni-to look for
+16:01:37	 From HunLan Solutions : keres-verb stem
+16:28:33	 From HunLan Solutions : választani-to choose
+16:28:36	 From HunLan Solutions : pair-pár
+16:29:20	 From HunLan Solutions : green-zöld
+16:29:23	 From HunLan Solutions : fű-grass
+16:30:22	 From HunLan Solutions : halál-death
+16:30:42	 From HunLan Solutions : feltámadás-resurection
+16:31:05	 From HunLan Solutions : to open-nyílni
+16:31:11	 From HunLan Solutions : kinyílni
+16:31:21	 From HunLan Solutions : virág-flower
+16:32:30	 From HunLan Solutions : madár-bird
+16:32:34	 From HunLan Solutions : ének-song
+16:33:17	 From HunLan Solutions : budding trees
+16:33:24	 From HunLan Solutions : fa-tree
+16:33:28	 From HunLan Solutions : fák-trees
+16:33:44	 From HunLan Solutions : rügy-bud
+16:39:00	 From HunLan Solutions : október 25, szerda-Wednesday
+16:39:06	 From HunLan Solutions : 2 óra-Budapesten
+16:39:41	 From HunLan Solutions : Szép hétvégét kívánok!
+16:39:47	 From HunLan Solutions : hétvége-weekend
