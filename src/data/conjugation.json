@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "conj-1",
+      "difficulty": "beginner",
+      "prompt": "Present, indefinite: ő (he/she) — eszik (to eat)",
+      "correctAnswer": "eszik",
+      "distractors": ["eszünk", "eszitek", "esznek"],
+      "explanation": "Third-person singular present indefinite of eszik is eszik (same as the stem for this verb)."
+    },
+    {
+      "id": "conj-2",
+      "difficulty": "beginner",
+      "prompt": "Present, indefinite: mi (we) — olvasni (to read) → present stem olvas-",
+      "correctAnswer": "olvasunk",
+      "distractors": ["olvasom", "olvastok", "olvasnak"],
+      "explanation": "First-person plural present indefinite uses the -unk ending: olvasunk."
+    },
+    {
+      "id": "conj-3",
+      "difficulty": "intermediate",
+      "prompt": "Present, definite: te (you) — ír (to write) + definite object",
+      "correctAnswer": "írod",
+      "distractors": ["írsz", "írom", "írják"],
+      "explanation": "Second-person singular present definite: írod."
+    },
+    {
+      "id": "conj-4",
+      "difficulty": "intermediate",
+      "prompt": "Present, indefinite: ők (they) — jön (to come)",
+      "correctAnswer": "jönnek",
+      "distractors": ["jön", "jövünk", "jöttök"],
+      "explanation": "Third-person plural present indefinite of jön is jönnek."
+    },
+    {
+      "id": "conj-5",
+      "difficulty": "advanced",
+      "prompt": "Present, definite: ő (he/she) — lát (to see) + definite object",
+      "correctAnswer": "látja",
+      "distractors": ["lát", "látod", "látjuk"],
+      "explanation": "Third-person singular present definite of lát is látja."
+    }
+  ]
+}

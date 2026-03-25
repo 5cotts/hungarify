@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "id": "wo-1",
+      "difficulty": "beginner",
+      "prompt": "Arrange into a natural Hungarian sentence (neutral order):",
+      "promptEnglish": "I do not eat meat.",
+      "words": ["én", "nem", "eszek", "húst"],
+      "correctOrder": ["én", "nem", "eszek", "húst"],
+      "explanation": "Negation nem stands immediately before the verb: én nem eszek húst."
+    },
+    {
+      "id": "wo-2",
+      "difficulty": "beginner",
+      "prompt": "Arrange into a natural Hungarian sentence:",
+      "promptEnglish": "Peter reads a book today.",
+      "words": ["Péter", "ma", "olvas", "egy", "könyvet"],
+      "correctOrder": ["Péter", "ma", "olvas", "egy", "könyvet"],
+      "explanation": "Time adverb ma often comes early; subject Péter, then verb olvas with object egy könyvet."
+    },
+    {
+      "id": "wo-3",
+      "difficulty": "intermediate",
+      "prompt": "Arrange into a natural Hungarian sentence (focus on 'te'):",
+      "promptEnglish": "YOU are going to the cinema (not someone else).",
+      "words": ["te", "mész", "a", "moziba"],
+      "correctOrder": ["te", "mész", "a", "moziba"],
+      "explanation": "Focus on te: te mesz a moziba — pronoun before verb when emphasized."
+    },
+    {
+      "id": "wo-4",
+      "difficulty": "advanced",
+      "prompt": "Arrange into a natural Hungarian sentence:",
+      "promptEnglish": "I see the dog.",
+      "words": ["látom", "a", "kutyát"],
+      "correctOrder": ["látom", "a", "kutyát"],
+      "explanation": "Definite conjugation látom with definite object a kutyát; verb can lead in neutral contexts."
+    }
+  ]
+}

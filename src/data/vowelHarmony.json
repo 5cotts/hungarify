@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "vh-1",
+      "difficulty": "beginner",
+      "kind": "classify",
+      "prompt": "What is the vowel harmony class of 'kert' (garden)?",
+      "correctAnswer": "front unrounded",
+      "distractors": ["back", "front rounded"],
+      "explanation": "The vowels e in kert are front unrounded; suffixes use front variants (e.g. -ben, not -ban)."
+    },
+    {
+      "id": "vh-2",
+      "difficulty": "beginner",
+      "kind": "classify",
+      "prompt": "What is the vowel harmony class of 'ház' (house)?",
+      "correctAnswer": "back",
+      "distractors": ["front unrounded", "front rounded"],
+      "explanation": "á is a back vowel; suffixes take back variants (e.g. -ban, -nak)."
+    },
+    {
+      "id": "vh-3",
+      "difficulty": "intermediate",
+      "kind": "suffix",
+      "prompt": "Choose the correct form: kert + inessive (in the garden)",
+      "correctAnswer": "kertben",
+      "distractors": ["kertban", "kertbe", "kerthez"],
+      "explanation": "Front unrounded stem kert takes -ben: kertben."
+    },
+    {
+      "id": "vh-4",
+      "difficulty": "intermediate",
+      "kind": "suffix",
+      "prompt": "Choose the correct form: föld + superessive (on the ground)",
+      "correctAnswer": "földön",
+      "distractors": ["földen", "földán", "asztalon"],
+      "explanation": "Mixed vowels: ö triggers front rounded harmony; superessive is -ön here: földön."
+    },
+    {
+      "id": "vh-5",
+      "difficulty": "advanced",
+      "kind": "classify",
+      "prompt": "What is the vowel harmony class of 'tükör' (mirror)?",
+      "correctAnswer": "front rounded",
+      "distractors": ["back", "front unrounded"],
+      "explanation": "ü and ö are front rounded vowels; suffixes use ö/ü variants (e.g. -höz, -ből)."
+    }
+  ]
+}

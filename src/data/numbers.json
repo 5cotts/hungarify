@@ -1,0 +1,49 @@
+{
+  "items": [
+    {
+      "id": "num-1",
+      "difficulty": "beginner",
+      "kind": "multipleChoice",
+      "prompt": "How do you say the number 5?",
+      "correctAnswer": "öt",
+      "distractors": ["hat", "négy", "három"],
+      "explanation": "5 is öt in Hungarian."
+    },
+    {
+      "id": "num-2",
+      "difficulty": "beginner",
+      "kind": "fillIn",
+      "prompt": "Write the Hungarian word for 10:",
+      "correctAnswer": "tíz",
+      "distractors": [],
+      "explanation": "10 is tíz."
+    },
+    {
+      "id": "num-3",
+      "difficulty": "intermediate",
+      "kind": "multipleChoice",
+      "prompt": "How do you say 23?",
+      "correctAnswer": "huszonhárom",
+      "distractors": ["húszonhárom", "kettőhárom", "háromhúsz"],
+      "explanation": "23 is huszonhárom (huszon- + három)."
+    },
+    {
+      "id": "num-4",
+      "difficulty": "intermediate",
+      "kind": "multipleChoice",
+      "prompt": "Half past three (3:30) — common spoken form:",
+      "correctAnswer": "fél négy",
+      "distractors": ["három és fél", "négy és fél", "fél három"],
+      "explanation": "Hungarian often names the next hour: fél négy = half toward four = 3:30."
+    },
+    {
+      "id": "num-5",
+      "difficulty": "advanced",
+      "kind": "fillIn",
+      "prompt": "Write the Hungarian word for 100:",
+      "correctAnswer": "száz",
+      "distractors": [],
+      "explanation": "100 is száz."
+    }
+  ]
+}

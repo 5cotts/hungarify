@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "id": "case-1",
+      "difficulty": "beginner",
+      "prompt": "Inessive (in): ház (house) — back harmony",
+      "correctAnswer": "házban",
+      "distractors": ["házben", "házba", "háznak"],
+      "explanation": "Back-vowel stem takes -ban: házban (in the house)."
+    },
+    {
+      "id": "case-2",
+      "difficulty": "beginner",
+      "prompt": "Dative (to/for): barát (friend) — back harmony",
+      "correctAnswer": "barátnak",
+      "distractors": ["barátnék", "baráthoz", "baráton"],
+      "explanation": "Dative uses -nak after back vowels: barátnak."
+    },
+    {
+      "id": "case-3",
+      "difficulty": "intermediate",
+      "prompt": "Illative (into): üzlet (shop) — front unrounded",
+      "correctAnswer": "üzletbe",
+      "distractors": ["üzletba", "üzletben", "üzletre"],
+      "explanation": "Front unrounded harmony uses -be for illative: üzletbe."
+    },
+    {
+      "id": "case-4",
+      "difficulty": "intermediate",
+      "prompt": "Instrumental (with): autó (car) — back harmony",
+      "correctAnswer": "autóval",
+      "distractors": ["autóvel", "autónál", "autóhoz"],
+      "explanation": "V-final assimilation: autó + -val → autóval."
+    },
+    {
+      "id": "case-5",
+      "difficulty": "advanced",
+      "prompt": "Sublative (onto): asztal (table) — back harmony",
+      "correctAnswer": "asztalra",
+      "distractors": ["asztalre", "asztalon", "asztalhoz"],
+      "explanation": "Back harmony uses -ra: asztalra (onto the table)."
+    }
+  ]
+}
