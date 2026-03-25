@@ -1,14 +1,29 @@
 /**
  * Build src/data/knowledge/*.json from knowledge-source/ (or KNOWLEDGE_SOURCE).
  * Run: npm run ingest:knowledge
- * PDF OCR: npm run ingest:knowledge -- --pdf [--pdf-max-pages=N] [--pdf-include=regex]
+ * PDF OCR: npm run ingest:knowledge -- --pdf [--pdf-max-pages=N] [--include=regex]
+ * Incremental cache: --pdf-incremental --pdf-rebuild --pdf-cache-dir=<path>
  */
 import * as fs from 'node:fs';
 import * as path from 'node:path';
 
+import {
+  defaultSourceCacheDir,
+  defaultSourceCachePath,
+  getAllCachedPdfItems,
+  loadSourceCache,
+  removeNonPdfCacheEntries,
+  removePdfCacheEntries,
+  saveSourceCache,
+  sourceFingerprintForFile,
+  upsertNonPdfCacheEntry,
+  upsertPdfCacheEntry,
+} from './lib/sourceCache';
 import { normalizeKey } from './lib/normalize';
+import type { ParsedPhrase, ParsedRule, ParsedVocab } from './lib/parseChat';
 import { dedupeVocab, parseChatFile } from './lib/parseChat';
 import { dedupeMdVocab, parseMarkdownFile } from './lib/parseMarkdown';
+import { parseWordFile } from './lib/parseWord';
 
 const ROOT = process.cwd();
 const DEFAULT_SOURCE = path.join(ROOT, 'knowledge-source');
@@ -155,30 +170,55 @@ function difficultyForWordOrder(n: number): 'beginner' | 'intermediate' | 'advan
 type IngestCli = {
   pdf: boolean;
   pdfMaxPages?: number;
-  pdfInclude?: RegExp;
+  include?: RegExp;
+  pdfIncremental: boolean;
+  pdfRebuild: boolean;
+  sourceCacheDir?: string;
 };
 
 function parseIngestCli(argv: string[]): IngestCli {
   const pdf = argv.includes('--pdf');
+  const pdfRebuild = argv.includes('--pdf-rebuild');
+  let pdfIncremental = pdf;
   let pdfMaxPages: number | undefined;
-  let pdfInclude: RegExp | undefined;
+  let include: RegExp | undefined;
+  let sourceCacheDir: string | undefined;
   for (const a of argv) {
+    if (a === '--pdf-incremental') {
+      pdfIncremental = true;
+    }
     if (a.startsWith('--pdf-max-pages=')) {
       const raw = a.slice('--pdf-max-pages='.length).trim();
       if (raw === '') continue;
       const n = parseInt(raw, 10);
       if (!Number.isNaN(n) && n >= 0) pdfMaxPages = n;
     }
+    if (a.startsWith('--include=')) {
+      const pat = a.slice('--include='.length);
+      try {
+        include = new RegExp(pat);
+      } catch {
+        console.warn('Invalid --include regex, ignoring:', pat);
+      }
+    }
     if (a.startsWith('--pdf-include=')) {
       const pat = a.slice('--pdf-include='.length);
       try {
-        pdfInclude = new RegExp(pat);
+        include = new RegExp(pat);
       } catch {
         console.warn('Invalid --pdf-include regex, ignoring:', pat);
       }
     }
+    if (a.startsWith('--source-cache-dir=')) {
+      const p = a.slice('--source-cache-dir='.length).trim();
+      if (p) sourceCacheDir = path.resolve(p);
+    }
+    if (a.startsWith('--pdf-cache-dir=')) {
+      const p = a.slice('--pdf-cache-dir='.length).trim();
+      if (p) sourceCacheDir = path.resolve(p);
+    }
   }
-  return { pdf, pdfMaxPages, pdfInclude };
+  return { pdf, pdfMaxPages, include, pdfIncremental, pdfRebuild, sourceCacheDir };
 }
 
 function vocabExplanation(v: VocabOut): string {
@@ -203,6 +243,9 @@ async function main() {
   }
 
   fs.mkdirSync(OUT_DIR, { recursive: true });
+  const cacheDir = cli.sourceCacheDir ?? defaultSourceCacheDir(ROOT);
+  const cachePath = defaultSourceCachePath(cacheDir);
+  const cache = loadSourceCache(cachePath);
 
   const lessons: LessonMeta[] = [];
   const vocabAll: VocabOut[] = [];
@@ -232,7 +275,34 @@ async function main() {
   }
   lessons.sort((a, b) => a.lessonNumber - b.lessonNumber);
 
+  const knownNonPdf = relFiles.filter((rel) => {
+    const ext = path.extname(rel).toLowerCase();
+    if (ext === '.md') {
+      const parts = rel.split(path.sep);
+      return parts.length === 1;
+    }
+    if (ext === '.txt') {
+      const base = path.basename(rel).toLowerCase();
+      return base === 'chat.txt' || base.startsWith('chat');
+    }
+    if (ext === '.doc' || ext === '.docx') return true;
+    return false;
+  });
+  const nonPdfRemoved = removeNonPdfCacheEntries(
+    cache,
+    Object.keys(cache.nonPdfEntries).filter((src) => !knownNonPdf.includes(src))
+  );
+
+  const nonPdfReport = {
+    filesScanned: 0,
+    cacheHits: 0,
+    cacheMisses: 0,
+    filesReprocessed: 0,
+    filesRemoved: nonPdfRemoved,
+  };
+
   for (const rel of relFiles) {
+    if (cli.include && !cli.include.test(rel)) continue;
     const ext = path.extname(rel).toLowerCase();
     const fullPath = path.join(sourceRoot, rel);
     const parts = rel.split(path.sep);
@@ -241,9 +311,30 @@ async function main() {
     const lessonNum = lessonInfo?.num ?? null;
 
     if (parts.length === 1 && ext === '.md') {
-      const raw = fs.readFileSync(fullPath, 'utf8');
-      const { vocab: mv, rules: mr } = parseMarkdownFile(raw, rel);
-      const mdV = dedupeMdVocab(mv);
+      nonPdfReport.filesScanned++;
+      const fp = sourceFingerprintForFile(fullPath);
+      const cached = cache.nonPdfEntries[rel];
+      let mdV: ReturnType<typeof dedupeMdVocab>;
+      let mr: ReturnType<typeof parseMarkdownFile>['rules'];
+      if (cached && cached.sourceType === 'markdown' && cached.fingerprint === fp) {
+        nonPdfReport.cacheHits++;
+        mdV = dedupeMdVocab(cached.vocab);
+        mr = cached.rules;
+      } else {
+        nonPdfReport.cacheMisses++;
+        nonPdfReport.filesReprocessed++;
+        const raw = fs.readFileSync(fullPath, 'utf8');
+        const parsed = parseMarkdownFile(raw, rel);
+        mdV = dedupeMdVocab(parsed.vocab);
+        mr = parsed.rules;
+        upsertNonPdfCacheEntry(cache, {
+          sourceFile: rel,
+          sourceType: 'markdown',
+          fingerprint: fp,
+          vocab: mdV,
+          rules: mr,
+        });
+      }
       for (const v of mdV) {
         vocabAll.push({
           id: nextId('v'),
@@ -270,8 +361,38 @@ async function main() {
 
     const base = path.basename(rel).toLowerCase();
     if (ext === '.txt' && (base === 'chat.txt' || base.startsWith('chat'))) {
-      const raw = fs.readFileSync(fullPath, 'utf8');
-      const { vocab, phrases, rules, skippedLines } = parseChatFile(raw, rel, lessonNum);
+      nonPdfReport.filesScanned++;
+      const fp = sourceFingerprintForFile(fullPath);
+      const cached = cache.nonPdfEntries[rel];
+      let vocab: ParsedVocab[];
+      let phrases: ParsedPhrase[];
+      let rules: ParsedRule[];
+      let skippedLines: number;
+      if (cached && cached.sourceType === 'chat' && cached.fingerprint === fp) {
+        nonPdfReport.cacheHits++;
+        vocab = cached.vocab;
+        phrases = cached.phrases;
+        rules = cached.rules;
+        skippedLines = cached.skippedLines;
+      } else {
+        nonPdfReport.cacheMisses++;
+        nonPdfReport.filesReprocessed++;
+        const raw = fs.readFileSync(fullPath, 'utf8');
+        const parsed = parseChatFile(raw, rel, lessonNum);
+        vocab = parsed.vocab;
+        phrases = parsed.phrases;
+        rules = parsed.rules;
+        skippedLines = parsed.skippedLines;
+        upsertNonPdfCacheEntry(cache, {
+          sourceFile: rel,
+          sourceType: 'chat',
+          fingerprint: fp,
+          vocab,
+          phrases,
+          rules,
+          skippedLines,
+        });
+      }
       skippedChatLines += skippedLines;
       const dv = dedupeVocab(vocab);
       for (const v of dv) {
@@ -306,6 +427,79 @@ async function main() {
         });
       }
     }
+
+    if (ext === '.doc' || ext === '.docx') {
+      nonPdfReport.filesScanned++;
+      const fp = sourceFingerprintForFile(fullPath);
+      const cached = cache.nonPdfEntries[rel];
+      let vocab: ParsedVocab[];
+      let phrases: ParsedPhrase[];
+      let rules: ParsedRule[];
+      let skippedLines: number;
+      if (cached && cached.sourceType === 'word' && cached.fingerprint === fp) {
+        nonPdfReport.cacheHits++;
+        vocab = cached.vocab;
+        phrases = cached.phrases;
+        rules = cached.rules;
+        skippedLines = cached.skippedLines;
+      } else {
+        nonPdfReport.cacheMisses++;
+        nonPdfReport.filesReprocessed++;
+        const parsed = await parseWordFile({
+          absPath: fullPath,
+          sourceFile: rel,
+          lesson: lessonNum,
+          ext: ext as '.doc' | '.docx',
+        });
+        vocab = parsed.vocab;
+        phrases = parsed.phrases;
+        rules = parsed.rules;
+        skippedLines = parsed.skippedLines;
+        upsertNonPdfCacheEntry(cache, {
+          sourceFile: rel,
+          sourceType: 'word',
+          fingerprint: fp,
+          vocab,
+          phrases,
+          rules,
+          skippedLines,
+        });
+      }
+
+      skippedChatLines += skippedLines;
+      const dv = dedupeVocab(vocab);
+      for (const v of dv) {
+        vocabAll.push({
+          id: nextId('v'),
+          hu: v.hu,
+          en: v.en,
+          lesson: v.lesson,
+          tags: ['word'],
+          sourceFile: v.sourceFile,
+          lineIndex: v.lineIndex,
+        });
+      }
+      for (const p of phrases) {
+        phrasesAll.push({
+          id: nextId('p'),
+          hu: p.hu,
+          en: p.en,
+          lesson: p.lesson,
+          sourceFile: p.sourceFile,
+          lineIndex: p.lineIndex,
+        });
+      }
+      for (const r of rules) {
+        rulesAll.push({
+          id: nextId('r'),
+          topic: 'word',
+          ruleText: r.ruleText,
+          lesson: r.lesson,
+          sourceFile: r.sourceFile,
+          lineIndex: r.lineIndex,
+        });
+      }
+    }
   }
 
   const pdfReport = {
@@ -315,25 +509,114 @@ async function main() {
     pdfItemsExtracted: 0,
     pdfItemsKept: 0,
     pdfItemsDroppedLowConfidence: 0,
+    sourceCacheHits: 0,
+    sourceCacheMisses: 0,
+    sourceFilesReprocessed: 0,
+    sourceFilesRemoved: 0,
   };
 
   if (cli.pdf) {
     const { runPdfOcrIngest } = await import('./lib/parsePdf');
     const { terminateOcrWorker } = await import('./lib/ocr');
+    const pdfRels = relFiles.filter((rel) => path.extname(rel).toLowerCase() === '.pdf').sort();
+    const removed = removePdfCacheEntries(
+      cache,
+      Object.keys(cache.pdfEntries).filter((src) => !pdfRels.includes(src))
+    );
+    pdfReport.sourceFilesRemoved = removed;
+
+    const selected = cli.include ? pdfRels.filter((r) => cli.include!.test(r)) : pdfRels;
+    const reprocess: string[] = [];
+    for (const rel of selected) {
+      const abs = path.join(sourceRoot, rel);
+      let fp = '';
+      try {
+        fp = sourceFingerprintForFile(abs);
+      } catch {
+        // unreadable file will be skipped in OCR stage
+      }
+      const entry = cache.pdfEntries[rel];
+      if (!entry || entry.fingerprint !== fp || cli.pdfRebuild || !cli.pdfIncremental) {
+        reprocess.push(rel);
+        pdfReport.sourceCacheMisses++;
+      } else {
+        pdfReport.sourceCacheHits++;
+      }
+    }
+
     try {
-      const { vocab: pv, phrases: pp, rules: pr, stats } = await runPdfOcrIngest({
-        sourceRoot,
-        relFiles,
-        maxTotalPages: cli.pdfMaxPages,
-        includeRegex: cli.pdfInclude,
-      });
-      pdfReport.pdfFilesScanned = stats.pdfFilesScanned;
+      let pv: ParsedVocab[] = [];
+      let pp: ParsedPhrase[] = [];
+      let pr: ParsedRule[] = [];
+      let stats = {
+        pdfFilesScanned: selected.length,
+        pdfPagesOcrd: 0,
+        pdfItemsExtracted: 0,
+        pdfItemsKept: 0,
+        pdfItemsDroppedLowConfidence: 0,
+      };
+      if (reprocess.length > 0) {
+        const out = await runPdfOcrIngest({
+          sourceRoot,
+          relFiles,
+          targetPdfRels: reprocess,
+          maxTotalPages: cli.pdfMaxPages,
+        });
+        pv = out.vocab;
+        pp = out.phrases;
+        pr = out.rules;
+        stats = out.stats;
+        pdfReport.sourceFilesReprocessed = reprocess.length;
+
+        for (const rel of reprocess) {
+          const abs = path.join(sourceRoot, rel);
+          let fp = '';
+          try {
+            fp = sourceFingerprintForFile(abs);
+          } catch {
+            continue;
+          }
+          const byFile = out.bySourceFile[rel];
+          upsertPdfCacheEntry(cache, {
+            sourceFile: rel,
+            fingerprint: fp,
+            vocab: byFile?.vocab ?? [],
+            phrases: byFile?.phrases ?? [],
+            rules: byFile?.rules ?? [],
+          });
+        }
+      }
+      const cached = getAllCachedPdfItems(cache);
+      pv = cached.vocab;
+      pp = cached.phrases;
+      pr = cached.rules;
+
+      pdfReport.pdfFilesScanned = selected.length;
       pdfReport.pdfPagesOcrd = stats.pdfPagesOcrd;
       pdfReport.pdfItemsExtracted = stats.pdfItemsExtracted;
       pdfReport.pdfItemsKept = stats.pdfItemsKept;
       pdfReport.pdfItemsDroppedLowConfidence = stats.pdfItemsDroppedLowConfidence;
 
-      const pdfVocab = dedupeVocab(pv);
+      const pdfVocab = dedupeVocab(
+        pv.sort(
+          (a, b) =>
+            a.sourceFile.localeCompare(b.sourceFile) ||
+            (a.pageNumber ?? 0) - (b.pageNumber ?? 0) ||
+            a.lineIndex - b.lineIndex
+        )
+      );
+      pp.sort(
+        (a, b) =>
+          a.sourceFile.localeCompare(b.sourceFile) ||
+          (a.pageNumber ?? 0) - (b.pageNumber ?? 0) ||
+          a.lineIndex - b.lineIndex
+      );
+      pr.sort(
+        (a, b) =>
+          a.sourceFile.localeCompare(b.sourceFile) ||
+          (a.pageNumber ?? 0) - (b.pageNumber ?? 0) ||
+          a.lineIndex - b.lineIndex
+      );
       for (const v of pdfVocab) {
         vocabAll.push({
           id: nextId('v'),
@@ -378,6 +661,8 @@ async function main() {
       await terminateOcrWorker();
     }
   }
+
+  saveSourceCache(cachePath, cache);
 
   const vocabDedup: VocabOut[] = [];
   const vseen = new Set<string>();
@@ -443,6 +728,11 @@ async function main() {
       drillSeeds: seeds.length,
       skippedChatLines,
     },
+    ingest: {
+      nonPdf: nonPdfReport,
+      pdf: pdfReport,
+    },
+    // Backward-compatible location for existing tooling.
     pdf: pdfReport,
   };
 
@@ -453,7 +743,11 @@ async function main() {
   fs.writeFileSync(path.join(OUT_DIR, 'drillSeeds.json'), JSON.stringify({ seeds }, null, 2));
   fs.writeFileSync(path.join(OUT_DIR, 'ingestion-report.json'), JSON.stringify(report, null, 2));
 
-  console.log('Ingest complete:', report.counts, cli.pdf ? report.pdf : '');
+  console.log(
+    'Ingest complete:',
+    report.counts,
+    cli.pdf ? report.ingest : { nonPdf: report.ingest.nonPdf }
+  );
 }
 
 main().catch((err) => {

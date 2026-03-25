@@ -27,10 +27,10 @@ Open the project in **Expo Go** on an iPhone (scan the QR code), or press `i` fo
 
 ### Personal knowledge ingest
 
-The app bundles structured data built from `knowledge-source/` (top-level `*.md` and lesson `chat*.txt` files).
+The app bundles structured data built from `knowledge-source/` (`*.md`, lesson `chat*.txt`, and now `.doc/.docx`; add `--pdf` for OCR PDFs).
 
 - **Source directory:** defaults to `./knowledge-source` in the repo. Override with `KNOWLEDGE_SOURCE=/path/to/dir`.
-- **Regenerate JSON:** `npm run ingest:knowledge` (markdown + chat only). Add `--pdf` to merge OCR from all `*.pdf` files as well (slower).
+- **Regenerate JSON:** `npm run ingest:knowledge` (`.md`, `chat*.txt`, `.doc`, `.docx`). Add `--pdf` to merge OCR from all `*.pdf` files as well (slower).
 - **Quality report:** `src/data/knowledge/ingestion-report.json` (counts, skipped chat lines, and optional PDF OCR stats).
 - After ingest, reload Metro so Reference and drills pick up changes.
 
@@ -42,7 +42,11 @@ All `*.pdf` files under the knowledge source are **not** processed unless you op
 
 - **Run:** `npm run ingest:knowledge -- --pdf`
 - **Limit pages (faster iteration):** `--pdf-max-pages=20` caps total pages OCR’d across all PDFs.
-- **Subset by path:** `--pdf-include=regex` only includes PDFs whose relative path matches (e.g. `--pdf-include=3\\.\\s` for lesson 3 folders).
+- **Subset by path (all source files):** `--include=regex` filters markdown/chat/PDF by relative path (e.g. `--include='^3\\. [^/]+/'` for lesson 3). `--pdf-include` remains as a compatibility alias.
+- **Word docs:** `.docx` is parsed via Mammoth, `.doc` via WordExtractor, then fed through the same vocab/rule/phrase heuristics and cache.
+- **Incremental cache (default with `--pdf`):** caches markdown/chat/PDF parse results. Only changed files are reprocessed; outputs are rebuilt from cache for deterministic full datasets.
+- **Force full OCR rebuild:** add `--pdf-rebuild`.
+- **Custom cache location:** `--source-cache-dir=/absolute/path` (`--pdf-cache-dir` still works as a compatibility alias).
 
 **Prerequisites:** `npm install` must have completed so `@napi-rs/canvas`, `pdfjs-dist`, and `tesseract.js` are present. The first OCR run may download `hun`/`eng` traineddata (needs network once).
 

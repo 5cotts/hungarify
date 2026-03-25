@@ -1,2360 +1,752 @@
 {
   "items": [
     {
-      "id": "r-598",
-      "topic": "Hello / Goodbye",
-      "ruleText": "**Szia!** → Hi / Hello (informal)",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 4
-    },
-    {
-      "id": "r-599",
-      "topic": "Hello / Goodbye",
-      "ruleText": "**Sziasztok!** → Hi everyone",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 5
-    },
-    {
-      "id": "r-600",
-      "topic": "Hello / Goodbye",
-      "ruleText": "**Jó napot!** → Good day (formal)",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 6
-    },
-    {
-      "id": "r-601",
-      "topic": "Hello / Goodbye",
-      "ruleText": "**Viszlát!** → Goodbye",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 7
-    },
-    {
-      "id": "r-602",
-      "topic": "Hello / Goodbye",
-      "ruleText": "**Szia!** → Bye (informal)",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 8
-    },
-    {
-      "id": "r-603",
-      "topic": "Asking “How are you?”",
-      "ruleText": "**Hogy vagy?** → How are you? (informal)",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 11
-    },
-    {
-      "id": "r-604",
-      "topic": "Asking “How are you?”",
-      "ruleText": "**Hogy van?** → How are you? (formal)",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 12
-    },
-    {
-      "id": "r-605",
-      "topic": "Asking “How are you?”",
-      "ruleText": "**Hogy vagytok?** → How are you all? (informal plural)",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 13
-    },
-    {
-      "id": "r-606",
-      "topic": "Asking “How are you?”",
-      "ruleText": "**Hogy vannak?** → How are you? (formal plural)",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 14
-    },
-    {
-      "id": "r-607",
-      "topic": "Common Replies",
-      "ruleText": "**Jól vagyok.** → I’m good / I’m well",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 17
-    },
-    {
-      "id": "r-608",
-      "topic": "Common Replies",
-      "ruleText": "**Jól.** → Good.",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 18
-    },
-    {
-      "id": "r-609",
-      "topic": "Common Replies",
-      "ruleText": "**Nagyon jól.** → Very well",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 19
-    },
-    {
-      "id": "r-610",
-      "topic": "Common Replies",
-      "ruleText": "**Köszönöm, jól.** → Thank you, I’m well",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 20
-    },
-    {
-      "id": "r-611",
-      "topic": "Common Replies",
-      "ruleText": "**Nem rosszul.** → Not bad",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 21
-    },
-    {
-      "id": "r-612",
-      "topic": "Common Replies",
-      "ruleText": "**Megvagyok.** → I’m okay / getting by",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 22
-    },
-    {
-      "id": "r-613",
-      "topic": "Polite Words",
-      "ruleText": "**Köszönöm. / Köszi.** → Thank you (formal / informal)",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 25
-    },
-    {
-      "id": "r-614",
-      "topic": "Polite Words",
-      "ruleText": "**Kérem.** → Please / You’re welcome (formal)",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 26
-    },
-    {
-      "id": "r-615",
-      "topic": "Polite Words",
-      "ruleText": "**Szívesen.** → You’re welcome",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 27
-    },
-    {
-      "id": "r-616",
-      "topic": "Typical Mini-Dialogue",
-      "ruleText": "**Szia! Hogy vagy?**",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 30
-    },
-    {
-      "id": "r-617",
-      "topic": "Typical Mini-Dialogue",
-      "ruleText": "**Jól vagyok, köszönöm. És te?**",
-      "lesson": null,
-      "sourceFile": "hungarian_basic_greeting_cheat_sheet.md",
-      "lineIndex": 31
-    },
-    {
-      "id": "r-642",
-      "topic": "Overview",
-      "ruleText": "**-ban/-ben** = Inessive case (\"in\" / \"inside\")",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 6
-    },
-    {
-      "id": "r-643",
-      "topic": "Overview",
-      "ruleText": "**-n/-on/-en/-ön** = Superessive case (\"on\" / \"at\")",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 7
-    },
-    {
-      "id": "r-644",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ban** = for **low vowel words** (a, á, o, ó, u, ú)",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 15
-    },
-    {
-      "id": "r-645",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ben** = for **high/mixed vowel words** (i, í, é, e, ö, ő, ü, ű)",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 16
-    },
-    {
-      "id": "r-646",
-      "topic": "Usage Examples",
-      "ruleText": "**\"A könyv a házban van\"** = The book is in the house",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 30
-    },
-    {
-      "id": "r-647",
-      "topic": "Usage Examples",
-      "ruleText": "**\"A macska a dobozban van\"** = The cat is in the box",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 31
-    },
-    {
-      "id": "r-648",
-      "topic": "Usage Examples",
-      "ruleText": "**\"Autóban ülök\"** = I'm sitting in the car",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 32
-    },
-    {
-      "id": "r-649",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-n/-on** = for **low vowel words** (a, á, o, ó, u, ú)",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 42
-    },
-    {
-      "id": "r-650",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-en/-ön** = for **high/mixed vowel words** (i, í, é, e, ö, ő, ü, ű)",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 43
-    },
-    {
-      "id": "r-651",
-      "topic": "Usage Examples",
-      "ruleText": "**\"A könyv az asztalon van\"** = The book is on the table",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 56
-    },
-    {
-      "id": "r-652",
-      "topic": "Usage Examples",
-      "ruleText": "**\"A macska a padon van\"** = The cat is on the bench",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 57
-    },
-    {
-      "id": "r-653",
-      "topic": "Usage Examples",
-      "ruleText": "**\"A madár a házon van\"** = The bird is on the house",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 58
-    },
-    {
-      "id": "r-654",
-      "topic": "Use -ban/-ben when:",
-      "ruleText": "Something is **inside** or **within** boundaries",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 65
-    },
-    {
-      "id": "r-655",
-      "topic": "Use -ban/-ben when:",
-      "ruleText": "Referring to containers, buildings, enclosed spaces",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 66
-    },
-    {
-      "id": "r-656",
-      "topic": "Use -ban/-ben when:",
-      "ruleText": "in a room → **szobában**",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 68
-    },
-    {
-      "id": "r-657",
-      "topic": "Use -ban/-ben when:",
-      "ruleText": "in a box → **dobozban**",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 69
-    },
-    {
-      "id": "r-658",
-      "topic": "Use -ban/-ben when:",
-      "ruleText": "in a car → **autóban**",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 70
-    },
-    {
-      "id": "r-659",
-      "topic": "Use -ban/-ben when:",
-      "ruleText": "in a house → **házban**",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 71
-    },
-    {
-      "id": "r-660",
-      "topic": "Use -n/-on/-en/-ön when:",
-      "ruleText": "Something is **on top of** something",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 74
-    },
-    {
-      "id": "r-661",
-      "topic": "Use -n/-on/-en/-ön when:",
-      "ruleText": "Referring to surfaces",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 75
-    },
-    {
-      "id": "r-662",
-      "topic": "Use -n/-on/-en/-ön when:",
-      "ruleText": "**Many city names** (even though it means \"in\")",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 76
-    },
-    {
-      "id": "r-663",
-      "topic": "Use -n/-on/-en/-ön when:",
-      "ruleText": "on a table → **asztalon**",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 78
-    },
-    {
-      "id": "r-664",
-      "topic": "Use -n/-on/-en/-ön when:",
-      "ruleText": "on a chair → **széken**",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 79
-    },
-    {
-      "id": "r-665",
-      "topic": "Use -n/-on/-en/-ön when:",
-      "ruleText": "in Budapest → **Budapesten**",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 80
-    },
-    {
-      "id": "r-666",
-      "topic": "Use -n/-on/-en/-ön when:",
-      "ruleText": "in New York → **New Yorkban** (some cities use -ban)",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 81
-    },
-    {
-      "id": "r-667",
-      "topic": "Special Cases: Cities and Places",
-      "ruleText": "**Párizsban** = in Paris",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 97
-    },
-    {
-      "id": "r-668",
-      "topic": "Special Cases: Cities and Places",
-      "ruleText": "**Londonban** = in London",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 98
-    },
-    {
-      "id": "r-669",
-      "topic": "Key Points",
-      "ruleText": "Low vowels (a, á, o, ó, u, ú) → -ban, -n/-on",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 121
-    },
-    {
-      "id": "r-670",
-      "topic": "Key Points",
-      "ruleText": "High/mixed vowels (i, í, é, e, ö, ő, ü, ű) → -ben, -en/-ön",
-      "lesson": null,
-      "sourceFile": "hungarian_locative_cases.md",
-      "lineIndex": 122
-    },
-    {
-      "id": "r-684",
-      "topic": "Vowel Types",
-      "ruleText": "**High (Front) vowels**: i, í, é, ö, ő, ü, ű",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 4
-    },
-    {
-      "id": "r-685",
-      "topic": "Vowel Types",
-      "ruleText": "**Low (Back) vowels**: a, á, o, ó, u, ú",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 5
-    },
-    {
-      "id": "r-686",
-      "topic": "Vowel Types",
-      "ruleText": "**Mixed (Neutral) vowels**: e (can go with either)",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 6
-    },
-    {
-      "id": "r-687",
-      "topic": "1st Person Singular (-m)",
-      "ruleText": "**High vowel words**: -em, -öm, or -üm",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 24
-    },
-    {
-      "id": "r-688",
-      "topic": "1st Person Singular (-m)",
-      "ruleText": "szék → szék**em** (my chair) - ends in consonant, high vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 25
-    },
-    {
-      "id": "r-689",
-      "topic": "1st Person Singular (-m)",
-      "ruleText": "kert → kert**em** (my garden) - ends in consonant, mixed vowel word (takes high endings)",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 26
-    },
-    {
-      "id": "r-690",
-      "topic": "1st Person Singular (-m)",
-      "ruleText": "szőke → szők**ém** (my blonde) - ends in vowel \"e\", high vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 27
-    },
-    {
-      "id": "r-691",
-      "topic": "1st Person Singular (-m)",
-      "ruleText": "**Low vowel words**: -am, -om, or -um",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 28
-    },
-    {
-      "id": "r-692",
-      "topic": "1st Person Singular (-m)",
-      "ruleText": "ház → ház**am** (my house) - ends in consonant, low vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 29
-    },
-    {
-      "id": "r-693",
-      "topic": "1st Person Singular (-m)",
-      "ruleText": "autó → aut**óm** (my car) - ends in vowel \"ó\", low vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 30
-    },
-    {
-      "id": "r-694",
-      "topic": "1st Person Singular (-m)",
-      "ruleText": "macska → macsk**ám** (my cat) - ends in vowel \"a\", low vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 31
-    },
-    {
-      "id": "r-695",
-      "topic": "2nd Person Singular (-d)",
-      "ruleText": "**High vowel words**: -ed, -öd, or -üd",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 34
-    },
-    {
-      "id": "r-696",
-      "topic": "2nd Person Singular (-d)",
-      "ruleText": "szék → szék**ed** (your chair) - ends in consonant, high vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 35
-    },
-    {
-      "id": "r-697",
-      "topic": "2nd Person Singular (-d)",
-      "ruleText": "kert → kert**ed** (your garden) - ends in consonant, mixed vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 36
-    },
-    {
-      "id": "r-698",
-      "topic": "2nd Person Singular (-d)",
-      "ruleText": "szőke → szők**éd** (your blonde) - ends in vowel \"e\", high vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 37
-    },
-    {
-      "id": "r-699",
-      "topic": "2nd Person Singular (-d)",
-      "ruleText": "**Low vowel words**: -ad, -od, or -ud",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 38
-    },
-    {
-      "id": "r-700",
-      "topic": "2nd Person Singular (-d)",
-      "ruleText": "ház → ház**ad** (your house) - ends in consonant, low vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 39
-    },
-    {
-      "id": "r-701",
-      "topic": "2nd Person Singular (-d)",
-      "ruleText": "autó → aut**ód** (your car) - ends in vowel \"ó\", low vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 40
-    },
-    {
-      "id": "r-702",
-      "topic": "2nd Person Singular (-d)",
-      "ruleText": "macska → macsk**ád** (your cat) - ends in vowel \"a\", low vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 41
-    },
-    {
-      "id": "r-703",
-      "topic": "3rd Person Singular (-a/-e/-ja/-je)",
-      "ruleText": "**Low vowel words**: -a (after consonant) or -ja (after vowel)",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 44
-    },
-    {
-      "id": "r-704",
-      "topic": "3rd Person Singular (-a/-e/-ja/-je)",
-      "ruleText": "ház → ház**a** (his/her house) - ends in consonant",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 45
-    },
-    {
-      "id": "r-705",
-      "topic": "3rd Person Singular (-a/-e/-ja/-je)",
-      "ruleText": "autó → autó**ja** (his/her car) - ends in vowel \"ó\"",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 46
-    },
-    {
-      "id": "r-706",
-      "topic": "3rd Person Singular (-a/-e/-ja/-je)",
-      "ruleText": "macska → macsk**ája** (his/her cat) - ends in vowel \"a\"",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 47
-    },
-    {
-      "id": "r-707",
-      "topic": "3rd Person Singular (-a/-e/-ja/-je)",
-      "ruleText": "**High vowel words**: -e (after consonant) or -je (after vowel)",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 48
-    },
-    {
-      "id": "r-708",
-      "topic": "3rd Person Singular (-a/-e/-ja/-je)",
-      "ruleText": "kert → kert**e** (his/her garden) - ends in consonant, mixed vowel word (takes high endings)",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 49
-    },
-    {
-      "id": "r-709",
-      "topic": "3rd Person Singular (-a/-e/-ja/-je)",
-      "ruleText": "szék → szék**e** (his/her chair) - ends in consonant, high vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 50
-    },
-    {
-      "id": "r-710",
-      "topic": "3rd Person Singular (-a/-e/-ja/-je)",
-      "ruleText": "szőke → szők**éje** (his/her blonde) - ends in vowel \"e\", high vowel word",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 51
-    },
-    {
-      "id": "r-711",
-      "topic": "Key Points",
-      "ruleText": "Low vowel words → use -a/-o/-u linking vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 67
-    },
-    {
-      "id": "r-712",
-      "topic": "Key Points",
-      "ruleText": "High vowel words → use -e/-ö/-ü linking vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 68
-    },
-    {
-      "id": "r-713",
-      "topic": "Key Points",
-      "ruleText": "Mixed vowel words (e) → usually take high vowel endings",
-      "lesson": null,
-      "sourceFile": "hungarian_possessive_suffixes.md",
-      "lineIndex": 69
-    },
-    {
-      "id": "r-734",
-      "topic": "Overview",
-      "ruleText": "**Indefinite conjugation** - when the object is indefinite or there's no object",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 6
-    },
-    {
-      "id": "r-735",
-      "topic": "Overview",
-      "ruleText": "**Definite conjugation** - when the object is definite (has definite article or is specific)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 7
-    },
-    {
-      "id": "r-736",
-      "topic": "Indefinite Conjugation",
-      "ruleText": "The object is indefinite (no article or \"egy\" = a/an)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 14
-    },
-    {
-      "id": "r-737",
-      "topic": "Indefinite Conjugation",
-      "ruleText": "There is no object",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 15
-    },
-    {
-      "id": "r-738",
-      "topic": "Indefinite Conjugation",
-      "ruleText": "The verb is intransitive",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 16
-    },
-    {
-      "id": "r-739",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ok** = after low vowel words (a, á, o, ó, u, ú)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 29
-    },
-    {
-      "id": "r-740",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ek/-ök** = after high vowel words (i, í, é, e, ö, ő, ü, ű)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 30
-    },
-    {
-      "id": "r-741",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ek** = after unrounded high vowels (i, í, é, e)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 31
-    },
-    {
-      "id": "r-742",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ök** = after rounded high vowels (ö, ő)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 32
-    },
-    {
-      "id": "r-743",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-sz** = after most verbs (most common)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 35
-    },
-    {
-      "id": "r-744",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ol/-el/-öl** = after certain verb stems ending in consonants",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 36
-    },
-    {
-      "id": "r-745",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ol** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 37
-    },
-    {
-      "id": "r-746",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-el** = after high vowel words (unrounded)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 38
-    },
-    {
-      "id": "r-747",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-öl** = after high vowel words (rounded)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 39
-    },
-    {
-      "id": "r-748",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "No ending (just the verb stem)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 42
-    },
-    {
-      "id": "r-749",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-unk** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 45
-    },
-    {
-      "id": "r-750",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ünk** = after high vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 46
-    },
-    {
-      "id": "r-751",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-tok** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 49
-    },
-    {
-      "id": "r-752",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-tek/-tök** = after high vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 50
-    },
-    {
-      "id": "r-753",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-tek** = after unrounded high vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 51
-    },
-    {
-      "id": "r-754",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-tök** = after rounded high vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 52
-    },
-    {
-      "id": "r-755",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-nak** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 55
-    },
-    {
-      "id": "r-756",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-nek** = after high vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 56
-    },
-    {
-      "id": "r-757",
-      "topic": "Definite Conjugation",
-      "ruleText": "The object is definite (has definite article \"a/az\" or \"the\")",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 63
-    },
-    {
-      "id": "r-758",
-      "topic": "Definite Conjugation",
-      "ruleText": "The object is a proper noun",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 64
-    },
-    {
-      "id": "r-759",
-      "topic": "Definite Conjugation",
-      "ruleText": "The object is a possessive form (my, your, etc.)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 65
-    },
-    {
-      "id": "r-760",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-om** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 78
-    },
-    {
-      "id": "r-761",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-em/-öm** = after high vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 79
-    },
-    {
-      "id": "r-762",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-em** = after unrounded high vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 80
-    },
-    {
-      "id": "r-763",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-öm** = after rounded high vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 81
-    },
-    {
-      "id": "r-764",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-od** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 84
-    },
-    {
-      "id": "r-765",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ed/-öd** = after high vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 85
-    },
-    {
-      "id": "r-766",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ed** = after unrounded high vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 86
-    },
-    {
-      "id": "r-767",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-öd** = after rounded high vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 87
-    },
-    {
-      "id": "r-768",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ja** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 90
-    },
-    {
-      "id": "r-769",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-je/-i** = after high vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 91
-    },
-    {
-      "id": "r-770",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-je** = after unrounded high vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 92
-    },
-    {
-      "id": "r-771",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-i** = after certain high vowel verbs",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 93
-    },
-    {
-      "id": "r-772",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-juk** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 96
-    },
-    {
-      "id": "r-773",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-jük** = after high vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 97
-    },
-    {
-      "id": "r-774",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-játok** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 100
-    },
-    {
-      "id": "r-775",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-itek/-itek** = after high vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 101
-    },
-    {
-      "id": "r-776",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-ják** = after low vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 104
-    },
-    {
-      "id": "r-777",
-      "topic": "Vowel Harmony Rules",
-      "ruleText": "**-jék/-ik** = after high vowel words",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 105
-    },
-    {
-      "id": "r-778",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látok (I see something)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 129
-    },
-    {
-      "id": "r-779",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látsz (you see something)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 130
-    },
-    {
-      "id": "r-780",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "lát (he/she sees something)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 131
-    },
-    {
-      "id": "r-781",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látunk (we see something)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 132
-    },
-    {
-      "id": "r-782",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "láttok (you all see something)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 133
-    },
-    {
-      "id": "r-783",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látnak (they see something)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 134
-    },
-    {
-      "id": "r-784",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látom (I see it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 137
-    },
-    {
-      "id": "r-785",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látod (you see it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 138
-    },
-    {
-      "id": "r-786",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látja (he/she sees it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 139
-    },
-    {
-      "id": "r-787",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látjuk (we see it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 140
-    },
-    {
-      "id": "r-788",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látjátok (you all see it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 141
-    },
-    {
-      "id": "r-789",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "látják (they see it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 142
-    },
-    {
-      "id": "r-790",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "**\"Látok egy házat\"** = I see a house (indefinite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 145
-    },
-    {
-      "id": "r-791",
-      "topic": "\"látni\" (to see)",
-      "ruleText": "**\"Látom a házat\"** = I see the house (definite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 146
-    },
-    {
-      "id": "r-792",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanulok (I learn)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 153
-    },
-    {
-      "id": "r-793",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanulsz (you learn)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 154
-    },
-    {
-      "id": "r-794",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanul (he/she learns)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 155
-    },
-    {
-      "id": "r-795",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanulunk (we learn)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 156
-    },
-    {
-      "id": "r-796",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanultok (you all learn)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 157
-    },
-    {
-      "id": "r-797",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanulnak (they learn)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 158
-    },
-    {
-      "id": "r-798",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanulom (I learn it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 161
-    },
-    {
-      "id": "r-799",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanulod (you learn it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 162
-    },
-    {
-      "id": "r-800",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanulja (he/she learns it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 163
-    },
-    {
-      "id": "r-801",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanuljuk (we learn it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 164
-    },
-    {
-      "id": "r-802",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanuljátok (you all learn it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 165
-    },
-    {
-      "id": "r-803",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "tanulják (they learn it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 166
-    },
-    {
-      "id": "r-804",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "**\"Magyarul tanulok\"** = I learn Hungarian (indefinite - language is indefinite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 169
-    },
-    {
-      "id": "r-805",
-      "topic": "\"tanulni\" (to learn/study)",
-      "ruleText": "**\"Tanulom a leckét\"** = I learn the lesson (definite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 170
-    },
-    {
-      "id": "r-806",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszélek (I speak)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 177
-    },
-    {
-      "id": "r-807",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszélsz (you speak)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 178
-    },
-    {
-      "id": "r-808",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszél (he/she speaks)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 179
-    },
-    {
-      "id": "r-809",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszélünk (we speak)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 180
-    },
-    {
-      "id": "r-810",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszéltek (you all speak)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 181
-    },
-    {
-      "id": "r-811",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszélnek (they speak)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 182
-    },
-    {
-      "id": "r-812",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszélem (I speak it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 185
-    },
-    {
-      "id": "r-813",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszéled (you speak it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 186
-    },
-    {
-      "id": "r-814",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszéli (he/she speaks it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 187
-    },
-    {
-      "id": "r-815",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszéljük (we speak it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 188
-    },
-    {
-      "id": "r-816",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszélitek (you all speak it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 189
-    },
-    {
-      "id": "r-817",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "beszélik (they speak it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 190
-    },
-    {
-      "id": "r-818",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "**\"Magyarul beszélek\"** = I speak Hungarian",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 193
-    },
-    {
-      "id": "r-819",
-      "topic": "\"beszélni\" (to speak)",
-      "ruleText": "**\"Beszélem a nyelvet\"** = I speak the language (definite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 194
-    },
-    {
-      "id": "r-820",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "él (he/she lives)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 203
-    },
-    {
-      "id": "r-821",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "éltek (you all live)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 205
-    },
-    {
-      "id": "r-822",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "élnek (they live)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 206
-    },
-    {
-      "id": "r-823",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "élem (I live it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 209
-    },
-    {
-      "id": "r-824",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "éled (you live it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 210
-    },
-    {
-      "id": "r-825",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "éli (he/she lives it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 211
-    },
-    {
-      "id": "r-826",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "éljük (we live it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 212
-    },
-    {
-      "id": "r-827",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "élitek (you all live it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 213
-    },
-    {
-      "id": "r-828",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "élik (they live it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 214
-    },
-    {
-      "id": "r-829",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "**\"Budapesten élek\"** = I live in Budapest",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 217
-    },
-    {
-      "id": "r-830",
-      "topic": "\"élni\" (to live)",
-      "ruleText": "**\"Élem az életet\"** = I live the life (definite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 218
-    },
-    {
-      "id": "r-831",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szeretek (I like)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 225
-    },
-    {
-      "id": "r-832",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szeretsz (you like)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 226
-    },
-    {
-      "id": "r-833",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szeret (he/she likes)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 227
-    },
-    {
-      "id": "r-834",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szeretünk (we like)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 228
-    },
-    {
-      "id": "r-835",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szerettek (you all like)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 229
-    },
-    {
-      "id": "r-836",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szeretnek (they like)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 230
-    },
-    {
-      "id": "r-837",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szeretem (I like it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 233
-    },
-    {
-      "id": "r-838",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szereted (you like it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 234
-    },
-    {
-      "id": "r-839",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szereti (he/she likes it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 235
-    },
-    {
-      "id": "r-840",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szeretjük (we like it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 236
-    },
-    {
-      "id": "r-841",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szeretitek (you all like it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 237
-    },
-    {
-      "id": "r-842",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "szeretik (they like it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 238
-    },
-    {
-      "id": "r-843",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "**\"Szeretek olvasni\"** = I like to read",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 241
-    },
-    {
-      "id": "r-844",
-      "topic": "\"szeretni\" (to love/like)",
-      "ruleText": "**\"Szeretem a könyvet\"** = I like the book (definite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 242
-    },
-    {
-      "id": "r-845",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "veszel (you buy)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 250
-    },
-    {
-      "id": "r-846",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "vesz (he/she buys)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 251
-    },
-    {
-      "id": "r-847",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "veszünk (we buy)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 252
-    },
-    {
-      "id": "r-848",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "vesztek (you all buy)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 253
-    },
-    {
-      "id": "r-849",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "vesznek (they buy)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 254
-    },
-    {
-      "id": "r-850",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "veszem (I buy it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 257
-    },
-    {
-      "id": "r-851",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "veszed (you buy it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 258
-    },
-    {
-      "id": "r-852",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "veszi (he/she buys it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 259
-    },
-    {
-      "id": "r-853",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "vesszük (we buy it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 260
-    },
-    {
-      "id": "r-854",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "veszitek (you all buy it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 261
-    },
-    {
-      "id": "r-855",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "veszik (they buy it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 262
-    },
-    {
-      "id": "r-856",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "**\"Veszek egy könyvet\"** = I buy a book (indefinite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 265
-    },
-    {
-      "id": "r-857",
-      "topic": "\"venni\" (to buy)",
-      "ruleText": "**\"Veszem a könyvet\"** = I buy the book (definite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 266
-    },
-    {
-      "id": "r-858",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "iszol (you drink)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 274
-    },
-    {
-      "id": "r-859",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "iszik (he/she drinks)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 275
-    },
-    {
-      "id": "r-860",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "iszunk (we drink)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 276
-    },
-    {
-      "id": "r-861",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "isztok (you all drink)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 277
-    },
-    {
       "id": "r-862",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "isznak (they drink)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 278
+      "topic": "pdf_ocr",
+      "ruleText": "endings (suffixes). Wherever we use prepositions in English, in Hungarian we use",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 3,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-863",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "iszom (I drink it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 281
+      "topic": "pdf_ocr",
+      "ruleText": "suffixes. Grammar reference MagyarOk A1+ pg 23, 9.",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 4,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-864",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "iszod (you drink it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 282
+      "topic": "pdf_ocr",
+      "ruleText": "E.g. some of the possessive suffixes (e.g. my mother, your",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 10,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-865",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "issza (he/she drinks it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 283
+      "topic": "pdf_ocr",
+      "ruleText": "Most endings (suffixes) harmonize with the word they are attached to.",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-866",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "isszuk (we drink it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 284
+      "topic": "pdf_ocr",
+      "ruleText": "- back vowel words -> back vowel suffixes autó: a, á, o, 6, u, ú",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 13,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-867",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "isszátok (you all drink it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 285
+      "topic": "pdf_ocr",
+      "ruleText": "- front vowel words -> front vowel suffixes tenisziits: e, é, i, i, ü, ű, 6,6",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-868",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "isszák (they drink it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 286
+      "topic": "pdf_ocr",
+      "ruleText": "- mixed vowel words -> back vowel suffixes",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-869",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "**\"Vizet iszok\"** = I drink water",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 289
+      "topic": "pdf_ocr",
+      "ruleText": "Back vowel words get the back vowel suffix: Londonban,",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-870",
-      "topic": "\"inni\" (to drink)",
-      "ruleText": "**\"Iszom a vizet\"** = I drink the water (definite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 290
+      "topic": "pdf_ocr",
+      "ruleText": "Front vowel words get the front vowel suffix: kertben\" (in a garden)",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 18,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-871",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "eszik (he/she eats)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 299
+      "topic": "pdf_ocr",
+      "ruleText": "Mixed vowel words get the back vowel suffix: ‘Parizsban’",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 19,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-872",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "esztek (you all eat)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 301
+      "topic": "pdf_ocr",
+      "ruleText": "endings (suffixes). Wherever we use prepositions in English, in Hungarian we use",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 3,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-873",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "esznek (they eat)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 302
+      "topic": "pdf_ocr",
+      "ruleText": "suffixes. Grammar reference MagyarOk A1+ pg 23, 9.",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 4,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-874",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "eszem (I eat it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 305
+      "topic": "pdf_ocr",
+      "ruleText": "E.g. some of the possessive suffixes (e.g. my mother, your",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 10,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-875",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "eszed (you eat it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 306
+      "topic": "pdf_ocr",
+      "ruleText": "Most endings (suffixes) harmonize with the word they are attached to.",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-876",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "eszi (he/she eats it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 307
+      "topic": "pdf_ocr",
+      "ruleText": "- back vowel words -> back vowel suffixes autó: a, á, o, 6, u, ú",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 13,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-877",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "esszük (we eat it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 308
+      "topic": "pdf_ocr",
+      "ruleText": "- front vowel words -> front vowel suffixes tenisziits: e, é, i, i, ü, ű, 6,6",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-878",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "esszitek (you all eat it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 309
+      "topic": "pdf_ocr",
+      "ruleText": "- mixed vowel words -> back vowel suffixes",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-879",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "esszik (they eat it)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 310
+      "topic": "pdf_ocr",
+      "ruleText": "Back vowel words get the back vowel suffix: Londonban,",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-880",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "**\"Almát eszek\"** = I eat an apple",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 313
+      "topic": "pdf_ocr",
+      "ruleText": "Front vowel words get the front vowel suffix: kertben\" (in a garden)",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 18,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-881",
-      "topic": "\"enni\" (to eat)",
-      "ruleText": "**\"Eszem az almát\"** = I eat the apple (definite)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 314
+      "topic": "pdf_ocr",
+      "ruleText": "Mixed vowel words get the back vowel suffix: ‘Parizsban’",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 19,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     },
     {
       "id": "r-882",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "megy (he/she goes)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 323
+      "topic": "pdf_ocr",
+      "ruleText": "- Start conjugating,",
+      "lesson": 10,
+      "sourceFile": "10. óra: 10th lesson/10. óraterv (indefinite conjugation - latest).pdf",
+      "lineIndex": 5,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 93
     },
     {
       "id": "r-883",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "mentek (you all go)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 325
+      "topic": "pdf_ocr",
+      "ruleText": "- Practise the present indefinite conjugation,",
+      "lesson": 10,
+      "sourceFile": "10. óra: 10th lesson/10. óraterv (indefinite conjugation - latest).pdf",
+      "lineIndex": 6,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 93
     },
     {
       "id": "r-884",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "mennek (they go)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 326
+      "topic": "pdf_ocr",
+      "ruleText": "one: Do you remember when we use present indef. conjugation?)",
+      "lesson": 10,
+      "sourceFile": "10. óra: 10th lesson/10. óraterv (indefinite conjugation - latest).pdf",
+      "lineIndex": 3,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 84
     },
     {
       "id": "r-885",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "megyem (I go it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 329
+      "topic": "pdf_ocr",
+      "ruleText": "(Verb conjugation in present tense, indefinite forms)",
+      "lesson": 10,
+      "sourceFile": "10. óra: 10th lesson/Összefoglalás határozatlan igeragozás Summary idefinite verb conjugation present jelen.pdf",
+      "lineIndex": 3,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 89
     },
     {
       "id": "r-886",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "megyed (you go it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 330
+      "topic": "pdf_ocr",
+      "ruleText": "Suffixes -0",
+      "lesson": 11,
+      "sourceFile": "11. óra: 11th lesson/11. óraterv_Daily Routine (1).pdf",
+      "lineIndex": 9,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 9,
+      "ocrConfidence": 93
     },
     {
       "id": "r-887",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "megyi (he/she goes it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 331
+      "topic": "pdf_ocr",
+      "ruleText": "Suffixes -0",
+      "lesson": 11,
+      "sourceFile": "11. óra: 11th lesson/11. óraterv_Daily Routine.pdf",
+      "lineIndex": 9,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 9,
+      "ocrConfidence": 93
     },
     {
       "id": "r-888",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "megyjük (we go it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 332
+      "topic": "pdf_ocr",
+      "ruleText": "- Learn some grammar and learn about the present definite conjugation,",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. óraterv_definite conjugation (latest).pdf",
+      "lineIndex": 6,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 89
     },
     {
       "id": "r-889",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "megyitek (you all go it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 333
+      "topic": "pdf_ocr",
+      "ruleText": "the definite conjugation. To work on your listening comprehension, please",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. óraterv_definite conjugation (latest).pdf",
+      "lineIndex": 9,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 89
     },
     {
       "id": "r-890",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "megyik (they go it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 334
+      "topic": "pdf_ocr",
+      "ruleText": "And please notice the indefinite vs. definite conjugation in each sentence and",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. óraterv_definite conjugation (latest).pdf",
+      "lineIndex": 4,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 93
     },
     {
       "id": "r-891",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "**\"Iskolába megyek\"** = I go to school",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 339
+      "topic": "pdf_ocr",
+      "ruleText": "conjugation and colour the verbs that have definite conjugation.",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. óraterv_definite conjugation (latest).pdf",
+      "lineIndex": 6,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 93
     },
     {
       "id": "r-892",
-      "topic": "\"menni\" (to go)",
-      "ruleText": "**\"Haza megyek\"** = I go home",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 340
+      "topic": "pdf_ocr",
+      "ruleText": "The definite conjugation suffixes you need are the following:",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. óraterv_definite conjugation (latest).pdf",
+      "lineIndex": 2,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 91
     },
     {
       "id": "r-893",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jössz (you come)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 348
+      "topic": "pdf_ocr",
+      "ruleText": "These suffixes are harmonizing two- or three-form suffixes and it is vowel harmony",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. óraterv_definite conjugation (latest).pdf",
+      "lineIndex": 10,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 91
     },
     {
       "id": "r-894",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jön (he/she comes)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 349
+      "topic": "pdf_ocr",
+      "ruleText": "definite suffixes. Where you see the * symbol, it means you need to double",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. óraterv_definite conjugation (latest).pdf",
+      "lineIndex": 16,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 91
     },
     {
       "id": "r-895",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jövünk (we come)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 350
+      "topic": "pdf_ocr",
+      "ruleText": "(geminate) the final consonant and then add the suffix from the table (e.g. —a in 3rd",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. óraterv_definite conjugation (latest).pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 91
     },
     {
       "id": "r-896",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jöttök (you all come)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 351
+      "topic": "pdf_ocr",
+      "ruleText": "b) Határozott ragozás (definite conjugation)",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. óraterv_definite conjugation (latest).pdf",
+      "lineIndex": 2,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 9,
+      "ocrConfidence": 70
     },
     {
       "id": "r-897",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jönnek (they come)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 352
+      "topic": "pdf_ocr",
+      "ruleText": "-ról, -ről — suffix = about, from",
+      "lesson": 12,
+      "sourceFile": "12. óra: 12th lesson/12. Vocab list. pdf.pdf",
+      "lineIndex": 1,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 86
     },
     {
       "id": "r-898",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jövöm (I come it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 355
+      "topic": "pdf_ocr",
+      "ruleText": "- Talk about the indefinite and definite conjugations,",
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/13. óraterv _revision.(latest).pdf",
+      "lineIndex": 8,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
     },
     {
       "id": "r-899",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jövöd (you come it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 356
+      "topic": "pdf_ocr",
+      "ruleText": "- Practise the definite and indefinite conjugations,",
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/13. óraterv _revision.(latest).pdf",
+      "lineIndex": 9,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
     },
     {
       "id": "r-900",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jövi (he/she comes it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 357
+      "topic": "pdf_ocr",
+      "ruleText": "- — Indef. conjugation?",
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/13. óraterv _revision.(latest).pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
     },
     {
       "id": "r-901",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jövjük (we come it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 358
+      "topic": "pdf_ocr",
+      "ruleText": "- Definite conjugation?",
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/13. óraterv _revision.(latest).pdf",
+      "lineIndex": 16,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
     },
     {
       "id": "r-902",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jövitek (you all come it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 359
+      "topic": "pdf_ocr",
+      "ruleText": "CONJUGATION: indefinte or",
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/13. óraterv _revision.(latest).pdf",
+      "lineIndex": 10,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 88
     },
     {
       "id": "r-903",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "jövik (they come it) - rarely used",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 360
+      "topic": "pdf_ocr",
+      "ruleText": "CONJUGATION: CONJUGATION",
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/13. óraterv _revision.(latest).pdf",
+      "lineIndex": 18,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 88
     },
     {
       "id": "r-904",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "**\"Haza jövök\"** = I come home",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 365
+      "topic": "pdf_ocr",
+      "ruleText": "a) Határozatlan ragozás gyakorlás (Practising the indefinite conjugation)",
+      "lesson": 13,
+      "sourceFile": "13. óra: 13th lesson/13. óraterv _revision.(latest).pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 7,
+      "ocrConfidence": 78
     },
     {
       "id": "r-905",
-      "topic": "\"jönni\" (to come)",
-      "ruleText": "**\"Ide jössz?\"** = Are you coming here?",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 366
+      "topic": "pdf_ocr",
+      "ruleText": "* Learn and practise how to conjugate the verb \"to be’, and what the",
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/2. lesson_plan_02 (latest).pdf",
+      "lineIndex": 6,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 92
     },
     {
       "id": "r-906",
-      "topic": "Type 1: Regular -ni verbs",
-      "ruleText": "**tanulni** (to learn)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 375
+      "topic": "pdf_ocr",
+      "ruleText": "4. Possessive suffixes 1. Grammar reference MagyarOk A1+ munkafüzet pg 11, pg 18",
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/2. lesson_plan_02 (latest).pdf",
+      "lineIndex": 11,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 90
     },
     {
       "id": "r-907",
-      "topic": "Type 1: Regular -ni verbs",
-      "ruleText": "**beszélni** (to speak)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 376
+      "topic": "pdf_ocr",
+      "ruleText": "5. Ragozzuk végig a következőt! (Let's conjugate the following.)",
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/2. lesson_plan_02 (latest).pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 7,
+      "ocrConfidence": 82
     },
     {
       "id": "r-908",
-      "topic": "Type 1: Regular -ni verbs",
-      "ruleText": "**szeretni** (to love)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 377
+      "topic": "pdf_ocr",
+      "ruleText": "21 — huszonegy 2225 kétezer-kétszazhuszonot 1. Ordinals lose their -ik ending before the harmonizing suffix -szor/-szer/ |",
+      "lesson": 2,
+      "sourceFile": "2. óra: 2nd lesson/2. óraterv_Numbers.pdf",
+      "lineIndex": 33,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 84
     },
     {
       "id": "r-909",
-      "topic": "Type 2: -ik verbs",
-      "ruleText": "**eszik** (he/she eats)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 382
+      "topic": "pdf_ocr",
+      "ruleText": "e Learn about and practise the possessive suffixes,",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. óraterv (2023) (3).pdf",
+      "lineIndex": 8,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
     },
     {
       "id": "r-910",
-      "topic": "Type 2: -ik verbs",
-      "ruleText": "**iszik** (he/she drinks)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 383
+      "topic": "pdf_ocr",
+      "ruleText": "3. Suffixes in Hungarian",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. óraterv (2023) (3).pdf",
+      "lineIndex": 16,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
     },
     {
       "id": "r-911",
-      "topic": "Type 2: -ik verbs",
-      "ruleText": "**alszik** (he/she sleeps)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 384
+      "topic": "pdf_ocr",
+      "ruleText": "- Suffixes in Hungarian can be one-form: e.g. —kor",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. óraterv (2023) (3).pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
     },
     {
       "id": "r-912",
-      "topic": "Type 3: Irregular verbs",
-      "ruleText": "**lenni** (to be) - vagyok, vagy, van, etc.",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 389
+      "topic": "pdf_ocr",
+      "ruleText": "E.g. some of the possessive suffixes we'll learn in a minute.",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. óraterv (2023) (3).pdf",
+      "lineIndex": 5,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 81
     },
     {
       "id": "r-913",
-      "topic": "Type 3: Irregular verbs",
-      "ruleText": "**menni** (to go) - megyek, mész, megy, etc.",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 390
+      "topic": "pdf_ocr",
+      "ruleText": "+ If the word stem ends in a vowel your ending (suffix) needs to start with a consonant,",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. óraterv (2023) (3).pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 3,
+      "ocrConfidence": 90
     },
     {
       "id": "r-914",
-      "topic": "Type 3: Irregular verbs",
-      "ruleText": "**jönni** (to come) - jövök, jössz, jön, etc.",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 391
+      "topic": "pdf_ocr",
+      "ruleText": "Most endings (suffixes) harmonize with the word they are attached to.",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. óraterv (2023) (3).pdf",
+      "lineIndex": 24,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 84
     },
     {
       "id": "r-915",
-      "topic": "Key Rules Summary",
-      "ruleText": "Use **indefinite** when object is indefinite or there's no object",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 400
+      "topic": "pdf_ocr",
+      "ruleText": "-back vowel words -> back vowel suffixes autó: a, a, u, ú, 0, Ó,",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. óraterv (2023) (3).pdf",
+      "lineIndex": 25,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 84
     },
     {
       "id": "r-916",
-      "topic": "Key Rules Summary",
-      "ruleText": "Use **definite** when object is definite (has \"a/az\" or is specific)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 401
+      "topic": "pdf_ocr",
+      "ruleText": "-front vowel words -> front vowel suffixes teniszütő: e, é, i, 1, 0, G,",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. óraterv (2023) (3).pdf",
+      "lineIndex": 26,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 84
     },
     {
       "id": "r-917",
-      "topic": "Key Rules Summary",
-      "ruleText": "Low vowels → -ok, -om",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 404
+      "topic": "pdf_ocr",
+      "ruleText": "-mixed vowel words -> back vowel suffixes",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. óraterv (2023) (3).pdf",
+      "lineIndex": 28,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 84
     },
     {
       "id": "r-918",
-      "topic": "Key Rules Summary",
-      "ruleText": "High vowels → -ek/-ök, -em/-öm",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 405
+      "topic": "pdf_ocr",
+      "ruleText": "Reminder of possessive suffixes in 1st and 2nd singular person:",
+      "lesson": 3,
+      "sourceFile": "3. óra: 3rd lesson/3. Vocab list.pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 3,
+      "ocrConfidence": 91
     },
     {
       "id": "r-919",
-      "topic": "Additional Resources",
-      "ruleText": "Practice with verbs ending in different vowels",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 436
+      "topic": "pdf_ocr",
+      "ruleText": "\"Tm a teacher\" you need to conjugate the \"to be\". (As per the above.)",
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/4. óraterv (latest).pdf",
+      "lineIndex": 21,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 93
     },
     {
       "id": "r-920",
-      "topic": "Additional Resources",
-      "ruleText": "Learn verb stems (remove -ni from infinitive)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 437
+      "topic": "pdf_ocr",
+      "ruleText": "If you want to say \"I have a boyfriend’, you never conjugate the \"to be’, but take the",
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/4. óraterv (latest).pdf",
+      "lineIndex": 2,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 9,
+      "ocrConfidence": 88
     },
     {
       "id": "r-921",
-      "topic": "Additional Resources",
-      "ruleText": "Pay attention to consonant changes in some verbs (vesz → veszem)",
-      "lesson": null,
-      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
-      "lineIndex": 438
-    },
-    {
-      "id": "r-1041",
       "topic": "pdf_ocr",
-      "ruleText": "endings (suffixes). Wherever we use prepositions in English, in Hungarian we use",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
-      "lineIndex": 3,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1042",
-      "topic": "pdf_ocr",
-      "ruleText": "suffixes. Grammar reference MagyarOk A1+ pg 23, 9.",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "ruleText": "ending (suffix) to show me it's yours. If you conjugate the \"to be’ we will think you",
+      "lesson": 4,
+      "sourceFile": "4. óra: 4th lesson/4. óraterv (latest).pdf",
       "lineIndex": 4,
       "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
+      "pageNumber": 9,
+      "ocrConfidence": 88
     },
     {
-      "id": "r-1043",
+      "id": "r-922",
       "topic": "pdf_ocr",
-      "ruleText": "E.g. some of the possessive suffixes (e.g. my mother, your",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
-      "lineIndex": 10,
+      "ruleText": "13. Add the possessive suffixes (birtokos rag) to: autó, asztal, kert, gyümölcs",
+      "lesson": 7,
+      "sourceFile": "7. óra: 7th lesson/7. óraterv 1-6 összefoglalás (2023).pdf",
+      "lineIndex": 9,
       "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
+      "pageNumber": 4,
+      "ocrConfidence": 91
     },
     {
-      "id": "r-1044",
+      "id": "r-923",
       "topic": "pdf_ocr",
-      "ruleText": "Most endings (suffixes) harmonize with the word they are attached to.",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
-      "lineIndex": 12,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1045",
-      "topic": "pdf_ocr",
-      "ruleText": "- back vowel words -> back vowel suffixes autó: a, á, o, 6, u, ú",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
-      "lineIndex": 13,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1046",
-      "topic": "pdf_ocr",
-      "ruleText": "- front vowel words -> front vowel suffixes tenisziits: e, é, i, i, ü, ű, 6,6",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
-      "lineIndex": 14,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1047",
-      "topic": "pdf_ocr",
-      "ruleText": "- mixed vowel words -> back vowel suffixes",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
-      "lineIndex": 15,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1048",
-      "topic": "pdf_ocr",
-      "ruleText": "Back vowel words get the back vowel suffix: Londonban,",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
-      "lineIndex": 17,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1049",
-      "topic": "pdf_ocr",
-      "ruleText": "Front vowel words get the front vowel suffix: kertben\" (in a garden)",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
-      "lineIndex": 18,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1050",
-      "topic": "pdf_ocr",
-      "ruleText": "Mixed vowel words get the back vowel suffix: ‘Parizsban’",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
-      "lineIndex": 19,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1051",
-      "topic": "pdf_ocr",
-      "ruleText": "endings (suffixes). Wherever we use prepositions in English, in Hungarian we use",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "ruleText": "van + noun +possesive suffix nincs + noun +possesive suffix",
+      "lesson": 7,
+      "sourceFile": "7. óra: 7th lesson/7. Vocablist - Summary.pdf",
       "lineIndex": 3,
       "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
+      "pageNumber": 3,
+      "ocrConfidence": 83
     },
     {
-      "id": "r-1052",
+      "id": "r-924",
       "topic": "pdf_ocr",
-      "ruleText": "suffixes. Grammar reference MagyarOk A1+ pg 23, 9.",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "ruleText": "MagyarOk munkafüzet 10. oldal.pdf 639.12 kB The present tense indefinite verb conjugation.docx 23.44 KB",
+      "lesson": 8,
+      "sourceFile": "8. óra: 8th lesson/(15) All mail _ s@scottschmidt.io _ Proton Mail.pdf",
+      "lineIndex": 5,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 82
+    },
+    {
+      "id": "r-925",
+      "topic": "pdf_ocr",
+      "ruleText": "- Learn about the concept of indefinite and definite verb conjugations,",
+      "lesson": 8,
+      "sourceFile": "8. óra: 8th lesson/8. óraterv.pdf",
       "lineIndex": 4,
       "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
+      "pageNumber": 1,
+      "ocrConfidence": 93
     },
     {
-      "id": "r-1053",
+      "id": "r-926",
       "topic": "pdf_ocr",
-      "ruleText": "E.g. some of the possessive suffixes (e.g. my mother, your",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "ruleText": "2. Definite and indefinite conjugations",
+      "lesson": 8,
+      "sourceFile": "8. óra: 8th lesson/8. óraterv.pdf",
       "lineIndex": 10,
       "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
+      "pageNumber": 1,
+      "ocrConfidence": 93
     },
     {
-      "id": "r-1054",
+      "id": "r-927",
       "topic": "pdf_ocr",
-      "ruleText": "Most endings (suffixes) harmonize with the word they are attached to.",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
-      "lineIndex": 12,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1055",
-      "topic": "pdf_ocr",
-      "ruleText": "- back vowel words -> back vowel suffixes autó: a, á, o, 6, u, ú",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "ruleText": "In Hungarian, different conjugations are used depending on whether the verb has an",
+      "lesson": 8,
+      "sourceFile": "8. óra: 8th lesson/8. óraterv.pdf",
       "lineIndex": 13,
       "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
+      "pageNumber": 1,
+      "ocrConfidence": 93
     },
     {
-      "id": "r-1056",
+      "id": "r-928",
       "topic": "pdf_ocr",
-      "ruleText": "- front vowel words -> front vowel suffixes tenisziits: e, é, i, i, ü, ű, 6,6",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
-      "lineIndex": 14,
+      "ruleText": "Thus, a verb has two conjugations: indefinite and definite. The general rule is the",
+      "lesson": 8,
+      "sourceFile": "8. óra: 8th lesson/8. óraterv.pdf",
+      "lineIndex": 2,
       "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
+      "pageNumber": 2,
+      "ocrConfidence": 80
     },
     {
-      "id": "r-1057",
+      "id": "r-929",
       "topic": "pdf_ocr",
-      "ruleText": "- mixed vowel words -> back vowel suffixes",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
-      "lineIndex": 15,
+      "ruleText": "which one has an indefinite conjugation!",
+      "lesson": 8,
+      "sourceFile": "8. óra: 8th lesson/8. óraterv.pdf",
+      "lineIndex": 5,
       "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1058",
-      "topic": "pdf_ocr",
-      "ruleText": "Back vowel words get the back vowel suffix: Londonban,",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
-      "lineIndex": 17,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1059",
-      "topic": "pdf_ocr",
-      "ruleText": "Front vowel words get the front vowel suffix: kertben\" (in a garden)",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
-      "lineIndex": 18,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
-    },
-    {
-      "id": "r-1060",
-      "topic": "pdf_ocr",
-      "ruleText": "Mixed vowel words get the back vowel suffix: ‘Parizsban’",
-      "lesson": 1,
-      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
-      "lineIndex": 19,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 8,
-      "ocrConfidence": 92
+      "pageNumber": 2,
+      "ocrConfidence": 80
     }
   ]
 }

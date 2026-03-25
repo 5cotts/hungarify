@@ -10,6 +10,7 @@ import { pathToFileURL } from 'node:url';
 import { ocrPngBuffer } from './ocr';
 import { splitOcrTextToLines } from './pdfNormalize';
 import { classifyLessonLineBody, type ParsedPhrase, type ParsedRule, type ParsedVocab } from './parseChat';
+import type { PdfSourceExtract } from './sourceCache';
 
 export type PdfTextChunk = {
   sourceFile: string;
@@ -106,6 +107,7 @@ export async function runPdfOcrIngest(options: {
   relFiles: string[];
   maxTotalPages?: number;
   includeRegex?: RegExp;
+  targetPdfRels?: string[];
   minPageConfidence?: number;
   renderScale?: number;
 }): Promise<{
@@ -113,16 +115,19 @@ export async function runPdfOcrIngest(options: {
   phrases: ParsedPhrase[];
   rules: ParsedRule[];
   chunks: PdfTextChunk[];
+  bySourceFile: Record<string, PdfSourceExtract>;
   stats: PdfOcrStats;
 }> {
   const minConf = options.minPageConfidence ?? DEFAULT_MIN_PAGE_CONFIDENCE;
   const scale = options.renderScale ?? DEFAULT_RENDER_SCALE;
   const maxPages = options.maxTotalPages;
 
-  const pdfRels = options.relFiles
-    .filter((rel) => path.extname(rel).toLowerCase() === '.pdf')
-    .filter((rel) => (options.includeRegex ? options.includeRegex.test(rel) : true))
-    .sort();
+  const pdfRels = (options.targetPdfRels
+    ? [...options.targetPdfRels]
+    : options.relFiles
+        .filter((rel) => path.extname(rel).toLowerCase() === '.pdf')
+        .filter((rel) => (options.includeRegex ? options.includeRegex.test(rel) : true))
+  ).sort();
 
   const stats: PdfOcrStats = {
     pdfFilesScanned: pdfRels.length,
@@ -136,6 +141,7 @@ export async function runPdfOcrIngest(options: {
   const phrases: ParsedPhrase[] = [];
   const rules: ParsedRule[] = [];
   const chunks: PdfTextChunk[] = [];
+  const bySourceFile: Record<string, PdfSourceExtract> = {};
 
   let pagesLeft = maxPages === undefined ? Number.POSITIVE_INFINITY : maxPages;
   const { getDocument } = await getPdfJs();
@@ -195,11 +201,25 @@ export async function runPdfOcrIngest(options: {
         vocab.push(...parsed.vocab);
         phrases.push(...parsed.phrases);
         rules.push(...parsed.rules);
+
+        if (!bySourceFile[rel]) {
+          bySourceFile[rel] = {
+            sourceFile: rel,
+            // Fingerprint is set by cache layer.
+            fingerprint: '',
+            vocab: [],
+            phrases: [],
+            rules: [],
+          };
+        }
+        bySourceFile[rel]!.vocab.push(...parsed.vocab);
+        bySourceFile[rel]!.phrases.push(...parsed.phrases);
+        bySourceFile[rel]!.rules.push(...parsed.rules);
       } catch (e) {
         console.warn(`PDF OCR: page ${p} of ${rel} failed:`, e);
       }
     }
   }
 
-  return { vocab, phrases, rules, chunks, stats };
+  return { vocab, phrases, rules, chunks, bySourceFile, stats };
 }
