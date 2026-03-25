@@ -30,10 +30,24 @@ Open the project in **Expo Go** on an iPhone (scan the QR code), or press `i` fo
 The app bundles structured data built from `knowledge-source/` (top-level `*.md` and lesson `chat*.txt` files).
 
 - **Source directory:** defaults to `./knowledge-source` in the repo. Override with `KNOWLEDGE_SOURCE=/path/to/dir`.
-- **Regenerate JSON:** `npm run ingest:knowledge`
-- **Quality report:** `src/data/knowledge/ingestion-report.json` (counts and skipped chat lines).
+- **Regenerate JSON:** `npm run ingest:knowledge` (markdown + chat only). Add `--pdf` to merge OCR from all `*.pdf` files as well (slower).
+- **Quality report:** `src/data/knowledge/ingestion-report.json` (counts, skipped chat lines, and optional PDF OCR stats).
 - After ingest, reload Metro so Reference and drills pick up changes.
 
 You can also keep a **symlink** at `knowledge-source` pointing elsewhere on your machine instead of the in-repo copy; the ingest script only needs a readable directory.
+
+#### PDF OCR ingest (optional)
+
+All `*.pdf` files under the knowledge source are **not** processed unless you opt in. OCR uses [Tesseract.js](https://github.com/naptha/tesseract.js) (Hungarian + English) on rasterized pages ([pdf.js](https://mozilla.github.io/pdf.js/) + [@napi-rs/canvas](https://github.com/Brooooooklyn/canvas), matching pdf.js’s Node canvas backend).
+
+- **Run:** `npm run ingest:knowledge -- --pdf`
+- **Limit pages (faster iteration):** `--pdf-max-pages=20` caps total pages OCR’d across all PDFs.
+- **Subset by path:** `--pdf-include=regex` only includes PDFs whose relative path matches (e.g. `--pdf-include=3\\.\\s` for lesson 3 folders).
+
+**Prerequisites:** `npm install` must have completed so `@napi-rs/canvas`, `pdfjs-dist`, and `tesseract.js` are present. The first OCR run may download `hun`/`eng` traineddata (needs network once).
+
+**Expectations:** Full runs over many PDFs can take a long time and use noticeable CPU and memory. Noisy scans yield noisy text; low-confidence pages are dropped (see `pdf.pdfItemsDroppedLowConfidence` in the report). Tune with `--pdf-max-pages` while iterating.
+
+**Troubleshooting:** If `@napi-rs/canvas` fails to install, use a supported Node/OS combo or install platform build tools. pdf.js may warn about `standardFontDataUrl` under Node; rendering still succeeds for most lesson PDFs. If OCR quality is poor, try higher-DPI source PDFs or reduce scanned skew before ingest.
 
 Progress is stored on-device only; no network calls are required for drills.

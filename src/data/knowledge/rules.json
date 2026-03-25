@@ -2135,6 +2135,226 @@
       "lesson": null,
       "sourceFile": "hungarian_verb_conjugation_present_tense.md",
       "lineIndex": 438
+    },
+    {
+      "id": "r-1041",
+      "topic": "pdf_ocr",
+      "ruleText": "endings (suffixes). Wherever we use prepositions in English, in Hungarian we use",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 3,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1042",
+      "topic": "pdf_ocr",
+      "ruleText": "suffixes. Grammar reference MagyarOk A1+ pg 23, 9.",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 4,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1043",
+      "topic": "pdf_ocr",
+      "ruleText": "E.g. some of the possessive suffixes (e.g. my mother, your",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 10,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1044",
+      "topic": "pdf_ocr",
+      "ruleText": "Most endings (suffixes) harmonize with the word they are attached to.",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1045",
+      "topic": "pdf_ocr",
+      "ruleText": "- back vowel words -> back vowel suffixes autó: a, á, o, 6, u, ú",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 13,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1046",
+      "topic": "pdf_ocr",
+      "ruleText": "- front vowel words -> front vowel suffixes tenisziits: e, é, i, i, ü, ű, 6,6",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1047",
+      "topic": "pdf_ocr",
+      "ruleText": "- mixed vowel words -> back vowel suffixes",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1048",
+      "topic": "pdf_ocr",
+      "ruleText": "Back vowel words get the back vowel suffix: Londonban,",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1049",
+      "topic": "pdf_ocr",
+      "ruleText": "Front vowel words get the front vowel suffix: kertben\" (in a garden)",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 18,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1050",
+      "topic": "pdf_ocr",
+      "ruleText": "Mixed vowel words get the back vowel suffix: ‘Parizsban’",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1.pdf",
+      "lineIndex": 19,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1051",
+      "topic": "pdf_ocr",
+      "ruleText": "endings (suffixes). Wherever we use prepositions in English, in Hungarian we use",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 3,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1052",
+      "topic": "pdf_ocr",
+      "ruleText": "suffixes. Grammar reference MagyarOk A1+ pg 23, 9.",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 4,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1053",
+      "topic": "pdf_ocr",
+      "ruleText": "E.g. some of the possessive suffixes (e.g. my mother, your",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 10,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1054",
+      "topic": "pdf_ocr",
+      "ruleText": "Most endings (suffixes) harmonize with the word they are attached to.",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1055",
+      "topic": "pdf_ocr",
+      "ruleText": "- back vowel words -> back vowel suffixes autó: a, á, o, 6, u, ú",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 13,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1056",
+      "topic": "pdf_ocr",
+      "ruleText": "- front vowel words -> front vowel suffixes tenisziits: e, é, i, i, ü, ű, 6,6",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1057",
+      "topic": "pdf_ocr",
+      "ruleText": "- mixed vowel words -> back vowel suffixes",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1058",
+      "topic": "pdf_ocr",
+      "ruleText": "Back vowel words get the back vowel suffix: Londonban,",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1059",
+      "topic": "pdf_ocr",
+      "ruleText": "Front vowel words get the front vowel suffix: kertben\" (in a garden)",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 18,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "r-1060",
+      "topic": "pdf_ocr",
+      "ruleText": "Mixed vowel words get the back vowel suffix: ‘Parizsban’",
+      "lesson": 1,
+      "sourceFile": "1. óra: 1st lesson/1. lesson_plan 1_with_srs_hw.pdf",
+      "lineIndex": 19,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 8,
+      "ocrConfidence": 92
     }
   ]
 }

@@ -6,6 +6,9 @@ export type ParsedVocab = {
   sourceFile: string;
   lineIndex: number;
   lesson: number | null;
+  /** Set when ingested from PDF OCR */
+  pageNumber?: number;
+  ocrConfidence?: number;
 };
 
 export type ParsedPhrase = {
@@ -14,6 +17,8 @@ export type ParsedPhrase = {
   sourceFile: string;
   lineIndex: number;
   lesson: number | null;
+  pageNumber?: number;
+  ocrConfidence?: number;
 };
 
 export type ParsedRule = {
@@ -21,6 +26,8 @@ export type ParsedRule = {
   sourceFile: string;
   lineIndex: number;
   lesson: number | null;
+  pageNumber?: number;
+  ocrConfidence?: number;
 };
 
 const LINE_RE =
@@ -67,6 +74,38 @@ function tokenizeForWordOrder(sentence: string): string[] {
   return inner.split(/\s+/).filter((w) => w.length > 0);
 }
 
+export type LineClassification =
+  | { kind: 'vocab'; hu: string; en: string }
+  | { kind: 'phrase'; hu: string; en: null }
+  | { kind: 'rule'; ruleText: string }
+  | { kind: 'skip' };
+
+/** Shared chat + OCR line heuristics (body text only, no timestamp prefix). */
+export function classifyLessonLineBody(raw: string): LineClassification {
+  const body = raw.trim();
+  if (!body || stripNoise(body)) return { kind: 'skip' };
+
+  const pair = parseHyphenPair(body);
+  if (pair) return { kind: 'vocab', hu: pair.hu, en: pair.en };
+
+  if (isHungarianSentence(body)) {
+    const tokens = tokenizeForWordOrder(body);
+    if (tokens.length >= 3) return { kind: 'phrase', hu: body, en: null };
+    return { kind: 'skip' };
+  }
+
+  const low = body.toLowerCase();
+  if (
+    low.includes('verb stem') ||
+    low.includes('conjugat') ||
+    (low.includes('suffix') && body.length < 200)
+  ) {
+    return { kind: 'rule', ruleText: body };
+  }
+
+  return { kind: 'skip' };
+}
+
 export function parseChatFile(
   content: string,
   sourceFile: string,
@@ -87,39 +126,29 @@ export function parseChatFile(
       continue;
     }
 
-    const pair = parseHyphenPair(body);
-    if (pair) {
+    const c = classifyLessonLineBody(body);
+    if (c.kind === 'vocab') {
       vocab.push({
-        hu: pair.hu,
-        en: pair.en,
+        hu: c.hu,
+        en: c.en,
         sourceFile,
         lineIndex: i + 1,
         lesson,
       });
       continue;
     }
-
-    if (isHungarianSentence(body)) {
-      const tokens = tokenizeForWordOrder(body);
-      if (tokens.length >= 3) {
-        phrases.push({
-          hu: body,
-          en: null,
-          sourceFile,
-          lineIndex: i + 1,
-          lesson,
-        });
-      } else skippedLines++;
+    if (c.kind === 'phrase') {
+      phrases.push({
+        hu: c.hu,
+        en: c.en,
+        sourceFile,
+        lineIndex: i + 1,
+        lesson,
+      });
       continue;
     }
-
-    const low = body.toLowerCase();
-    if (
-      low.includes('verb stem') ||
-      low.includes('conjugat') ||
-      (low.includes('suffix') && body.length < 200)
-    ) {
-      rules.push({ ruleText: body, sourceFile, lineIndex: i + 1, lesson });
+    if (c.kind === 'rule') {
+      rules.push({ ruleText: c.ruleText, sourceFile, lineIndex: i + 1, lesson });
       continue;
     }
 

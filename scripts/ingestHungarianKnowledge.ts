@@ -1,6 +1,7 @@
 /**
  * Build src/data/knowledge/*.json from knowledge-source/ (or KNOWLEDGE_SOURCE).
  * Run: npm run ingest:knowledge
+ * PDF OCR: npm run ingest:knowledge -- --pdf [--pdf-max-pages=N] [--pdf-include=regex]
  */
 import * as fs from 'node:fs';
 import * as path from 'node:path';
@@ -20,6 +21,8 @@ type LessonMeta = {
   relativePath: string;
 };
 
+type SourceType = 'markdown' | 'chat' | 'pdf_ocr';
+
 type VocabOut = {
   id: string;
   hu: string;
@@ -28,6 +31,9 @@ type VocabOut = {
   tags: string[];
   sourceFile: string;
   lineIndex?: number;
+  sourceType?: SourceType;
+  pageNumber?: number;
+  ocrConfidence?: number;
 };
 
 type RuleOut = {
@@ -37,6 +43,9 @@ type RuleOut = {
   lesson: number | null;
   sourceFile: string;
   lineIndex?: number;
+  sourceType?: SourceType;
+  pageNumber?: number;
+  ocrConfidence?: number;
 };
 
 type PhraseOut = {
@@ -46,6 +55,9 @@ type PhraseOut = {
   lesson: number | null;
   sourceFile: string;
   lineIndex: number;
+  sourceType?: SourceType;
+  pageNumber?: number;
+  ocrConfidence?: number;
 };
 
 type DrillSeed =
@@ -140,7 +152,44 @@ function difficultyForWordOrder(n: number): 'beginner' | 'intermediate' | 'advan
   return 'advanced';
 }
 
-function main() {
+type IngestCli = {
+  pdf: boolean;
+  pdfMaxPages?: number;
+  pdfInclude?: RegExp;
+};
+
+function parseIngestCli(argv: string[]): IngestCli {
+  const pdf = argv.includes('--pdf');
+  let pdfMaxPages: number | undefined;
+  let pdfInclude: RegExp | undefined;
+  for (const a of argv) {
+    if (a.startsWith('--pdf-max-pages=')) {
+      const raw = a.slice('--pdf-max-pages='.length).trim();
+      if (raw === '') continue;
+      const n = parseInt(raw, 10);
+      if (!Number.isNaN(n) && n >= 0) pdfMaxPages = n;
+    }
+    if (a.startsWith('--pdf-include=')) {
+      const pat = a.slice('--pdf-include='.length);
+      try {
+        pdfInclude = new RegExp(pat);
+      } catch {
+        console.warn('Invalid --pdf-include regex, ignoring:', pat);
+      }
+    }
+  }
+  return { pdf, pdfMaxPages, pdfInclude };
+}
+
+function vocabExplanation(v: VocabOut): string {
+  const loc =
+    v.pageNumber != null ? `${v.sourceFile} (p.${v.pageNumber})` : v.sourceFile;
+  return `${v.en} → ${v.hu} (${loc})`;
+}
+
+async function main() {
+  const cli = parseIngestCli(process.argv.slice(2));
+
   const sourceRoot = process.env.KNOWLEDGE_SOURCE
     ? path.resolve(process.env.KNOWLEDGE_SOURCE)
     : DEFAULT_SOURCE;
@@ -259,6 +308,77 @@ function main() {
     }
   }
 
+  const pdfReport = {
+    enabled: cli.pdf,
+    pdfFilesScanned: 0,
+    pdfPagesOcrd: 0,
+    pdfItemsExtracted: 0,
+    pdfItemsKept: 0,
+    pdfItemsDroppedLowConfidence: 0,
+  };
+
+  if (cli.pdf) {
+    const { runPdfOcrIngest } = await import('./lib/parsePdf');
+    const { terminateOcrWorker } = await import('./lib/ocr');
+    try {
+      const { vocab: pv, phrases: pp, rules: pr, stats } = await runPdfOcrIngest({
+        sourceRoot,
+        relFiles,
+        maxTotalPages: cli.pdfMaxPages,
+        includeRegex: cli.pdfInclude,
+      });
+      pdfReport.pdfFilesScanned = stats.pdfFilesScanned;
+      pdfReport.pdfPagesOcrd = stats.pdfPagesOcrd;
+      pdfReport.pdfItemsExtracted = stats.pdfItemsExtracted;
+      pdfReport.pdfItemsKept = stats.pdfItemsKept;
+      pdfReport.pdfItemsDroppedLowConfidence = stats.pdfItemsDroppedLowConfidence;
+
+      const pdfVocab = dedupeVocab(pv);
+      for (const v of pdfVocab) {
+        vocabAll.push({
+          id: nextId('v'),
+          hu: v.hu,
+          en: v.en,
+          lesson: v.lesson,
+          tags: ['pdf_ocr'],
+          sourceFile: v.sourceFile,
+          lineIndex: v.lineIndex,
+          sourceType: 'pdf_ocr',
+          pageNumber: v.pageNumber,
+          ocrConfidence: v.ocrConfidence,
+        });
+      }
+      for (const p of pp) {
+        phrasesAll.push({
+          id: nextId('p'),
+          hu: p.hu,
+          en: p.en,
+          lesson: p.lesson,
+          sourceFile: p.sourceFile,
+          lineIndex: p.lineIndex,
+          sourceType: 'pdf_ocr',
+          pageNumber: p.pageNumber,
+          ocrConfidence: p.ocrConfidence,
+        });
+      }
+      for (const r of pr) {
+        rulesAll.push({
+          id: nextId('r'),
+          topic: 'pdf_ocr',
+          ruleText: r.ruleText,
+          lesson: r.lesson,
+          sourceFile: r.sourceFile,
+          lineIndex: r.lineIndex,
+          sourceType: 'pdf_ocr',
+          pageNumber: r.pageNumber,
+          ocrConfidence: r.ocrConfidence,
+        });
+      }
+    } finally {
+      await terminateOcrWorker();
+    }
+  }
+
   const vocabDedup: VocabOut[] = [];
   const vseen = new Set<string>();
   for (const v of vocabAll) {
@@ -290,7 +410,7 @@ function main() {
       prompt: `Translate to Hungarian: “${v.en}”`,
       correctAnswer: v.hu,
       distractors: shuffle(distractors).slice(0, 3),
-      explanation: `${v.en} → ${v.hu} (${v.sourceFile})`,
+      explanation: vocabExplanation(v),
     });
   }
 
@@ -305,10 +425,10 @@ function main() {
       difficulty: difficultyForWordOrder(tokens.length),
       lesson: p.lesson,
       prompt: 'Arrange the words into a correct Hungarian sentence:',
-      promptEnglish: '(From your lesson chat)',
+      promptEnglish: p.sourceType === 'pdf_ocr' ? '(From PDF OCR)' : '(From your lesson chat)',
       words: shuffle([...tokens]),
       correctOrder: tokens,
-      explanation: `Source: ${p.sourceFile} (line ${p.lineIndex})`,
+      explanation: `Source: ${p.sourceFile}${p.pageNumber != null ? ` p.${p.pageNumber}` : ''} (line ${p.lineIndex})`,
     });
   }
 
@@ -323,6 +443,7 @@ function main() {
       drillSeeds: seeds.length,
       skippedChatLines,
     },
+    pdf: pdfReport,
   };
 
   fs.writeFileSync(path.join(OUT_DIR, 'lessons.json'), JSON.stringify({ lessons }, null, 2));
@@ -332,7 +453,10 @@ function main() {
   fs.writeFileSync(path.join(OUT_DIR, 'drillSeeds.json'), JSON.stringify({ seeds }, null, 2));
   fs.writeFileSync(path.join(OUT_DIR, 'ingestion-report.json'), JSON.stringify(report, null, 2));
 
-  console.log('Ingest complete:', report.counts);
+  console.log('Ingest complete:', report.counts, cli.pdf ? report.pdf : '');
 }
 
-main();
+main().catch((err) => {
+  console.error(err);
+  process.exit(1);
+});
