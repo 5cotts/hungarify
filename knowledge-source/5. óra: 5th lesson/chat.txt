@@ -1,0 +1,33 @@
+16:49:53	 From HunLan Solutions : dolgozni-to work
+16:50:42	 From HunLan Solutions : Nincs feleségem-I don't have wife
+16:50:53	 From HunLan Solutions : I am not married-Nem vagyok házas
+16:50:56	 From HunLan Solutions : házas-married
+16:51:55	 From HunLan Solutions : Nincs gyerekem-I have no child
+16:52:37	 From HunLan Solutions : állampolgár-citizen
+16:53:10	 From HunLan Solutions : Amerikai vagyok
+16:53:15	 From HunLan Solutions : Amerikai állampolgár vagyok
+16:54:29	 From HunLan Solutions : Harmincegy éves vagyok (I am 31 years old)
+16:55:13	 From HunLan Solutions : Az anyukám hatvanhat (66) éves
+16:57:49	 From HunLan Solutions : Tanulok/Beszélek (I study/ I speak) +LANGUAGE+ul/ül
+16:58:16	 From HunLan Solutions : Beszélek angolul, spanyolul és magyarul
+16:59:45	 From HunLan Solutions : Igen, az apukám
+16:59:48	 From HunLan Solutions : Yes, my dad
+16:59:55	 From HunLan Solutions : és az anyukám-and my mum
+17:00:12	 From HunLan Solutions : Igen, az édesanyám és az édesapám
+17:06:10	 From HunLan Solutions : eső-rain
+17:06:14	 From HunLan Solutions : esik-falls
+17:06:47	 From HunLan Solutions : hó-snow
+17:07:19	 From HunLan Solutions : fog-köd
+17:07:38	 From HunLan Solutions : cloud-felhő
+17:07:46	 From HunLan Solutions : cloudy-felhős
+17:07:50	 From HunLan Solutions : idő-weather
+17:08:00	 From HunLan Solutions : időjárás-weather
+17:09:12	 From HunLan Solutions : szél-wind
+17:09:15	 From HunLan Solutions : szeles-windy
+17:59:17	 From HunLan Solutions : találkozunk január huszonegyedikén
+17:59:23	 From HunLan Solutions : találkozunk-we meet
+17:59:45	 From HunLan Solutions : Magyarországon-in Hungary
+17:59:49	 From HunLan Solutions : délután 3 óra
+17:59:53	 From HunLan Solutions : afternoon 3pm
+18:00:07	 From HunLan Solutions : Szép hetet kívánok!
+18:00:16	 From HunLan Solutions : I wish you a nice week!

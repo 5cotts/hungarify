@@ -22,5 +22,6 @@ Open the project in **Expo Go** on an iPhone (scan the QR code), or press `i` fo
 - `src/engine/` — Exercise generation and answer checking
 - `src/data/` — JSON exercise content
 - `src/db/` — SQLite progress (`expo-sqlite`)
+- `knowledge-source/` — Hungarian lesson materials (PDFs, chats, markdown notes, etc.) tracked in this repo for backup and sharing
 
 Progress is stored on-device only; no network calls are required for drills.
