@@ -4,6 +4,7 @@ import { generateCases } from './cases';
 import { generateVowelHarmony } from './vowelHarmony';
 import { generateWordOrder } from './wordOrder';
 import { generateNumbers } from './numbers';
+import { tryKnowledgeExercise } from './knowledgeDrills';
 import { normalizeAnswer } from './util';
 
 const generators: Record<ModuleId, (d: Difficulty) => Exercise> = {
@@ -14,7 +15,22 @@ const generators: Record<ModuleId, (d: Difficulty) => Exercise> = {
   numbers: generateNumbers,
 };
 
-export function generateExercise(module: ModuleId, difficulty: Difficulty): Exercise {
+export type GenerateOptions = {
+  /** When set, only knowledge drills tagged with this lesson number are used (if any). */
+  lessonNumber?: number | null;
+};
+
+const KNOWLEDGE_MIX = 0.38;
+
+export function generateExercise(
+  module: ModuleId,
+  difficulty: Difficulty,
+  options?: GenerateOptions
+): Exercise {
+  if (Math.random() < KNOWLEDGE_MIX) {
+    const k = tryKnowledgeExercise(module, difficulty, options?.lessonNumber);
+    if (k) return k;
+  }
   return generators[module](difficulty);
 }
 

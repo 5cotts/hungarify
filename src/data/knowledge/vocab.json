@@ -1,0 +1,6430 @@
+{
+  "items": [
+    {
+      "id": "v-1",
+      "hu": "15:09:27\t From HunLan Solutions : és",
+      "en": "and",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "v-2",
+      "hu": "15:09:37\t From HunLan Solutions : is",
+      "en": "also, as, well",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-3",
+      "hu": "15:13:07\t From HunLan Solutions : ország",
+      "en": "country",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "v-4",
+      "hu": "15:13:17\t From HunLan Solutions : országok",
+      "en": "countries",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-5",
+      "hu": "15:13:26\t From HunLan Solutions : nemzetiség",
+      "en": "nationality",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 5
+    },
+    {
+      "id": "v-6",
+      "hu": "15:13:35\t From HunLan Solutions : nemzetiségek",
+      "en": "nationalities",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 6
+    },
+    {
+      "id": "v-7",
+      "hu": "15:13:56\t From HunLan Solutions : s",
+      "en": "sugar",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 7
+    },
+    {
+      "id": "v-8",
+      "hu": "Egyesült Államok",
+      "en": "15:15:32\t From HunLan Solutions : United States",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 8
+    },
+    {
+      "id": "v-9",
+      "hu": "15:15:41\t From HunLan Solutions : állam",
+      "en": "state",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "v-10",
+      "hu": "15:15:58\t From HunLan Solutions : Amerikai Egyesült Államok",
+      "en": "United States of America",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 10
+    },
+    {
+      "id": "v-11",
+      "hu": "15:16:51\t From HunLan Solutions : g",
+      "en": "go",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "v-12",
+      "hu": "15:16:58\t From HunLan Solutions : Anglia",
+      "en": "England",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-13",
+      "hu": "Egyesült Királyság",
+      "en": "15:17:12\t From HunLan Solutions : United Kingdom",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 14
+    },
+    {
+      "id": "v-14",
+      "hu": "15:17:15\t From HunLan Solutions : király",
+      "en": "king",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-15",
+      "hu": "15:17:45\t From HunLan Solutions : Great Britain",
+      "en": "Nagy Britannia",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 16
+    },
+    {
+      "id": "v-16",
+      "hu": "15:21:51\t From HunLan Solutions : nyelv",
+      "en": "language",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-17",
+      "hu": "15:21:56\t From HunLan Solutions : nyelvek",
+      "en": "languages",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 18
+    },
+    {
+      "id": "v-18",
+      "hu": "15:22:08\t From HunLan Solutions : cat",
+      "en": "macska",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "v-19",
+      "hu": "macskák",
+      "en": "15:22:18\t From HunLan Solutions : cats",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-20",
+      "hu": "k, ek, ak, ok, ök",
+      "en": "15:22:57\t From HunLan Solutions : s, es",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "v-21",
+      "hu": "16:02:57\t From HunLan Solutions : magas",
+      "en": "high",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-22",
+      "hu": "16:03:19\t From HunLan Solutions : mély",
+      "en": "deep",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-23",
+      "hu": "16:03:56\t From HunLan Solutions : te vagy",
+      "en": "you are (informal, singular)",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 26
+    },
+    {
+      "id": "v-24",
+      "hu": "16:04:09\t From HunLan Solutions : vagy",
+      "en": "or",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 27
+    },
+    {
+      "id": "v-25",
+      "hu": "16:06:27\t From HunLan Solutions : Velence",
+      "en": "Venice",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 28
+    },
+    {
+      "id": "v-26",
+      "hu": "16:07:35\t From HunLan Solutions : Bécs",
+      "en": "Viena",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 29
+    },
+    {
+      "id": "v-27",
+      "hu": "16:17:21\t From HunLan Solutions : én vagyok",
+      "en": "I am",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 31
+    },
+    {
+      "id": "v-28",
+      "hu": "16:17:29\t From HunLan Solutions : te vagy",
+      "en": "you are (informal)",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 32
+    },
+    {
+      "id": "v-29",
+      "hu": "16:17:42\t From HunLan Solutions : Ön van",
+      "en": "polite you are (singular)",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 33
+    },
+    {
+      "id": "v-30",
+      "hu": "16:17:48\t From HunLan Solutions : ő van",
+      "en": "she/he is",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 34
+    },
+    {
+      "id": "v-31",
+      "hu": "16:17:54\t From HunLan Solutions : mi vagyunk",
+      "en": "we are",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 35
+    },
+    {
+      "id": "v-32",
+      "hu": "16:18:03\t From HunLan Solutions : ti vagytok",
+      "en": "you all are (informal)",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 36
+    },
+    {
+      "id": "v-33",
+      "hu": "16:18:13\t From HunLan Solutions : Önök vannak",
+      "en": "you all are (polite form)",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "v-34",
+      "hu": "16:18:18\t From HunLan Solutions : ők vannak",
+      "en": "they are",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 38
+    },
+    {
+      "id": "v-35",
+      "hu": "16:21:35\t From HunLan Solutions : Kertben vagytok",
+      "en": "you all are in the garden",
+      "lesson": 1,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "1. óra: 1st lesson/chat.txt",
+      "lineIndex": 41
+    },
+    {
+      "id": "v-38",
+      "hu": "15:08:09\t From HunLan Solutions : látnivaló",
+      "en": "sightseeing",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "v-39",
+      "hu": "15:08:55\t From HunLan Solutions : hős",
+      "en": "hero",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-40",
+      "hu": "15:26:45\t From HunLan Solutions : egyetem",
+      "en": "university",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "v-41",
+      "hu": "15:28:18\t From HunLan Solutions : Az Észak",
+      "en": "Keleti Egyetemen végeztem.",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-42",
+      "hu": "15:28:44\t From HunLan Solutions : diploma",
+      "en": "University degree",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 6
+    },
+    {
+      "id": "v-43",
+      "hu": "15:28:49\t From HunLan Solutions : szereztem",
+      "en": "I got",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 7
+    },
+    {
+      "id": "v-44",
+      "hu": "15:29:33\t From HunLan Solutions : mesterképzés",
+      "en": "master course",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 10
+    },
+    {
+      "id": "v-45",
+      "hu": "15:30:22\t From HunLan Solutions : közgazdász",
+      "en": "economics",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "v-46",
+      "hu": "15:31:34\t From HunLan Solutions : informatika",
+      "en": "IT science",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-47",
+      "hu": "15:32:01\t From HunLan Solutions : szeretnék",
+      "en": "I would like",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "v-48",
+      "hu": "15:40:21\t From HunLan Solutions : ugatni",
+      "en": "to barke",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-49",
+      "hu": "15:40:28\t From HunLan Solutions : utca",
+      "en": "street",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "v-50",
+      "hu": "15:41:28\t From HunLan Solutions : tanuló, diák",
+      "en": "student",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-51",
+      "hu": "15:41:31\t From HunLan Solutions : levél",
+      "en": "letter",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-52",
+      "hu": "15:41:35\t From HunLan Solutions : írni",
+      "en": "to write",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-53",
+      "hu": "15:42:09\t From HunLan Solutions : népdal",
+      "en": "folk song",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 25
+    },
+    {
+      "id": "v-54",
+      "hu": "15:42:30\t From HunLan Solutions : énekelni",
+      "en": "to sing",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 26
+    },
+    {
+      "id": "v-55",
+      "hu": "15:42:38\t From HunLan Solutions : kulcs",
+      "en": "key",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 27
+    },
+    {
+      "id": "v-56",
+      "hu": "15:43:19\t From HunLan Solutions : olvasni",
+      "en": "to read",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 28
+    },
+    {
+      "id": "v-57",
+      "hu": "15:43:24\t From HunLan Solutions : fizetni",
+      "en": "to pay",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 29
+    },
+    {
+      "id": "v-58",
+      "hu": "15:43:35\t From HunLan Solutions : étterem",
+      "en": "restaurant",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 30
+    },
+    {
+      "id": "v-59",
+      "hu": "15:43:42\t From HunLan Solutions : vacsora",
+      "en": "dinner",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 31
+    },
+    {
+      "id": "v-60",
+      "hu": "15:43:46\t From HunLan Solutions : után",
+      "en": "after",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 32
+    },
+    {
+      "id": "v-61",
+      "hu": "15:44:07\t From HunLan Solutions : mesekönyv",
+      "en": "tale book",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 33
+    },
+    {
+      "id": "v-62",
+      "hu": "15:44:27\t From HunLan Solutions : válaszolni",
+      "en": "to answer",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 34
+    },
+    {
+      "id": "v-63",
+      "hu": "15:44:30\t From HunLan Solutions : tudni",
+      "en": "can",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 35
+    },
+    {
+      "id": "v-64",
+      "hu": "15:44:45\t From HunLan Solutions : kérdés",
+      "en": "question",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 36
+    },
+    {
+      "id": "v-65",
+      "hu": "15:44:49\t From HunLan Solutions : úszni",
+      "en": "to swim",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "v-66",
+      "hu": "15:45:40\t From HunLan Solutions : várni",
+      "en": "to wait",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 38
+    },
+    {
+      "id": "v-67",
+      "hu": "15:45:44\t From HunLan Solutions : mondani",
+      "en": "to say",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 39
+    },
+    {
+      "id": "v-68",
+      "hu": "15:48:52\t From HunLan Solutions : játék",
+      "en": "toy, game",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 40
+    },
+    {
+      "id": "v-69",
+      "hu": "15:48:57\t From HunLan Solutions : játszani",
+      "en": "to play",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 41
+    },
+    {
+      "id": "v-70",
+      "hu": "15:53:04\t From HunLan Solutions : segíteni",
+      "en": "to help",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 42
+    },
+    {
+      "id": "v-71",
+      "hu": "15:53:08\t From HunLan Solutions : segít",
+      "en": "verb stem",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 43
+    },
+    {
+      "id": "v-72",
+      "hu": "15:53:12\t From HunLan Solutions : tanítani",
+      "en": "to teach",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "v-73",
+      "hu": "15:53:18\t From HunLan Solutions : tanít",
+      "en": "verb stem",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 45
+    },
+    {
+      "id": "v-74",
+      "hu": "15:53:22\t From HunLan Solutions : küldeni",
+      "en": "to send",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 46
+    },
+    {
+      "id": "v-75",
+      "hu": "15:53:32\t From HunLan Solutions : küld",
+      "en": "verb stem",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 47
+    },
+    {
+      "id": "v-76",
+      "hu": "15:53:43\t From HunLan Solutions : mondani",
+      "en": "to say",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 48
+    },
+    {
+      "id": "v-77",
+      "hu": "15:53:48\t From HunLan Solutions : mond",
+      "en": "verb stem",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 49
+    },
+    {
+      "id": "v-78",
+      "hu": "16:01:14\t From HunLan Solutions : főzni",
+      "en": "to cook",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 50
+    },
+    {
+      "id": "v-79",
+      "hu": "16:01:18\t From HunLan Solutions : főz",
+      "en": "verb stem",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 51
+    },
+    {
+      "id": "v-80",
+      "hu": "16:01:24\t From HunLan Solutions : hozni",
+      "en": "to bring",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 52
+    },
+    {
+      "id": "v-81",
+      "hu": "16:01:27\t From HunLan Solutions : hoz",
+      "en": "verb stem",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 53
+    },
+    {
+      "id": "v-82",
+      "hu": "16:01:32\t From HunLan Solutions : keresni",
+      "en": "to look for",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 54
+    },
+    {
+      "id": "v-83",
+      "hu": "16:01:37\t From HunLan Solutions : keres",
+      "en": "verb stem",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 55
+    },
+    {
+      "id": "v-84",
+      "hu": "16:28:33\t From HunLan Solutions : választani",
+      "en": "to choose",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 56
+    },
+    {
+      "id": "v-85",
+      "hu": "pár",
+      "en": "16:28:36\t From HunLan Solutions : pair",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 57
+    },
+    {
+      "id": "v-86",
+      "hu": "zöld",
+      "en": "16:29:20\t From HunLan Solutions : green",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 58
+    },
+    {
+      "id": "v-87",
+      "hu": "16:29:23\t From HunLan Solutions : fű",
+      "en": "grass",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 59
+    },
+    {
+      "id": "v-88",
+      "hu": "16:30:22\t From HunLan Solutions : halál",
+      "en": "death",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 60
+    },
+    {
+      "id": "v-89",
+      "hu": "16:30:42\t From HunLan Solutions : feltámadás",
+      "en": "resurection",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 61
+    },
+    {
+      "id": "v-90",
+      "hu": "nyílni",
+      "en": "16:31:05\t From HunLan Solutions : to open",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 62
+    },
+    {
+      "id": "v-91",
+      "hu": "16:31:21\t From HunLan Solutions : virág",
+      "en": "flower",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 64
+    },
+    {
+      "id": "v-92",
+      "hu": "16:32:30\t From HunLan Solutions : madár",
+      "en": "bird",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 65
+    },
+    {
+      "id": "v-93",
+      "hu": "16:32:34\t From HunLan Solutions : ének",
+      "en": "song",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 66
+    },
+    {
+      "id": "v-94",
+      "hu": "16:33:24\t From HunLan Solutions : fa",
+      "en": "tree",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 68
+    },
+    {
+      "id": "v-95",
+      "hu": "16:33:28\t From HunLan Solutions : fák",
+      "en": "trees",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 69
+    },
+    {
+      "id": "v-96",
+      "hu": "16:33:44\t From HunLan Solutions : rügy",
+      "en": "bud",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 70
+    },
+    {
+      "id": "v-97",
+      "hu": "16:39:00\t From HunLan Solutions : október 25, szerda",
+      "en": "Wednesday",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 71
+    },
+    {
+      "id": "v-98",
+      "hu": "16:39:06\t From HunLan Solutions : 2 óra",
+      "en": "Budapesten",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 72
+    },
+    {
+      "id": "v-99",
+      "hu": "16:39:47\t From HunLan Solutions : hétvége",
+      "en": "weekend",
+      "lesson": 10,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "10. óra: 10th lesson/chat.txt",
+      "lineIndex": 74
+    },
+    {
+      "id": "v-102",
+      "hu": "14:27:26\t From HunLan Solutions : kiváló",
+      "en": "excellent",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "v-103",
+      "hu": "14:30:04\t From HunLan Solutions : reggeli",
+      "en": "breakfast",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-104",
+      "hu": "14:30:16\t From HunLan Solutions : reggelizni",
+      "en": "to have breakfast",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "v-105",
+      "hu": "14:30:20\t From HunLan Solutions : ebéd",
+      "en": "lunch",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-106",
+      "hu": "14:30:27\t From HunLan Solutions : ebédelni",
+      "en": "to have lunch",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 5
+    },
+    {
+      "id": "v-107",
+      "hu": "14:30:57\t From HunLan Solutions : vacsora",
+      "en": "dinner",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 6
+    },
+    {
+      "id": "v-108",
+      "hu": "14:31:05\t From HunLan Solutions : vacsorázni",
+      "en": "to have dinner",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 7
+    },
+    {
+      "id": "v-109",
+      "hu": "14:32:53\t From HunLan Solutions : le",
+      "en": "down",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 8
+    },
+    {
+      "id": "v-110",
+      "hu": "14:32:57\t From HunLan Solutions : feküdni",
+      "en": "to lay",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "v-111",
+      "hu": "14:33:13\t From HunLan Solutions : Megyek lefeküdni",
+      "en": "I go to lay down",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 10
+    },
+    {
+      "id": "v-112",
+      "hu": "14:33:20\t From HunLan Solutions : Megyek aludni",
+      "en": "I go to sleep",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "v-113",
+      "hu": "14:48:30\t From HunLan Solutions : gondolkodni",
+      "en": "to think",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "v-114",
+      "hu": "14:48:34\t From HunLan Solutions : törődni",
+      "en": "to care",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-115",
+      "hu": "14:48:44\t From HunLan Solutions : fésülködni",
+      "en": "to comb your hair",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 14
+    },
+    {
+      "id": "v-116",
+      "hu": "14:48:47\t From HunLan Solutions : lakni",
+      "en": "to live",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-117",
+      "hu": "14:57:26\t From HunLan Solutions : előtt",
+      "en": "before",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 16
+    },
+    {
+      "id": "v-118",
+      "hu": "14:57:29\t From HunLan Solutions : dél",
+      "en": "noon",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-119",
+      "hu": "14:57:38\t From HunLan Solutions : délelőtt",
+      "en": "late morning",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 18
+    },
+    {
+      "id": "v-120",
+      "hu": "14:58:55\t From HunLan Solutions : megy",
+      "en": "goes",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "v-121",
+      "hu": "14:59:05\t From HunLan Solutions : munka",
+      "en": "work as a noun",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-122",
+      "hu": "15:00:12\t From HunLan Solutions : le",
+      "en": "down",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "v-123",
+      "hu": "15:00:15\t From HunLan Solutions : fel",
+      "en": "up",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-124",
+      "hu": "15:01:29\t From HunLan Solutions : vége",
+      "en": "end",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-125",
+      "hu": "15:01:38\t From HunLan Solutions : végezni",
+      "en": "to finish",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-126",
+      "hu": "várni",
+      "en": "15:05:12\t From HunLan Solutions : to wait",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 25
+    },
+    {
+      "id": "v-127",
+      "hu": "15:05:33\t From HunLan Solutions : megálló, buszmegálló",
+      "en": "bus stop",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 26
+    },
+    {
+      "id": "v-128",
+      "hu": "15:07:21\t From HunLan Solutions : vásárolni",
+      "en": "to do shopping",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 27
+    },
+    {
+      "id": "v-129",
+      "hu": "15:08:40\t From HunLan Solutions : fürdőszoba",
+      "en": "bathroom",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 28
+    },
+    {
+      "id": "v-130",
+      "hu": "termál fürdő",
+      "en": "15:08:48\t From HunLan Solutions : thermal bath",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 29
+    },
+    {
+      "id": "v-131",
+      "hu": "15:09:29\t From HunLan Solutions : music",
+      "en": "zene",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 30
+    },
+    {
+      "id": "v-132",
+      "hu": "15:09:47\t From HunLan Solutions : hallgatni",
+      "en": "to listen",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 31
+    },
+    {
+      "id": "v-133",
+      "hu": "sétálni",
+      "en": "15:11:54\t From HunLan Solutions : to walk",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 32
+    },
+    {
+      "id": "v-134",
+      "hu": "15:13:42\t From HunLan Solutions : kor",
+      "en": "at a time",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 33
+    },
+    {
+      "id": "v-135",
+      "hu": "kor vacsorázom/vacsorázok",
+      "en": "15:14:38\t From HunLan Solutions : 6",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 35
+    },
+    {
+      "id": "v-136",
+      "hu": "15:14:49\t From HunLan Solutions : vacsorázik",
+      "en": "ő/Ön",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 36
+    },
+    {
+      "id": "v-137",
+      "hu": "15:15:40\t From HunLan Solutions : csinálni",
+      "en": "to do",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "v-138",
+      "hu": "15:15:48\t From HunLan Solutions : munka",
+      "en": "work as a noun",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 38
+    },
+    {
+      "id": "v-139",
+      "hu": "15:15:52\t From HunLan Solutions : után",
+      "en": "after",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 39
+    },
+    {
+      "id": "v-140",
+      "hu": "15:15:54\t From HunLan Solutions : mit",
+      "en": "what",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 40
+    },
+    {
+      "id": "v-141",
+      "hu": "15:18:10\t From HunLan Solutions : tól, től",
+      "en": "from",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 42
+    },
+    {
+      "id": "v-142",
+      "hu": "15:18:13\t From HunLan Solutions : ig",
+      "en": "to a time",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 43
+    },
+    {
+      "id": "v-143",
+      "hu": "től",
+      "en": "15:18:59\t From HunLan Solutions : 10",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "v-144",
+      "hu": "15:19:19\t From HunLan Solutions : 7",
+      "en": "ig dolgozom/dolgozok",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 45
+    },
+    {
+      "id": "v-145",
+      "hu": "15:20:22\t From HunLan Solutions : I eat",
+      "en": "eszek, eszem",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 46
+    },
+    {
+      "id": "v-146",
+      "hu": "tojás",
+      "en": "15:21:22\t From HunLan Solutions : egg",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 48
+    },
+    {
+      "id": "v-147",
+      "hu": "müzli",
+      "en": "15:21:34\t From HunLan Solutions : cereal",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 49
+    },
+    {
+      "id": "v-148",
+      "hu": "pirítós",
+      "en": "15:21:42\t From HunLan Solutions : toast",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 50
+    },
+    {
+      "id": "v-149",
+      "hu": "15:21:47\t From HunLan Solutions : sajt",
+      "en": "cheese",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 51
+    },
+    {
+      "id": "v-150",
+      "hu": "15:23:27\t From HunLan Solutions : befejezni",
+      "en": "to finish",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 53
+    },
+    {
+      "id": "v-151",
+      "hu": "15:23:47\t From HunLan Solutions : végezni",
+      "en": "to finish",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 55
+    },
+    {
+      "id": "v-152",
+      "hu": "15:25:00\t From HunLan Solutions : szünet",
+      "en": "break",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 58
+    },
+    {
+      "id": "v-153",
+      "hu": "15:25:18\t From HunLan Solutions : ebédszünet",
+      "en": "lunch break",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 59
+    },
+    {
+      "id": "v-154",
+      "hu": "15:25:39\t From HunLan Solutions : Ebédelek 12",
+      "en": "kor",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 60
+    },
+    {
+      "id": "v-155",
+      "hu": "délben",
+      "en": "15:25:50\t From HunLan Solutions : at noon",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 62
+    },
+    {
+      "id": "v-156",
+      "hu": "15:26:49\t From HunLan Solutions : kelek",
+      "en": "I get up",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 65
+    },
+    {
+      "id": "v-157",
+      "hu": "15:26:53\t From HunLan Solutions : felkelek",
+      "en": "I get up",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 66
+    },
+    {
+      "id": "v-158",
+      "hu": "15:27:49\t From HunLan Solutions : aludni",
+      "en": "to sleep",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 67
+    },
+    {
+      "id": "v-159",
+      "hu": "15:27:57\t From HunLan Solutions : alsz",
+      "en": "verb stem",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 68
+    },
+    {
+      "id": "v-160",
+      "hu": "15:28:51\t From HunLan Solutions : 10",
+      "en": "kor alszok",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 75
+    },
+    {
+      "id": "v-161",
+      "hu": "15:29:12\t From HunLan Solutions : 10",
+      "en": "kor megyek aludni",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 76
+    },
+    {
+      "id": "v-162",
+      "hu": "15:29:21\t From HunLan Solutions : megyek aludni",
+      "en": "I go to sleep",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 77
+    },
+    {
+      "id": "v-163",
+      "hu": "15:30:06\t From HunLan Solutions : 9",
+      "en": "kor reggelizek",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 78
+    },
+    {
+      "id": "v-164",
+      "hu": "15:34:04\t From HunLan Solutions : szerda",
+      "en": "Wednesday",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 80
+    },
+    {
+      "id": "v-165",
+      "hu": "15:34:49\t From HunLan Solutions : haza",
+      "en": "home",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 83
+    },
+    {
+      "id": "v-166",
+      "hu": "15:34:53\t From HunLan Solutions : út",
+      "en": "way",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 84
+    },
+    {
+      "id": "v-167",
+      "hu": "15:35:04\t From HunLan Solutions : kívánok",
+      "en": "I wish",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat (1).txt",
+      "lineIndex": 85
+    },
+    {
+      "id": "v-171",
+      "hu": "14:01:49\t From HunLan Solutions : Furcsa",
+      "en": "Strange",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat.txt",
+      "lineIndex": 5
+    },
+    {
+      "id": "v-172",
+      "hu": "14:11:48\t From HunLan Solutions : szomszéd",
+      "en": "neighbour",
+      "lesson": 11,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "11. óra: 11th lesson/chat.txt",
+      "lineIndex": 8
+    },
+    {
+      "id": "v-174",
+      "hu": "16:01:56\t From HunLan Solutions : kedv",
+      "en": "mood",
+      "lesson": 12,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-175",
+      "hu": "Lánchíd",
+      "en": "17:00:27\t From HunLan Solutions : Chain Bridge",
+      "lesson": 12,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 7
+    },
+    {
+      "id": "v-176",
+      "hu": "17:06:24\t From HunLan Solutions : megkínálni",
+      "en": "to offer",
+      "lesson": 12,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 8
+    },
+    {
+      "id": "v-177",
+      "hu": "17:10:31\t From HunLan Solutions : hónap",
+      "en": "month",
+      "lesson": 12,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "v-178",
+      "hu": "17:15:24\t From HunLan Solutions : október 22",
+      "en": "én",
+      "lesson": 12,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-179",
+      "hu": "17:17:35\t From HunLan Solutions : Nincs testvérem",
+      "en": "I have no sibling",
+      "lesson": 12,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 14
+    },
+    {
+      "id": "v-180",
+      "hu": "17:23:38\t From HunLan Solutions : élet",
+      "en": "life",
+      "lesson": 12,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 16
+    },
+    {
+      "id": "v-181",
+      "hu": "17:23:40\t From HunLan Solutions : kor",
+      "en": "age",
+      "lesson": 12,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "12. óra: 12th lesson/chat.txt",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-184",
+      "hu": "10:01:12\t From HunLan Solutions : út",
+      "en": "way",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-185",
+      "hu": "10:01:16\t From HunLan Solutions : hosszú",
+      "en": "long",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "v-186",
+      "hu": "10:01:39\t From HunLan Solutions : tényleg",
+      "en": "really",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 5
+    },
+    {
+      "id": "v-187",
+      "hu": "10:10:13\t From HunLan Solutions : csinálom",
+      "en": "I do",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 8
+    },
+    {
+      "id": "v-188",
+      "hu": "10:10:18\t From HunLan Solutions : tanulom",
+      "en": "I study",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "v-189",
+      "hu": "10:11:54\t From HunLan Solutions : érteni",
+      "en": "to understand",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 10
+    },
+    {
+      "id": "v-190",
+      "hu": "10:15:48\t From HunLan Solutions : pancake",
+      "en": "palacsinta",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "v-191",
+      "hu": "10:16:47\t From HunLan Solutions : sentence",
+      "en": "mondat",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-192",
+      "hu": "ők",
+      "en": "10:17:04\t From HunLan Solutions : they",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 16
+    },
+    {
+      "id": "v-193",
+      "hu": "10:17:34\t From HunLan Solutions : package",
+      "en": "csomag",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "v-194",
+      "hu": "10:18:07\t From HunLan Solutions : én",
+      "en": "om, em, öm, m",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "v-195",
+      "hu": "d, od, ed, öd",
+      "en": "10:18:12\t From HunLan Solutions : te",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-196",
+      "hu": "10:18:16\t From HunLan Solutions : ő/Ön",
+      "en": "ja, i",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-197",
+      "hu": "juk, jük",
+      "en": "10:18:20\t From HunLan Solutions : mi",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-198",
+      "hu": "játok, itek",
+      "en": "10:18:24\t From HunLan Solutions : ti",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 25
+    },
+    {
+      "id": "v-199",
+      "hu": "10:18:29\t From HunLan Solutions : ők/Önök",
+      "en": "ják, ik",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 26
+    },
+    {
+      "id": "v-200",
+      "hu": "10:22:36\t From HunLan Solutions : nézni",
+      "en": "to watch",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 27
+    },
+    {
+      "id": "v-201",
+      "hu": "10:22:46\t From HunLan Solutions : látni",
+      "en": "to see",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 28
+    },
+    {
+      "id": "v-202",
+      "hu": "10:22:56\t From HunLan Solutions : csinálni",
+      "en": "to do",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 29
+    },
+    {
+      "id": "v-203",
+      "hu": "10:23:09\t From HunLan Solutions : érteni",
+      "en": "to understand",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 30
+    },
+    {
+      "id": "v-204",
+      "hu": "10:23:17\t From HunLan Solutions : olvasni",
+      "en": "to read",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 31
+    },
+    {
+      "id": "v-205",
+      "hu": "10:23:26\t From HunLan Solutions : élni",
+      "en": "to live",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 32
+    },
+    {
+      "id": "v-206",
+      "hu": "10:23:32\t From HunLan Solutions : írni",
+      "en": "to write",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 33
+    },
+    {
+      "id": "v-207",
+      "hu": "10:23:40\t From HunLan Solutions : tanulni",
+      "en": "to study, to learn",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 34
+    },
+    {
+      "id": "v-208",
+      "hu": "10:25:14\t From HunLan Solutions : új",
+      "en": "new",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 35
+    },
+    {
+      "id": "v-209",
+      "hu": "10:26:44\t From HunLan Solutions : önéletrajz",
+      "en": "biography",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 36
+    },
+    {
+      "id": "v-210",
+      "hu": "10:29:01\t From HunLan Solutions : kérdés",
+      "en": "question",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "v-211",
+      "hu": "10:29:33\t From HunLan Solutions : élet",
+      "en": "life",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 38
+    },
+    {
+      "id": "v-212",
+      "hu": "10:29:38\t From HunLan Solutions : életünk",
+      "en": "our life",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 39
+    },
+    {
+      "id": "v-213",
+      "hu": "10:34:19\t From HunLan Solutions : sorozat",
+      "en": "series",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 40
+    },
+    {
+      "id": "v-214",
+      "hu": "10:34:41\t From HunLan Solutions : mesekönyv",
+      "en": "fairy tale book",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 41
+    },
+    {
+      "id": "v-215",
+      "hu": "10:35:07\t From HunLan Solutions : ugatás",
+      "en": "barking",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 42
+    },
+    {
+      "id": "v-216",
+      "hu": "10:35:11\t From HunLan Solutions : ugatni",
+      "en": "to barke",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 43
+    },
+    {
+      "id": "v-217",
+      "hu": "10:36:01\t From HunLan Solutions : utazni",
+      "en": "to travel",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "v-218",
+      "hu": "10:37:13\t From HunLan Solutions : dal",
+      "en": "song",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 45
+    },
+    {
+      "id": "v-219",
+      "hu": "10:37:28\t From HunLan Solutions : énekelni",
+      "en": "to sing",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 46
+    },
+    {
+      "id": "v-220",
+      "hu": "10:40:04\t From HunLan Solutions : kirándulni",
+      "en": "to go on a trip",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 47
+    },
+    {
+      "id": "v-221",
+      "hu": "10:41:56\t From HunLan Solutions : komoly",
+      "en": "serious",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 48
+    },
+    {
+      "id": "v-222",
+      "hu": "10:42:12\t From HunLan Solutions : zene",
+      "en": "music",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 50
+    },
+    {
+      "id": "v-223",
+      "hu": "10:42:21\t From HunLan Solutions : komolyzene",
+      "en": "classical music",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 51
+    },
+    {
+      "id": "v-224",
+      "hu": "10:42:53\t From HunLan Solutions : mozi",
+      "en": "cinema",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 52
+    },
+    {
+      "id": "v-225",
+      "hu": "11:19:54\t From HunLan Solutions : 1994. október huszonkettedikén (22",
+      "en": "én) születtem",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 53
+    },
+    {
+      "id": "v-226",
+      "hu": "11:26:57\t From HunLan Solutions : ág",
+      "en": "branch",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 60
+    },
+    {
+      "id": "v-227",
+      "hu": "11:27:12\t From HunLan Solutions : felmenő",
+      "en": "ancestor",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 63
+    },
+    {
+      "id": "v-228",
+      "hu": "11:28:48\t From HunLan Solutions : született",
+      "en": "he was born",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 69
+    },
+    {
+      "id": "v-229",
+      "hu": "11:29:23\t From HunLan Solutions : megye",
+      "en": "county",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 72
+    },
+    {
+      "id": "v-230",
+      "hu": "11:29:28\t From HunLan Solutions : megyében",
+      "en": "in county",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 73
+    },
+    {
+      "id": "v-231",
+      "hu": "11:29:52\t From HunLan Solutions : Mikor emigrált az USA",
+      "en": "ba nagyapja?",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 74
+    },
+    {
+      "id": "v-232",
+      "hu": "11:30:07\t From HunLan Solutions : 1955",
+      "en": "ben",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 75
+    },
+    {
+      "id": "v-233",
+      "hu": "11:32:01\t From HunLan Solutions : jövő hét",
+      "en": "next week",
+      "lesson": 13,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "13. óra: 13th lesson/chat.txt",
+      "lineIndex": 81
+    },
+    {
+      "id": "v-249",
+      "hu": "16:31:14\t From HunLan Solutions : Jól",
+      "en": "well",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "v-250",
+      "hu": "16:31:19\t From HunLan Solutions : Jól vagyok",
+      "en": "I am well",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-251",
+      "hu": "16:32:24\t From HunLan Solutions : Én is jól vagyok",
+      "en": "I am also well,",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "v-252",
+      "hu": "16:32:29\t From HunLan Solutions : köszönöm",
+      "en": "Thank you",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 10
+    },
+    {
+      "id": "v-253",
+      "hu": "világ",
+      "en": "16:54:53\t From HunLan Solutions : World",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "v-254",
+      "hu": "a világon",
+      "en": "16:55:01\t From HunLan Solutions : in the World",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "v-255",
+      "hu": "16:55:07\t From HunLan Solutions : sziget",
+      "en": "island",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-256",
+      "hu": "17:04:56\t From HunLan Solutions : itt",
+      "en": "here",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 14
+    },
+    {
+      "id": "v-257",
+      "hu": "17:04:58\t From HunLan Solutions : ott",
+      "en": "there",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-258",
+      "hu": "17:22:44\t From HunLan Solutions : cipő",
+      "en": "shoe",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 18
+    },
+    {
+      "id": "v-259",
+      "hu": "17:34:16\t From HunLan Solutions : lány",
+      "en": "girl",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-260",
+      "hu": "17:34:19\t From HunLan Solutions : mi",
+      "en": "what",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-261",
+      "hu": "17:34:30\t From HunLan Solutions : név",
+      "en": "name",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 25
+    },
+    {
+      "id": "v-262",
+      "hu": "17:34:36\t From HunLan Solutions : neve",
+      "en": "her name",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 26
+    },
+    {
+      "id": "v-263",
+      "hu": "17:34:52\t From HunLan Solutions : él",
+      "en": "she lives",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 28
+    },
+    {
+      "id": "v-264",
+      "hu": "17:34:55\t From HunLan Solutions : hol",
+      "en": "where",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 29
+    },
+    {
+      "id": "v-265",
+      "hu": "17:35:17\t From HunLan Solutions : milyen",
+      "en": "what kind of",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 31
+    },
+    {
+      "id": "v-266",
+      "hu": "17:35:21\t From HunLan Solutions : beszél",
+      "en": "she speaks",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 32
+    },
+    {
+      "id": "v-267",
+      "hu": "17:35:25\t From HunLan Solutions : nyelv",
+      "en": "language",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 33
+    },
+    {
+      "id": "v-268",
+      "hu": "17:35:47\t From HunLan Solutions : foglalkozás",
+      "en": "profession",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 35
+    },
+    {
+      "id": "v-269",
+      "hu": "17:36:12\t From HunLan Solutions : Hány",
+      "en": "how many",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "v-270",
+      "hu": "17:36:18\t From HunLan Solutions : éves",
+      "en": "years old",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 38
+    },
+    {
+      "id": "v-271",
+      "hu": "17:39:56\t From HunLan Solutions : beszélni",
+      "en": "to speak",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 42
+    },
+    {
+      "id": "v-272",
+      "hu": "17:40:03\t From HunLan Solutions : tanulni",
+      "en": "to study",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 43
+    },
+    {
+      "id": "v-273",
+      "hu": "17:40:33\t From HunLan Solutions : ul",
+      "en": "deep ending",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "v-274",
+      "hu": "17:42:50\t From HunLan Solutions : harminchat",
+      "en": "36",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 47
+    },
+    {
+      "id": "v-275",
+      "hu": "17:52:35\t From HunLan Solutions : 1",
+      "en": "egy",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 48
+    },
+    {
+      "id": "v-276",
+      "hu": "kettő, két",
+      "en": "17:52:39\t From HunLan Solutions : 2",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 49
+    },
+    {
+      "id": "v-277",
+      "hu": "három",
+      "en": "17:52:42\t From HunLan Solutions : 3",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 50
+    },
+    {
+      "id": "v-278",
+      "hu": "négy",
+      "en": "17:52:44\t From HunLan Solutions : 4",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 51
+    },
+    {
+      "id": "v-279",
+      "hu": "öt",
+      "en": "17:52:46\t From HunLan Solutions : 8",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 52
+    },
+    {
+      "id": "v-280",
+      "hu": "17:52:48\t From HunLan Solutions : 6",
+      "en": "hat",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 53
+    },
+    {
+      "id": "v-281",
+      "hu": "hét",
+      "en": "17:52:51\t From HunLan Solutions : 7",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 54
+    },
+    {
+      "id": "v-282",
+      "hu": "17:52:54\t From HunLan Solutions : 8",
+      "en": "nyolc",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 55
+    },
+    {
+      "id": "v-283",
+      "hu": "17:52:57\t From HunLan Solutions : 9",
+      "en": "kilenc",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 56
+    },
+    {
+      "id": "v-284",
+      "hu": "tíz",
+      "en": "17:53:01\t From HunLan Solutions : 10",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 57
+    },
+    {
+      "id": "v-285",
+      "hu": "17:53:08\t From HunLan Solutions : after 10",
+      "en": "tizen.....",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 58
+    },
+    {
+      "id": "v-286",
+      "hu": "húsz",
+      "en": "17:53:13\t From HunLan Solutions : 20",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 59
+    },
+    {
+      "id": "v-287",
+      "hu": "17:53:20\t From HunLan Solutions : after 20",
+      "en": "huszon....",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 60
+    },
+    {
+      "id": "v-288",
+      "hu": "17:54:34\t From HunLan Solutions : 30",
+      "en": "harminc",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 61
+    },
+    {
+      "id": "v-289",
+      "hu": "17:54:38\t From HunLan Solutions : 40",
+      "en": "negyven",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 62
+    },
+    {
+      "id": "v-290",
+      "hu": "ötven",
+      "en": "17:54:41\t From HunLan Solutions : 50",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 63
+    },
+    {
+      "id": "v-291",
+      "hu": "17:54:44\t From HunLan Solutions : 60",
+      "en": "hatvan",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 64
+    },
+    {
+      "id": "v-292",
+      "hu": "17:54:47\t From HunLan Solutions : 70",
+      "en": "hetven",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 65
+    },
+    {
+      "id": "v-293",
+      "hu": "17:54:51\t From HunLan Solutions : 80",
+      "en": "nyolcvan",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 66
+    },
+    {
+      "id": "v-294",
+      "hu": "17:54:55\t From HunLan Solutions : 90",
+      "en": "kilencven",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 67
+    },
+    {
+      "id": "v-295",
+      "hu": "száz",
+      "en": "17:54:57\t From HunLan Solutions : 100",
+      "lesson": 2,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "2. óra: 2nd lesson/chat.txt",
+      "lineIndex": 68
+    },
+    {
+      "id": "v-304",
+      "hu": "15:01:05\t From HunLan Solutions : örülök",
+      "en": "I am glad",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "v-305",
+      "hu": "15:07:56\t From HunLan Solutions : lány",
+      "en": "girl",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-306",
+      "hu": "15:08:13\t From HunLan Solutions : hol",
+      "en": "where",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 6
+    },
+    {
+      "id": "v-307",
+      "hu": "15:08:40\t From HunLan Solutions : tanul",
+      "en": "she studies",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "v-308",
+      "hu": "15:08:45\t From HunLan Solutions : milyen",
+      "en": "what kind of",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 10
+    },
+    {
+      "id": "v-309",
+      "hu": "15:08:49\t From HunLan Solutions : nyelv",
+      "en": "language",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "v-310",
+      "hu": "15:09:16\t From HunLan Solutions : foglalkozás",
+      "en": "profession",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-311",
+      "hu": "15:12:38\t From HunLan Solutions : édes",
+      "en": "sweet",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 14
+    },
+    {
+      "id": "v-312",
+      "hu": "15:12:40\t From HunLan Solutions : anya",
+      "en": "mother",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-313",
+      "hu": "15:13:56\t From HunLan Solutions : test",
+      "en": "body",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 16
+    },
+    {
+      "id": "v-314",
+      "hu": "15:13:59\t From HunLan Solutions : vér",
+      "en": "blood",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-315",
+      "hu": "15:21:35\t From HunLan Solutions : hívnak",
+      "en": "they call",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "v-316",
+      "hu": "15:21:58\t From HunLan Solutions : Nem vagyok házas",
+      "en": "I am not married",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-317",
+      "hu": "15:22:56\t From HunLan Solutions : beszélek",
+      "en": "I speak + LANGUAGE+ul/ül",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "v-318",
+      "hu": "15:23:15\t From HunLan Solutions : német",
+      "en": "németül",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-319",
+      "hu": "15:23:23\t From HunLan Solutions : török",
+      "en": "törökül",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-320",
+      "hu": "15:23:29\t From HunLan Solutions : angol",
+      "en": "angolul",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-321",
+      "hu": "15:23:36\t From HunLan Solutions : magyar",
+      "en": "magyarul",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 25
+    },
+    {
+      "id": "v-322",
+      "hu": "15:24:02\t From HunLan Solutions : most",
+      "en": "now",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 27
+    },
+    {
+      "id": "v-323",
+      "hu": "15:24:06\t From HunLan Solutions : tanulok",
+      "en": "I study",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 28
+    },
+    {
+      "id": "v-324",
+      "hu": "15:27:05\t From HunLan Solutions : anya",
+      "en": "mother",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 29
+    },
+    {
+      "id": "v-325",
+      "hu": "15:27:08\t From HunLan Solutions : nyelv",
+      "en": "language",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 30
+    },
+    {
+      "id": "v-326",
+      "hu": "15:28:23\t From HunLan Solutions : voltak",
+      "en": "they were",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 33
+    },
+    {
+      "id": "v-327",
+      "hu": "15:28:36\t From HunLan Solutions : a nagyszüleim",
+      "en": "my grandparents",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 34
+    },
+    {
+      "id": "v-328",
+      "hu": "15:30:24\t From HunLan Solutions : bemutatkozni",
+      "en": "to introduce",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "v-329",
+      "hu": "15:33:04\t From HunLan Solutions : Nem vagyok házas",
+      "en": "I am not married",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 38
+    },
+    {
+      "id": "v-330",
+      "hu": "15:34:02\t From HunLan Solutions : Beszélek",
+      "en": "I speak",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 39
+    },
+    {
+      "id": "v-331",
+      "hu": "15:36:15\t From HunLan Solutions : Nincs testvérem",
+      "en": "I have no sibling",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 41
+    },
+    {
+      "id": "v-332",
+      "hu": "15:36:27\t From HunLan Solutions : Egyedüli gyerek vagyok",
+      "en": "I am an only child",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 42
+    },
+    {
+      "id": "v-333",
+      "hu": "15:37:44\t From HunLan Solutions : New Yorkban élek",
+      "en": "I am living in New York",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 43
+    },
+    {
+      "id": "v-334",
+      "hu": "15:39:45\t From HunLan Solutions : Nem vagyok",
+      "en": "Not I am",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "v-335",
+      "hu": "15:42:06\t From HunLan Solutions : Az édesanyám",
+      "en": "my Sweet mother",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 45
+    },
+    {
+      "id": "v-336",
+      "hu": "15:44:30\t From HunLan Solutions : név",
+      "en": "name",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 47
+    },
+    {
+      "id": "v-337",
+      "hu": "15:44:33\t From HunLan Solutions : neve",
+      "en": "your name",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 48
+    },
+    {
+      "id": "v-338",
+      "hu": "15:44:40\t From HunLan Solutions : my name",
+      "en": "a nevem",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 49
+    },
+    {
+      "id": "v-339",
+      "hu": "15:45:51\t From HunLan Solutions : Nincs gyerekem",
+      "en": "I have no child",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 53
+    },
+    {
+      "id": "v-340",
+      "hu": "15:48:36\t From HunLan Solutions : felmenő",
+      "en": "ancestor",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 55
+    },
+    {
+      "id": "v-341",
+      "hu": "15:48:51\t From HunLan Solutions : felmenője",
+      "en": "your ancestor",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 56
+    },
+    {
+      "id": "v-342",
+      "hu": "15:48:58\t From HunLan Solutions : ki",
+      "en": "who",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 57
+    },
+    {
+      "id": "v-343",
+      "hu": "15:56:27\t From HunLan Solutions : egyedül",
+      "en": "alone",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 60
+    },
+    {
+      "id": "v-344",
+      "hu": "15:56:30\t From HunLan Solutions : állni",
+      "en": "to stand",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 61
+    },
+    {
+      "id": "v-345",
+      "hu": "16:13:18\t From HunLan Solutions : már",
+      "en": "already",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 62
+    },
+    {
+      "id": "v-346",
+      "hu": "16:13:50\t From HunLan Solutions : nyugdíjas",
+      "en": "retired",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 63
+    },
+    {
+      "id": "v-347",
+      "hu": "16:34:26\t From HunLan Solutions : karácsony",
+      "en": "Xmas",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 67
+    },
+    {
+      "id": "v-348",
+      "hu": "16:34:29\t From HunLan Solutions : boldog",
+      "en": "happy",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 68
+    },
+    {
+      "id": "v-349",
+      "hu": "16:35:00\t From HunLan Solutions : jövőre",
+      "en": "next year",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 70
+    },
+    {
+      "id": "v-350",
+      "hu": "16:35:05\t From HunLan Solutions : találkozunk",
+      "en": "we meet",
+      "lesson": 3,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "3. óra: 3rd lesson/chat.txt",
+      "lineIndex": 71
+    },
+    {
+      "id": "v-358",
+      "hu": "16:49:13\t From HunLan Solutions : A fiú",
+      "en": "the boy",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-359",
+      "hu": "16:49:21\t From HunLan Solutions : A lány",
+      "en": "the girl",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-360",
+      "hu": "16:49:44\t From HunLan Solutions : él",
+      "en": "she lives",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 7
+    },
+    {
+      "id": "v-361",
+      "hu": "16:50:07\t From HunLan Solutions : foglalkozás",
+      "en": "profession",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "v-362",
+      "hu": "16:53:02\t From HunLan Solutions : Franciaország",
+      "en": "France",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-363",
+      "hu": "negyvenhárom",
+      "en": "16:56:59\t From HunLan Solutions : 43",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-364",
+      "hu": "16:58:58\t From HunLan Solutions : volt",
+      "en": "was",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 16
+    },
+    {
+      "id": "v-365",
+      "hu": "16:59:31\t From HunLan Solutions : nagymama",
+      "en": "grandma",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-366",
+      "hu": "16:59:43\t From HunLan Solutions : anyai nagymama",
+      "en": "my grandma from my mother side",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 18
+    },
+    {
+      "id": "v-367",
+      "hu": "16:59:57\t From HunLan Solutions : apai nagymama",
+      "en": "grandma from father side",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "v-368",
+      "hu": "17:00:32\t From HunLan Solutions : állam",
+      "en": "state",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-369",
+      "hu": "17:01:14\t From HunLan Solutions : származás",
+      "en": "origins",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "v-370",
+      "hu": "17:02:11\t From HunLan Solutions : házas",
+      "en": "married",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-371",
+      "hu": "17:02:42\t From HunLan Solutions : tavaly",
+      "en": "last year",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-372",
+      "hu": "17:02:46\t From HunLan Solutions : voltam",
+      "en": "I was",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-373",
+      "hu": "17:04:23\t From HunLan Solutions : 30",
+      "en": "harminc",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 25
+    },
+    {
+      "id": "v-374",
+      "hu": "17:04:26\t From HunLan Solutions : one",
+      "en": "egy",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 26
+    },
+    {
+      "id": "v-375",
+      "hu": "17:07:22\t From HunLan Solutions : nagyszüleim",
+      "en": "my grandparents",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 32
+    },
+    {
+      "id": "v-376",
+      "hu": "17:07:39\t From HunLan Solutions : voltak",
+      "en": "they were",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 33
+    },
+    {
+      "id": "v-377",
+      "hu": "17:08:57\t From HunLan Solutions : Székesfehérváron",
+      "en": "in Székesfehérvár",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 35
+    },
+    {
+      "id": "v-378",
+      "hu": "17:18:41\t From HunLan Solutions : nyolcvan",
+      "en": "80",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "v-379",
+      "hu": "17:36:19\t From HunLan Solutions : játék",
+      "en": "toy",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 39
+    },
+    {
+      "id": "v-380",
+      "hu": "17:37:20\t From HunLan Solutions : szabadidő",
+      "en": "free time",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 40
+    },
+    {
+      "id": "v-381",
+      "hu": "17:37:23\t From HunLan Solutions : most",
+      "en": "now",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 41
+    },
+    {
+      "id": "v-382",
+      "hu": "17:39:18\t From HunLan Solutions : ceruza",
+      "en": "pencil",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 42
+    },
+    {
+      "id": "v-383",
+      "hu": "17:39:23\t From HunLan Solutions : csak",
+      "en": "just",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 43
+    },
+    {
+      "id": "v-384",
+      "hu": "17:40:07\t From HunLan Solutions : ötlet",
+      "en": "idea",
+      "lesson": 4,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "4. óra: 4th lesson/chat.txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "v-393",
+      "hu": "16:49:53\t From HunLan Solutions : dolgozni",
+      "en": "to work",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "v-394",
+      "hu": "16:50:42\t From HunLan Solutions : Nincs feleségem",
+      "en": "I don't have wife",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-395",
+      "hu": "Nem vagyok házas",
+      "en": "16:50:53\t From HunLan Solutions : I am not married",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "v-396",
+      "hu": "16:50:56\t From HunLan Solutions : házas",
+      "en": "married",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-397",
+      "hu": "16:51:55\t From HunLan Solutions : Nincs gyerekem",
+      "en": "I have no child",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 5
+    },
+    {
+      "id": "v-398",
+      "hu": "16:52:37\t From HunLan Solutions : állampolgár",
+      "en": "citizen",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 6
+    },
+    {
+      "id": "v-399",
+      "hu": "16:59:55\t From HunLan Solutions : és az anyukám",
+      "en": "and my mum",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-400",
+      "hu": "17:06:10\t From HunLan Solutions : eső",
+      "en": "rain",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-401",
+      "hu": "17:06:14\t From HunLan Solutions : esik",
+      "en": "falls",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 18
+    },
+    {
+      "id": "v-402",
+      "hu": "17:06:47\t From HunLan Solutions : hó",
+      "en": "snow",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "v-403",
+      "hu": "köd",
+      "en": "17:07:19\t From HunLan Solutions : fog",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-404",
+      "hu": "felhő",
+      "en": "17:07:38\t From HunLan Solutions : cloud",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "v-405",
+      "hu": "felhős",
+      "en": "17:07:46\t From HunLan Solutions : cloudy",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-406",
+      "hu": "17:07:50\t From HunLan Solutions : idő",
+      "en": "weather",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-407",
+      "hu": "17:08:00\t From HunLan Solutions : időjárás",
+      "en": "weather",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-408",
+      "hu": "17:09:12\t From HunLan Solutions : szél",
+      "en": "wind",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 25
+    },
+    {
+      "id": "v-409",
+      "hu": "17:09:15\t From HunLan Solutions : szeles",
+      "en": "windy",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 26
+    },
+    {
+      "id": "v-410",
+      "hu": "17:59:23\t From HunLan Solutions : találkozunk",
+      "en": "we meet",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 28
+    },
+    {
+      "id": "v-411",
+      "hu": "17:59:45\t From HunLan Solutions : Magyarországon",
+      "en": "in Hungary",
+      "lesson": 5,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "5. óra: 5th lesson/chat.txt",
+      "lineIndex": 29
+    },
+    {
+      "id": "v-413",
+      "hu": "15:31:23\t From HunLan Solutions : vihar",
+      "en": "storm",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "v-414",
+      "hu": "felhő",
+      "en": "15:32:29\t From HunLan Solutions : cloud",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-415",
+      "hu": "15:32:35\t From HunLan Solutions : ég",
+      "en": "sky",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "v-416",
+      "hu": "15:33:56\t From HunLan Solutions : ma",
+      "en": "today",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-417",
+      "hu": "15:35:12\t From HunLan Solutions : tegnap",
+      "en": "yesterday",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-418",
+      "hu": "15:35:18\t From HunLan Solutions : esett a hó",
+      "en": "it snowed",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 14
+    },
+    {
+      "id": "v-419",
+      "hu": "15:36:09\t From HunLan Solutions : Igazi téli idő",
+      "en": "Real Winter weather",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 18
+    },
+    {
+      "id": "v-420",
+      "hu": "15:36:27\t From HunLan Solutions : most",
+      "en": "now",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-421",
+      "hu": "15:37:40\t From HunLan Solutions : Szabolcs",
+      "en": "boy's name",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-422",
+      "hu": "15:38:13\t From HunLan Solutions : tanul",
+      "en": "he studies",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 27
+    },
+    {
+      "id": "v-423",
+      "hu": "15:38:26\t From HunLan Solutions : hol",
+      "en": "where",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 28
+    },
+    {
+      "id": "v-424",
+      "hu": "15:38:39\t From HunLan Solutions : dolgozik",
+      "en": "he works",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 30
+    },
+    {
+      "id": "v-425",
+      "hu": "15:39:01\t From HunLan Solutions : nemzetiségű",
+      "en": "nationality",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 32
+    },
+    {
+      "id": "v-426",
+      "hu": "15:39:06\t From HunLan Solutions : barátnő",
+      "en": "girlfriend",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 33
+    },
+    {
+      "id": "v-427",
+      "hu": "15:39:32\t From HunLan Solutions : foglalkozás",
+      "en": "profession",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 35
+    },
+    {
+      "id": "v-428",
+      "hu": "15:39:37\t From HunLan Solutions : báty",
+      "en": "older brother",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 36
+    },
+    {
+      "id": "v-429",
+      "hu": "15:43:35\t From HunLan Solutions : egyetem",
+      "en": "university",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "v-430",
+      "hu": "15:43:42\t From HunLan Solutions : az egyetemen",
+      "en": "in the university",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 38
+    },
+    {
+      "id": "v-431",
+      "hu": "15:44:26\t From HunLan Solutions : pékség",
+      "en": "bakery",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 39
+    },
+    {
+      "id": "v-432",
+      "hu": "15:47:16\t From HunLan Solutions : beszélek",
+      "en": "I speak",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 40
+    },
+    {
+      "id": "v-433",
+      "hu": "15:49:22\t From HunLan Solutions : munka",
+      "en": "work (as a noun)",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 43
+    },
+    {
+      "id": "v-434",
+      "hu": "15:49:31\t From HunLan Solutions : dolgozni",
+      "en": "to work",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "v-435",
+      "hu": "15:50:38\t From HunLan Solutions : Nem vagyok házas",
+      "en": "I am not married",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 45
+    },
+    {
+      "id": "v-436",
+      "hu": "15:52:29\t From HunLan Solutions : Mindkettő",
+      "en": "Both of them",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 47
+    },
+    {
+      "id": "v-437",
+      "hu": "15:53:24\t From HunLan Solutions : Az anyukám",
+      "en": "my mum",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 48
+    },
+    {
+      "id": "v-438",
+      "hu": "15:53:29\t From HunLan Solutions : anyuka",
+      "en": "mum",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 49
+    },
+    {
+      "id": "v-439",
+      "hu": "15:53:49\t From HunLan Solutions : apuka",
+      "en": "dad",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 51
+    },
+    {
+      "id": "v-440",
+      "hu": "15:54:35\t From HunLan Solutions : állampolgár",
+      "en": "citizen",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 53
+    },
+    {
+      "id": "v-441",
+      "hu": "15:54:51\t From HunLan Solutions : nemzetiségű",
+      "en": "nationality",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 54
+    },
+    {
+      "id": "v-442",
+      "hu": "15:56:55\t From HunLan Solutions : Egyedüli gyerek vagyok",
+      "en": "I am an only child",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 58
+    },
+    {
+      "id": "v-443",
+      "hu": "16:23:53\t From HunLan Solutions : reggel",
+      "en": "morning",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 61
+    },
+    {
+      "id": "v-444",
+      "hu": "16:24:11\t From HunLan Solutions : délután",
+      "en": "afternoon",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 63
+    },
+    {
+      "id": "v-445",
+      "hu": "16:24:51\t From HunLan Solutions : 1",
+      "en": "12",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 66
+    },
+    {
+      "id": "v-446",
+      "hu": "13 óra",
+      "en": "16:25:00\t From HunLan Solutions : 1pm",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 67
+    },
+    {
+      "id": "v-447",
+      "hu": "14 óra",
+      "en": "16:25:05\t From HunLan Solutions : 2pm",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 68
+    },
+    {
+      "id": "v-448",
+      "hu": "15 óra",
+      "en": "16:25:15\t From HunLan Solutions : 3pm",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 69
+    },
+    {
+      "id": "v-449",
+      "hu": "16:34:02\t From HunLan Solutions : 4:30",
+      "en": "kor",
+      "lesson": 6,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "6. óra: 6th lesson/chat.txt",
+      "lineIndex": 75
+    },
+    {
+      "id": "v-460",
+      "hu": "16:40:57\t From HunLan Solutions : perc",
+      "en": "minute",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-461",
+      "hu": "16:41:03\t From HunLan Solutions : perccel",
+      "en": "with minute",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "v-462",
+      "hu": "múlt",
+      "en": "16:41:07\t From HunLan Solutions : past",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-463",
+      "hu": "16:45:30\t From HunLan Solutions : negyed",
+      "en": "quater",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 5
+    },
+    {
+      "id": "v-464",
+      "hu": "16:49:08\t From HunLan Solutions : délután",
+      "en": "afternoon",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "v-465",
+      "hu": "16:50:53\t From HunLan Solutions : szem",
+      "en": "eye",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "v-466",
+      "hu": "16:51:01\t From HunLan Solutions : nose",
+      "en": "orr",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-467",
+      "hu": "16:51:12\t From HunLan Solutions : hair",
+      "en": "haj",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 14
+    },
+    {
+      "id": "v-468",
+      "hu": "füzet",
+      "en": "16:51:38\t From HunLan Solutions : notebook",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-469",
+      "hu": "16:53:25\t From HunLan Solutions : én vagyok",
+      "en": "I am",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-470",
+      "hu": "16:53:31\t From HunLan Solutions : te vagy",
+      "en": "you are informal",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 18
+    },
+    {
+      "id": "v-471",
+      "hu": "16:53:41\t From HunLan Solutions : Ön van",
+      "en": "polite you are",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "v-472",
+      "hu": "ő van",
+      "en": "16:53:48\t From HunLan Solutions : he, she is",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-473",
+      "hu": "16:54:02\t From HunLan Solutions : we are",
+      "en": "mi vagyunk",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "v-474",
+      "hu": "Önök vannak",
+      "en": "16:54:27\t From HunLan Solutions : polite you all are",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-475",
+      "hu": "ők vannak",
+      "en": "16:54:37\t From HunLan Solutions : they are",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-476",
+      "hu": "nyolcvanhárom",
+      "en": "16:55:41\t From HunLan Solutions : 83",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 27
+    },
+    {
+      "id": "v-477",
+      "hu": "16:55:56\t From HunLan Solutions : száz",
+      "en": "tizenöt",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 29
+    },
+    {
+      "id": "v-478",
+      "hu": "16:59:33\t From HunLan Solutions : Tavasz",
+      "en": "Spring",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 34
+    },
+    {
+      "id": "v-479",
+      "hu": "16:59:36\t From HunLan Solutions : Tél",
+      "en": "Winter",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 35
+    },
+    {
+      "id": "v-480",
+      "hu": "16:59:40\t From HunLan Solutions : Nyár",
+      "en": "Summer",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 36
+    },
+    {
+      "id": "v-481",
+      "hu": "16:59:43\t From HunLan Solutions : Ősz",
+      "en": "Fall",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 37
+    },
+    {
+      "id": "v-482",
+      "hu": "cipő",
+      "en": "17:03:36\t From HunLan Solutions : shoe",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 38
+    },
+    {
+      "id": "v-483",
+      "hu": "17:03:50\t From HunLan Solutions : csúnya",
+      "en": "ugly",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 40
+    },
+    {
+      "id": "v-484",
+      "hu": "17:04:37\t From HunLan Solutions : tegnap",
+      "en": "yesterday",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 41
+    },
+    {
+      "id": "v-485",
+      "hu": "17:04:56\t From HunLan Solutions : tegnap esett az eső",
+      "en": "yesterday it was raining",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 42
+    },
+    {
+      "id": "v-486",
+      "hu": "17:05:07\t From HunLan Solutions : esik az eső",
+      "en": "present tense, it is raining",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 43
+    },
+    {
+      "id": "v-487",
+      "hu": "17:05:16\t From HunLan Solutions : ma",
+      "en": "today",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 45
+    },
+    {
+      "id": "v-488",
+      "hu": "17:05:58\t From HunLan Solutions : Nagy",
+      "en": "Britannia",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 47
+    },
+    {
+      "id": "v-489",
+      "hu": "17:07:44\t From HunLan Solutions : írni",
+      "en": "to write",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 49
+    },
+    {
+      "id": "v-490",
+      "hu": "17:07:47\t From HunLan Solutions : író",
+      "en": "writer",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 50
+    },
+    {
+      "id": "v-491",
+      "hu": "17:08:05\t From HunLan Solutions : nyugdíjas",
+      "en": "retired",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 51
+    },
+    {
+      "id": "v-492",
+      "hu": "17:08:46\t From HunLan Solutions : könyv",
+      "en": "book",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 52
+    },
+    {
+      "id": "v-493",
+      "hu": "17:08:55\t From HunLan Solutions : fej",
+      "en": "head",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 53
+    },
+    {
+      "id": "v-494",
+      "hu": "17:09:12\t From HunLan Solutions : szem",
+      "en": "eye",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 54
+    },
+    {
+      "id": "v-495",
+      "hu": "17:09:20\t From HunLan Solutions : száj",
+      "en": "mouth",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 55
+    },
+    {
+      "id": "v-496",
+      "hu": "17:09:32\t From HunLan Solutions : orr",
+      "en": "nose",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 56
+    },
+    {
+      "id": "v-497",
+      "hu": "17:09:40\t From HunLan Solutions : fül",
+      "en": "ear",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 57
+    },
+    {
+      "id": "v-498",
+      "hu": "17:09:59\t From HunLan Solutions : szoba",
+      "en": "room",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 58
+    },
+    {
+      "id": "v-499",
+      "hu": "17:10:13\t From HunLan Solutions : kocsi, autó",
+      "en": "car",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 59
+    },
+    {
+      "id": "v-500",
+      "hu": "17:10:45\t From HunLan Solutions : fehér",
+      "en": "white",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 60
+    },
+    {
+      "id": "v-501",
+      "hu": "17:10:49\t From HunLan Solutions : sárga",
+      "en": "yellow",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 61
+    },
+    {
+      "id": "v-502",
+      "hu": "17:10:58\t From HunLan Solutions : piros",
+      "en": "red",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 62
+    },
+    {
+      "id": "v-503",
+      "hu": "17:11:02\t From HunLan Solutions : kék",
+      "en": "blue",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 63
+    },
+    {
+      "id": "v-504",
+      "hu": "17:11:13\t From HunLan Solutions : zöld",
+      "en": "green",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 64
+    },
+    {
+      "id": "v-505",
+      "hu": "17:11:19\t From HunLan Solutions : barna",
+      "en": "brown",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 65
+    },
+    {
+      "id": "v-506",
+      "hu": "17:11:24\t From HunLan Solutions : fekete",
+      "en": "black",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 66
+    },
+    {
+      "id": "v-507",
+      "hu": "17:11:46\t From HunLan Solutions : szép",
+      "en": "nice",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 67
+    },
+    {
+      "id": "v-508",
+      "hu": "17:11:50\t From HunLan Solutions : csúnya",
+      "en": "ugly",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 68
+    },
+    {
+      "id": "v-509",
+      "hu": "17:12:01\t From HunLan Solutions : nagy",
+      "en": "big",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 69
+    },
+    {
+      "id": "v-510",
+      "hu": "17:12:04\t From HunLan Solutions : kicsi",
+      "en": "small",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 70
+    },
+    {
+      "id": "v-511",
+      "hu": "17:12:13\t From HunLan Solutions : boldog",
+      "en": "happy",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 71
+    },
+    {
+      "id": "v-512",
+      "hu": "17:12:17\t From HunLan Solutions : szomorú",
+      "en": "sad",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 72
+    },
+    {
+      "id": "v-513",
+      "hu": "17:12:41\t From HunLan Solutions : nehéz",
+      "en": "difficult, heavy",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 73
+    },
+    {
+      "id": "v-514",
+      "hu": "17:12:49\t From HunLan Solutions : könnyű",
+      "en": "easy, light",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 74
+    },
+    {
+      "id": "v-515",
+      "hu": "17:13:32\t From HunLan Solutions : sok",
+      "en": "many",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 75
+    },
+    {
+      "id": "v-516",
+      "hu": "17:13:47\t From HunLan Solutions : kevés",
+      "en": "few, little",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 76
+    },
+    {
+      "id": "v-517",
+      "hu": "17:13:57\t From HunLan Solutions : néhány",
+      "en": "some",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 77
+    },
+    {
+      "id": "v-518",
+      "hu": "17:15:19\t From HunLan Solutions : börtön",
+      "en": "prison",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 78
+    },
+    {
+      "id": "v-519",
+      "hu": "17:15:41\t From HunLan Solutions : szoba",
+      "en": "room",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 79
+    },
+    {
+      "id": "v-520",
+      "hu": "17:15:54\t From HunLan Solutions : otthon",
+      "en": "at home",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 80
+    },
+    {
+      "id": "v-521",
+      "hu": "17:16:07\t From HunLan Solutions : konyhában",
+      "en": "in the kitchen",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 81
+    },
+    {
+      "id": "v-522",
+      "hu": "17:16:14\t From HunLan Solutions : konyha",
+      "en": "kitchen",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 82
+    },
+    {
+      "id": "v-523",
+      "hu": "17:58:47\t From HunLan Solutions : jövő hét",
+      "en": "next week",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 83
+    },
+    {
+      "id": "v-524",
+      "hu": "18:00:17\t From HunLan Solutions : hétvége",
+      "en": "weekend",
+      "lesson": 7,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "7. óra: 7th lesson/chat.txt",
+      "lineIndex": 87
+    },
+    {
+      "id": "v-526",
+      "hu": "béka",
+      "en": "17:34:55\t From HunLan Solutions : frog",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 1
+    },
+    {
+      "id": "v-527",
+      "hu": "virág",
+      "en": "17:35:15\t From HunLan Solutions : flower",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 2
+    },
+    {
+      "id": "v-528",
+      "hu": "17:35:42\t From HunLan Solutions : dog",
+      "en": "kutya",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 3
+    },
+    {
+      "id": "v-529",
+      "hu": "ajtó",
+      "en": "17:36:15\t From HunLan Solutions : door",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-530",
+      "hu": "rózsa",
+      "en": "17:36:39\t From HunLan Solutions : rose",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 5
+    },
+    {
+      "id": "v-531",
+      "hu": "vér",
+      "en": "17:37:32\t From HunLan Solutions : blood",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 6
+    },
+    {
+      "id": "v-532",
+      "hu": "vörös haj",
+      "en": "17:37:43\t From HunLan Solutions : red hair",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 8
+    },
+    {
+      "id": "v-533",
+      "hu": "vörösbor",
+      "en": "17:37:59\t From HunLan Solutions : red wine",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "v-534",
+      "hu": "táska",
+      "en": "17:38:26\t From HunLan Solutions : bag",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 10
+    },
+    {
+      "id": "v-535",
+      "hu": "szék",
+      "en": "17:38:44\t From HunLan Solutions : chair",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 11
+    },
+    {
+      "id": "v-536",
+      "hu": "kerítés",
+      "en": "17:38:55\t From HunLan Solutions : fence",
+      "lesson": 8,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "8. óra: 8th lesson/chat.txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "v-538",
+      "hu": "15:17:41\t From HunLan Solutions : falu",
+      "en": "village",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-539",
+      "hu": "15:17:46\t From HunLan Solutions : megye",
+      "en": "county",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 5
+    },
+    {
+      "id": "v-540",
+      "hu": "15:18:22\t From HunLan Solutions : közel van valamihez",
+      "en": "near to something",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 7
+    },
+    {
+      "id": "v-541",
+      "hu": "15:18:53\t From HunLan Solutions : régió",
+      "en": "region",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 9
+    },
+    {
+      "id": "v-542",
+      "hu": "15:22:59\t From HunLan Solutions : A nagyapám 1950",
+      "en": "ben emigrált Amerikába",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 10
+    },
+    {
+      "id": "v-543",
+      "hu": "15:23:11\t From HunLan Solutions : után",
+      "en": "after",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 12
+    },
+    {
+      "id": "v-544",
+      "hu": "15:23:17\t From HunLan Solutions : második",
+      "en": "second",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-545",
+      "hu": "15:23:24\t From HunLan Solutions : világháború",
+      "en": "World War",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 14
+    },
+    {
+      "id": "v-546",
+      "hu": "építész, építészmérnök",
+      "en": "15:31:28\t From HunLan Solutions : architect",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-547",
+      "hu": "15:31:54\t From HunLan Solutions : étterem",
+      "en": "restaurant",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 16
+    },
+    {
+      "id": "v-548",
+      "hu": "15:32:00\t From HunLan Solutions : finom",
+      "en": "tasty",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-549",
+      "hu": "15:34:38\t From HunLan Solutions : ápolónő",
+      "en": "female nurse (nővér)",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 18
+    },
+    {
+      "id": "v-550",
+      "hu": "15:35:09\t From HunLan Solutions : énekelni",
+      "en": "to sing",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 19
+    },
+    {
+      "id": "v-551",
+      "hu": "15:35:12\t From HunLan Solutions : énekes",
+      "en": "singer",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-552",
+      "hu": "15:35:50\t From HunLan Solutions : fénykép",
+      "en": "photo",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 21
+    },
+    {
+      "id": "v-553",
+      "hu": "15:36:50\t From HunLan Solutions : földműves",
+      "en": "farmer",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-554",
+      "hu": "15:36:54\t From HunLan Solutions : kertész",
+      "en": "gardener",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-555",
+      "hu": "15:37:08\t From HunLan Solutions : kő",
+      "en": "stone",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-556",
+      "hu": "15:41:10\t From HunLan Solutions : tűz",
+      "en": "fire",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 28
+    },
+    {
+      "id": "v-557",
+      "hu": "15:42:54\t From HunLan Solutions : diák",
+      "en": "student",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 29
+    },
+    {
+      "id": "v-558",
+      "hu": "15:43:32\t From HunLan Solutions : író",
+      "en": "writer",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 30
+    },
+    {
+      "id": "v-559",
+      "hu": "15:52:52\t From HunLan Solutions : zene",
+      "en": "music",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 31
+    },
+    {
+      "id": "v-560",
+      "hu": "15:57:59\t From HunLan Solutions : villamos áram, villany",
+      "en": "electrician",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 36
+    },
+    {
+      "id": "v-561",
+      "hu": "15:59:07\t From HunLan Solutions : szerelő",
+      "en": "handy man",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 41
+    },
+    {
+      "id": "v-562",
+      "hu": "16:01:26\t From HunLan Solutions : étel",
+      "en": "food",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 42
+    },
+    {
+      "id": "v-563",
+      "hu": "16:01:32\t From HunLan Solutions : főzni",
+      "en": "to cook",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 43
+    },
+    {
+      "id": "v-564",
+      "hu": "16:01:53\t From HunLan Solutions : sütni",
+      "en": "to bake",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 44
+    },
+    {
+      "id": "v-565",
+      "hu": "16:01:57\t From HunLan Solutions : kenyér",
+      "en": "bread",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 45
+    },
+    {
+      "id": "v-566",
+      "hu": "16:02:02\t From HunLan Solutions : pék",
+      "en": "baker",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 46
+    },
+    {
+      "id": "v-567",
+      "hu": "16:03:46\t From HunLan Solutions : sütemény, süti",
+      "en": "cupcake",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 47
+    },
+    {
+      "id": "v-568",
+      "hu": "16:03:52\t From HunLan Solutions : cukor",
+      "en": "sugar",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 48
+    },
+    {
+      "id": "v-569",
+      "hu": "16:04:09\t From HunLan Solutions : cukrász",
+      "en": "pastry cook chef",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 49
+    },
+    {
+      "id": "v-570",
+      "hu": "16:05:43\t From HunLan Solutions : szerep",
+      "en": "role",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 50
+    },
+    {
+      "id": "v-571",
+      "hu": "16:05:48\t From HunLan Solutions : játszani",
+      "en": "to play",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 51
+    },
+    {
+      "id": "v-572",
+      "hu": "16:06:05\t From HunLan Solutions : színész",
+      "en": "actor",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 52
+    },
+    {
+      "id": "v-573",
+      "hu": "16:06:11\t From HunLan Solutions : színésznő",
+      "en": "actress",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 53
+    },
+    {
+      "id": "v-574",
+      "hu": "16:08:39\t From HunLan Solutions : fordítani",
+      "en": "to tranlate",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 54
+    },
+    {
+      "id": "v-575",
+      "hu": "16:22:42\t From HunLan Solutions : 1994. október huszonkettedikén (22",
+      "en": "én) születtem",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 55
+    },
+    {
+      "id": "v-576",
+      "hu": "16:27:07\t From HunLan Solutions : Egyedüli gyerek vagyok",
+      "en": "I am an only child",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 61
+    },
+    {
+      "id": "v-577",
+      "hu": "16:27:59\t From HunLan Solutions : szülei",
+      "en": "your parents",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 62
+    },
+    {
+      "id": "v-578",
+      "hu": "16:28:17\t From HunLan Solutions : Az édesanyám",
+      "en": "my Sweet mother",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 63
+    },
+    {
+      "id": "v-579",
+      "hu": "16:32:59\t From HunLan Solutions : utazni",
+      "en": "to travel",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 67
+    },
+    {
+      "id": "v-580",
+      "hu": "16:33:14\t From HunLan Solutions : szüleimhez",
+      "en": "to my parents place",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 68
+    },
+    {
+      "id": "v-581",
+      "hu": "16:33:52\t From HunLan Solutions : út",
+      "en": "way",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 70
+    },
+    {
+      "id": "v-582",
+      "hu": "16:34:11\t From HunLan Solutions : utca",
+      "en": "street",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 71
+    },
+    {
+      "id": "v-583",
+      "hu": "16:34:14\t From HunLan Solutions : út",
+      "en": "road",
+      "lesson": 9,
+      "tags": [
+        "chat"
+      ],
+      "sourceFile": "9. óra: 9th lesson/chat.txt",
+      "lineIndex": 72
+    },
+    {
+      "id": "v-618",
+      "hu": "Type",
+      "en": "Inessive Form",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 20
+    },
+    {
+      "id": "v-619",
+      "hu": "ház**ban**",
+      "en": "Low",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-620",
+      "hu": "autó**ban**",
+      "en": "Low",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-621",
+      "hu": "Low",
+      "en": "doboz**ban**",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-622",
+      "hu": "Mixed",
+      "en": "kert**ben**",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 25
+    },
+    {
+      "id": "v-623",
+      "hu": "szék**ben**",
+      "en": "High",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 26
+    },
+    {
+      "id": "v-624",
+      "hu": "város**ban**",
+      "en": "Low",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 27
+    },
+    {
+      "id": "v-625",
+      "hu": "Type",
+      "en": "Superessive Form",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 47
+    },
+    {
+      "id": "v-626",
+      "hu": "Low",
+      "en": "asztal**on**",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 49
+    },
+    {
+      "id": "v-627",
+      "hu": "Low",
+      "en": "pad**on**",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 50
+    },
+    {
+      "id": "v-628",
+      "hu": "ház**on**",
+      "en": "Low",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 51
+    },
+    {
+      "id": "v-629",
+      "hu": "szék**en**",
+      "en": "High",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 52
+    },
+    {
+      "id": "v-630",
+      "hu": "Mixed",
+      "en": "kert**en**",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 53
+    },
+    {
+      "id": "v-631",
+      "hu": "Form",
+      "en": "Meaning",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Special Cases: Cities and Places"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 89
+    },
+    {
+      "id": "v-632",
+      "hu": "**Budapesten**",
+      "en": "in Budapest",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Special Cases: Cities and Places"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 91
+    },
+    {
+      "id": "v-633",
+      "hu": "**Pécsen**",
+      "en": "in Pécs",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Special Cases: Cities and Places"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 92
+    },
+    {
+      "id": "v-634",
+      "hu": "**Debrecenben**",
+      "en": "in Debrecen",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Special Cases: Cities and Places"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 93
+    },
+    {
+      "id": "v-635",
+      "hu": "**Szegeden**",
+      "en": "in Szeged",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Special Cases: Cities and Places"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 94
+    },
+    {
+      "id": "v-636",
+      "hu": "Case",
+      "en": "Example",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Quick Reference Table"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 106
+    },
+    {
+      "id": "v-637",
+      "hu": "-ban/-ben",
+      "en": "doboz**ban** (in a box)",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Quick Reference Table"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 108
+    },
+    {
+      "id": "v-638",
+      "hu": "ház**ban** (in a house)",
+      "en": "-ban/-ben",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Quick Reference Table"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 109
+    },
+    {
+      "id": "v-639",
+      "hu": "-n/-on/-en/-ön",
+      "en": "asztal**on** (on a table)",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Quick Reference Table"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 110
+    },
+    {
+      "id": "v-640",
+      "hu": "-n/-on/-en/-ön",
+      "en": "Budapest**en** (in Budapest)",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Quick Reference Table"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 111
+    },
+    {
+      "id": "v-641",
+      "hu": "Párizs**ban** (in Paris)",
+      "en": "-ban/-ben",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Quick Reference Table"
+      ],
+      "sourceFile": "hungarian_locative_cases.md",
+      "lineIndex": 112
+    },
+    {
+      "id": "v-671",
+      "hu": "-em/-öm/-üm",
+      "en": "-am/-om/-um",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Possessive Suffixes Table"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 12
+    },
+    {
+      "id": "v-672",
+      "hu": "-ed/-öd/-üd",
+      "en": "-ad/-od/-ud",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Possessive Suffixes Table"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 13
+    },
+    {
+      "id": "v-673",
+      "hu": "-e/-je",
+      "en": "-a/-ja",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Possessive Suffixes Table"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 14
+    },
+    {
+      "id": "v-674",
+      "hu": "-ünk",
+      "en": "-unk",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Possessive Suffixes Table"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 15
+    },
+    {
+      "id": "v-675",
+      "hu": "-etek/-ötök",
+      "en": "-atok/-otok",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Possessive Suffixes Table"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 16
+    },
+    {
+      "id": "v-676",
+      "hu": "-ük/-jük",
+      "en": "-uk/-juk",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Possessive Suffixes Table"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 17
+    },
+    {
+      "id": "v-677",
+      "hu": "Type",
+      "en": "My",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 55
+    },
+    {
+      "id": "v-678",
+      "hu": "ház**am**",
+      "en": "Low",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 57
+    },
+    {
+      "id": "v-679",
+      "hu": "aut**óm**",
+      "en": "Low",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 58
+    },
+    {
+      "id": "v-680",
+      "hu": "Mixed",
+      "en": "kert**em**",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 59
+    },
+    {
+      "id": "v-681",
+      "hu": "macsk**ám**",
+      "en": "Low",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 60
+    },
+    {
+      "id": "v-682",
+      "hu": "szék**em**",
+      "en": "High",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 61
+    },
+    {
+      "id": "v-683",
+      "hu": "any**ám**",
+      "en": "Low",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Examples"
+      ],
+      "sourceFile": "hungarian_possessive_suffixes.md",
+      "lineIndex": 62
+    },
+    {
+      "id": "v-714",
+      "hu": "én",
+      "en": "I",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "hungarian_pronouns"
+      ],
+      "sourceFile": "hungarian_pronouns.md",
+      "lineIndex": 3
+    },
+    {
+      "id": "v-715",
+      "hu": "te",
+      "en": "you",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "hungarian_pronouns"
+      ],
+      "sourceFile": "hungarian_pronouns.md",
+      "lineIndex": 4
+    },
+    {
+      "id": "v-716",
+      "hu": "ő",
+      "en": "he / she",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "hungarian_pronouns"
+      ],
+      "sourceFile": "hungarian_pronouns.md",
+      "lineIndex": 5
+    },
+    {
+      "id": "v-717",
+      "hu": "mi",
+      "en": "we",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "hungarian_pronouns"
+      ],
+      "sourceFile": "hungarian_pronouns.md",
+      "lineIndex": 6
+    },
+    {
+      "id": "v-718",
+      "hu": "ti",
+      "en": "you (plural)",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "hungarian_pronouns"
+      ],
+      "sourceFile": "hungarian_pronouns.md",
+      "lineIndex": 7
+    },
+    {
+      "id": "v-719",
+      "hu": "ők",
+      "en": "they",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "hungarian_pronouns"
+      ],
+      "sourceFile": "hungarian_pronouns.md",
+      "lineIndex": 8
+    },
+    {
+      "id": "v-720",
+      "hu": "Ön",
+      "en": "you (formal)",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "hungarian_pronouns"
+      ],
+      "sourceFile": "hungarian_pronouns.md",
+      "lineIndex": 9
+    },
+    {
+      "id": "v-721",
+      "hu": "Önök",
+      "en": "you (formal plural)",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "hungarian_pronouns"
+      ],
+      "sourceFile": "hungarian_pronouns.md",
+      "lineIndex": 10
+    },
+    {
+      "id": "v-722",
+      "hu": "-ok/-ek/-ök",
+      "en": "-unk/-ünk",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Personal Endings"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 22
+    },
+    {
+      "id": "v-723",
+      "hu": "-sz/-ol/-el/-öl",
+      "en": "-tok/-tek/-tök",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Personal Endings"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 23
+    },
+    {
+      "id": "v-724",
+      "hu": "-∅ (no ending)",
+      "en": "-nak/-nek",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Personal Endings"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 24
+    },
+    {
+      "id": "v-725",
+      "hu": "-om/-em/-öm",
+      "en": "-juk/-jük",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Personal Endings"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 71
+    },
+    {
+      "id": "v-726",
+      "hu": "-od/-ed/-öd",
+      "en": "-játok/-itek/-itek",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Personal Endings"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 72
+    },
+    {
+      "id": "v-727",
+      "hu": "-ják/-jék/-ik",
+      "en": "-ja/-je/-i",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "Personal Endings"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 73
+    },
+    {
+      "id": "v-728",
+      "hu": "vagyok",
+      "en": "vagyok",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "\"lenni\" (to be)"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 115
+    },
+    {
+      "id": "v-729",
+      "hu": "vagy",
+      "en": "vagy",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "\"lenni\" (to be)"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 116
+    },
+    {
+      "id": "v-730",
+      "hu": "van",
+      "en": "van",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "\"lenni\" (to be)"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 117
+    },
+    {
+      "id": "v-731",
+      "hu": "vagyunk",
+      "en": "vagyunk",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "\"lenni\" (to be)"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 118
+    },
+    {
+      "id": "v-732",
+      "hu": "vagytok",
+      "en": "vagytok",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "\"lenni\" (to be)"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 119
+    },
+    {
+      "id": "v-733",
+      "hu": "vannak",
+      "en": "vannak",
+      "lesson": null,
+      "tags": [
+        "markdown",
+        "\"lenni\" (to be)"
+      ],
+      "sourceFile": "hungarian_verb_conjugation_present_tense.md",
+      "lineIndex": 120
+    }
+  ]
+}

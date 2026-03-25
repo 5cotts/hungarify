@@ -27,6 +27,8 @@ import {
 } from '@/src/engine';
 import { colors, radii, spacing, typography } from '@/src/theme';
 
+const LESSON_CHIPS = [null, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13] as const;
+
 const DIFFICULTIES: Difficulty[] = ['beginner', 'intermediate', 'advanced'];
 
 export default function ExerciseScreen() {
@@ -42,6 +44,8 @@ export default function ExerciseScreen() {
   const [wordOrder, setWordOrder] = useState<string[]>([]);
   const [submitted, setSubmitted] = useState(false);
   const [lastCorrect, setLastCorrect] = useState(false);
+  /** null = all lessons for knowledge-backed drills */
+  const [lessonFilter, setLessonFilter] = useState<number | null>(null);
 
   const loadExercise = useCallback(() => {
     if (!isModuleId(module)) return;
@@ -51,7 +55,7 @@ export default function ExerciseScreen() {
     setFillValue('');
     setLastCorrect(false);
     try {
-      const ex = generateExercise(module, difficulty);
+      const ex = generateExercise(module, difficulty, { lessonNumber: lessonFilter });
       setExercise(ex);
       if (ex.type === 'wordOrder' && ex.words) {
         setWordOrder([...ex.words]);
@@ -59,7 +63,7 @@ export default function ExerciseScreen() {
     } finally {
       setLoading(false);
     }
-  }, [module, difficulty]);
+  }, [module, difficulty, lessonFilter]);
 
   useLayoutEffect(() => {
     if (isModuleId(module)) {
@@ -118,6 +122,30 @@ export default function ExerciseScreen() {
     </View>
   );
 
+  const lessonRow = (
+    <View style={styles.lessonSection}>
+      <Text style={styles.lessonLabel}>Knowledge drills (lesson)</Text>
+      <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.lessonScroll}>
+        {LESSON_CHIPS.map((n) => {
+          const active = lessonFilter === n;
+          const label = n == null ? 'All' : `L${n}`;
+          return (
+            <Pressable
+              key={label}
+              onPress={() => setLessonFilter(n)}
+              style={({ pressed }) => [
+                styles.lessonChip,
+                active && styles.lessonChipOn,
+                pressed && styles.diffPressed,
+              ]}>
+              <Text style={[styles.lessonChipText, active && styles.lessonChipTextOn]}>{label}</Text>
+            </Pressable>
+          );
+        })}
+      </ScrollView>
+    </View>
+  );
+
   if (loading || !exercise) {
     return (
       <SafeAreaView style={styles.safe}>
@@ -135,6 +163,7 @@ export default function ExerciseScreen() {
   const promptBlock = (
     <>
       {diffButtons}
+      {lessonRow}
       <Text style={styles.prompt}>{exercise.prompt}</Text>
     </>
   );
@@ -302,5 +331,38 @@ const styles = StyleSheet.create({
     ...typography.body,
     color: colors.error,
     padding: spacing.md,
+  },
+  lessonSection: {
+    marginBottom: spacing.md,
+  },
+  lessonLabel: {
+    ...typography.small,
+    color: colors.textMuted,
+    marginBottom: spacing.xs,
+  },
+  lessonScroll: {
+    flexDirection: 'row',
+    gap: spacing.sm,
+    paddingVertical: spacing.xs,
+  },
+  lessonChip: {
+    paddingVertical: spacing.xs,
+    paddingHorizontal: spacing.sm,
+    borderRadius: radii.sm,
+    borderWidth: 1,
+    borderColor: colors.border,
+    backgroundColor: colors.surface,
+  },
+  lessonChipOn: {
+    borderColor: colors.accentRed,
+    backgroundColor: 'rgba(200, 16, 46, 0.08)',
+  },
+  lessonChipText: {
+    ...typography.caption,
+    color: colors.textMuted,
+  },
+  lessonChipTextOn: {
+    color: colors.accentRed,
+    fontWeight: '600',
   },
 });
