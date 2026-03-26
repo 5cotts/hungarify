@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-25T07:47:43.363Z",
+  "generatedAt": "2026-03-26T06:54:21.072Z",
   "sourceRoot": "/Users/scott/Documents/Code/hungarify/knowledge-source",
   "counts": {
-    "lessons": 13,
-    "vocab": 98,
-    "rules": 68,
-    "phrases": 763,
-    "drillSeeds": 831,
+    "lessons": 14,
+    "vocab": 105,
+    "rules": 74,
+    "phrases": 821,
+    "drillSeeds": 896,
     "skippedChatLines": 0
   },
   "ingest": {

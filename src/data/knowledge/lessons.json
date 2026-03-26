@@ -77,6 +77,12 @@
       "lessonNumber": 13,
       "title": "óra: 13th lesson",
       "relativePath": "13. óra: 13th lesson"
+    },
+    {
+      "id": "lesson-14",
+      "lessonNumber": 14,
+      "title": "óra: 14th lesson",
+      "relativePath": "14. óra: 14th lesson"
     }
   ]
 }

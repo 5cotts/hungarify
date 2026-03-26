@@ -618,6 +618,104 @@
     },
     {
       "id": "v-45",
+      "hu": "szénsavmentes —non",
+      "en": "carbonated",
+      "lesson": 14,
+      "tags": [
+        "pdf_ocr"
+      ],
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
+    },
+    {
+      "id": "v-46",
+      "hu": "limonádé — lemonade ~~ bor —wine sör",
+      "en": "beer pálinka pezsgő —champagne",
+      "lesson": 14,
+      "tags": [
+        "pdf_ocr"
+      ],
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 16,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
+    },
+    {
+      "id": "v-47",
+      "hu": "Ön hol született? Én Magyarországon születtem 1988",
+      "en": "ban.",
+      "lesson": 14,
+      "tags": [
+        "pdf_ocr"
+      ],
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 7,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "v-48",
+      "hu": "Miért szeretne magyar állampolgár lenni ? lenni",
+      "en": "— to be",
+      "lesson": 14,
+      "tags": [
+        "pdf_ocr"
+      ],
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "v-49",
+      "hu": "elnézést — excuse me ért",
+      "en": "understand mondat — sentence",
+      "lesson": 14,
+      "tags": [
+        "pdf_ocr"
+      ],
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 20,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "v-50",
+      "hu": "5. Péntek: szláv nyelven pentekez",
+      "en": "ötödik.",
+      "lesson": 14,
+      "tags": [
+        "pdf_ocr"
+      ],
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 16,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 6,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "v-51",
+      "hu": "6. Szombat: héber eredetű, sabbath",
+      "en": "a pihenés napja.",
+      "lesson": 14,
+      "tags": [
+        "pdf_ocr"
+      ],
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 18,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 6,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "v-52",
       "hu": "front",
       "en": ", and mixed vowels:",
       "lesson": 2,
@@ -631,7 +729,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "v-46",
+      "id": "v-53",
       "hu": "23 — huszonhárom 126012 szazhuszonhatezer",
       "en": "tizenketté madszor “(for the) third time.” Note also the irregular először “(for the) first |",
       "lesson": 2,
@@ -645,7 +743,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "v-47",
+      "id": "v-54",
       "hu": "— idős — old (Te) fiatal vagy? Are you young? ©",
       "en": "fiatal — young €",
       "lesson": 2,
@@ -659,7 +757,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "v-48",
+      "id": "v-55",
       "hu": "Mallorcán az USA",
       "en": "ban Pekingben",
       "lesson": 2,
@@ -673,7 +771,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "v-49",
+      "id": "v-56",
       "hu": "juk/jük",
       "en": "39 jalje 34",
       "lesson": 3,
@@ -687,7 +785,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "v-50",
+      "id": "v-57",
       "hu": "+ If the word stem ends in a consonant (consonant",
       "en": "final stems), you need a linking",
       "lesson": 3,
@@ -701,7 +799,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "v-51",
+      "id": "v-58",
       "hu": "Of course it is vowel harmony that tells you which form you need out of the two",
       "en": "or",
       "lesson": 3,
@@ -715,7 +813,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "v-52",
+      "id": "v-59",
       "hu": "three",
       "en": "form suffixes!",
       "lesson": 3,
@@ -729,7 +827,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "v-53",
+      "id": "v-60",
       "hu": "«+ Onéletrajz",
       "en": "minta angolul:",
       "lesson": 3,
@@ -743,7 +841,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "v-54",
+      "id": "v-61",
       "hu": "will need to follow: http:/magyar",
       "en": "ok.hu/en/A1_audio.html|?ver=2.7",
       "lesson": 3,
@@ -757,7 +855,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "v-55",
+      "id": "v-62",
       "hu": "Egy irodában dolgozok Porto",
       "en": "ban. In an office, in Porto.",
       "lesson": 3,
@@ -771,7 +869,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "v-56",
+      "id": "v-63",
       "hu": "hitps://mail proton me/u/0/inbox/Nej",
       "en": "3qBhLiDqalKdgsUNZZ_sRSYAVTYASUrWazjAqStmKhOFBAU2zpHK 6e05GyV VAdaF4LIC4h 1 TmoxeMZxLw==#filter=unread 1/2",
       "lesson": 4,
@@ -785,7 +883,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "v-57",
+      "id": "v-64",
       "hu": "hitps://mail proton me/u/0/inbox/Nej",
       "en": "3qBhLiDqalKdgsUNZZ_sRSYAVTYASUrWazjAqStmKhOFBAU2zpHK 6e05GyV VAdaF4LIC4h 1 TmoxeMZxLw==#filter=unread ~~ 2/2",
       "lesson": 4,
@@ -799,7 +897,7 @@
       "ocrConfidence": 73
     },
     {
-      "id": "v-58",
+      "id": "v-65",
       "hu": "Tud számolni egytől tízig magyarul? (1",
       "en": "10)",
       "lesson": 4,
@@ -813,7 +911,7 @@
       "ocrConfidence": 59
     },
     {
-      "id": "v-59",
+      "id": "v-66",
       "hu": "És tíztől százig tízesével? (10",
       "en": "100)",
       "lesson": 4,
@@ -827,7 +925,7 @@
       "ocrConfidence": 59
     },
     {
-      "id": "v-60",
+      "id": "v-67",
       "hu": "9 kétezer",
       "en": "tíz",
       "lesson": 4,
@@ -841,7 +939,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "v-61",
+      "id": "v-68",
       "hu": "ben születtem.",
       "en": "1982",
       "lesson": 5,
@@ -855,7 +953,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "v-62",
+      "id": "v-69",
       "hu": "Február 28",
       "en": "án születtem.",
       "lesson": 5,
@@ -869,7 +967,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "v-63",
+      "id": "v-70",
       "hu": "1956 Hungarian Revolution; national uprising against Soviet",
       "en": "imposed communist rule",
       "lesson": 5,
@@ -883,7 +981,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "v-64",
+      "id": "v-71",
       "hu": "j[—\"zŰ",
       "en": "I —",
       "lesson": 5,
@@ -897,7 +995,7 @@
       "ocrConfidence": 73
     },
     {
-      "id": "v-65",
+      "id": "v-72",
       "hu": "Gypsy music is beautiful. (gypsy",
       "en": "music:",
       "lesson": 5,
@@ -911,7 +1009,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "v-66",
+      "id": "v-73",
       "hu": "Kertész Imre hires magyar író volt. Irodalmi Nobel",
       "en": "díjat nyert.",
       "lesson": 5,
@@ -925,7 +1023,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "v-67",
+      "id": "v-74",
       "hu": "Fontos szerepet jatszott az 1848",
       "en": "as forradalomban.",
       "lesson": 5,
@@ -939,7 +1037,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "v-68",
+      "id": "v-75",
       "hu": "Györgyi Albert híres magyar tudós volt.",
       "en": "2 y f Szent",
       "lesson": 5,
@@ -953,7 +1051,7 @@
       "ocrConfidence": 72
     },
     {
-      "id": "v-69",
+      "id": "v-76",
       "hu": "2 Fiziológiai vagy orvostudományi Nobel",
       "en": "díjat nyert.",
       "lesson": 5,
@@ -967,7 +1065,7 @@
       "ocrConfidence": 72
     },
     {
-      "id": "v-70",
+      "id": "v-77",
       "hu": "\"Hányszor főz egy héten?",
       "en": "Mennyit dolgozik egy héten?",
       "lesson": 5,
@@ -981,7 +1079,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "v-71",
+      "id": "v-78",
       "hu": "\"How many times do you cook a week?",
       "en": "How much do you work a week?",
       "lesson": 5,
@@ -995,7 +1093,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "v-72",
+      "id": "v-79",
       "hu": "hitps://mail proton me/u/0/inbox/Kqg7YuX",
       "en": "rp6BGIWPQOFb6wvyq8S940mITkVZbHvabTz0 1 mbCvBfknrXKryum7wasLC_reXPX310jpNT_bCahyQ==#filier=unread ~~ 2/2",
       "lesson": 6,
@@ -1009,7 +1107,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "v-73",
+      "id": "v-80",
       "hu": "Topic: Beszélgessünk az időről! (",
       "en": "weather)",
       "lesson": 6,
@@ -1023,7 +1121,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "v-74",
+      "id": "v-81",
       "hu": "Nagy",
       "en": "Britannia a ..... sss lett",
       "lesson": 6,
@@ -1037,7 +1135,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "v-75",
+      "id": "v-82",
       "hu": "Dél",
       "en": "Korea a .... sss sss s lett,",
       "lesson": 6,
@@ -1051,7 +1149,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "v-76",
+      "id": "v-83",
       "hu": "2 — Nagy",
       "en": "Britannia 27 23 17",
       "lesson": 6,
@@ -1065,7 +1163,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "v-77",
+      "id": "v-84",
       "hu": "8 — Dél",
       "en": "Korea 9 3 9",
       "lesson": 6,
@@ -1079,7 +1177,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "v-78",
+      "id": "v-85",
       "hu": "Azerbajdzsán — Azerbaijan Románia —",
       "en": "Romania",
       "lesson": 6,
@@ -1093,7 +1191,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "v-79",
+      "id": "v-86",
       "hu": "Az anyukám 1963. július 18",
       "en": "án született. My mother was born in 1963 on the 18th of July.",
       "lesson": 6,
@@ -1107,7 +1205,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "v-80",
+      "id": "v-87",
       "hu": "(Én) 1988. szeptember 1",
       "en": "jén születtem. I was born in 1988 on thelst of September.",
       "lesson": 6,
@@ -1121,7 +1219,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "v-81",
+      "id": "v-88",
       "hu": "zene — music ciganyzene — gypsy",
       "en": "music",
       "lesson": 6,
@@ -1135,7 +1233,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "v-82",
+      "id": "v-89",
       "hu": "Összefoglalás 1",
       "en": "6. lecke 44 LANGUAGE",
       "lesson": 7,
@@ -1149,7 +1247,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "v-83",
+      "id": "v-90",
       "hu": "Ön magyar származásu? Igen. (Summary of lesson 1",
       "en": "6)",
       "lesson": 7,
@@ -1163,7 +1261,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "v-84",
+      "id": "v-91",
       "hu": "4. What is vowel harmony (maganhangzo",
       "en": "harmonia)?",
       "lesson": 7,
@@ -1177,7 +1275,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "v-85",
+      "id": "v-92",
       "hu": "1066 = ezer",
       "en": "hatvenhat",
       "lesson": 7,
@@ -1191,7 +1289,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "v-86",
+      "id": "v-93",
       "hu": "I don\"t have a girlfriend. Nincs barátnőm 2014 = kétezer",
       "en": "tizennégy",
       "lesson": 7,
@@ -1205,7 +1303,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "v-87",
+      "id": "v-94",
       "hu": "B. = 3 [ő",
       "en": "— 2",
       "lesson": 7,
@@ -1219,7 +1317,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "v-88",
+      "id": "v-95",
       "hu": "a, az EL—— the egy ————*_",
       "en": "a, an",
       "lesson": 7,
@@ -1233,7 +1331,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "v-89",
+      "id": "v-96",
       "hu": "ez",
       "en": "this ezek — these 0",
       "lesson": 7,
@@ -1247,7 +1345,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "v-90",
+      "id": "v-97",
       "hu": "2/9/26, 10",
       "en": "13 AM (15) All mail | s€scottsehmidt.io | Proton Mail",
       "lesson": 8,
@@ -1261,7 +1359,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "v-91",
+      "id": "v-98",
       "hu": "2/9/26. 10",
       "en": "13 AM (15) All mail | s€scottsehmidt.io | Proton Mail",
       "lesson": 8,
@@ -1275,7 +1373,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "v-92",
+      "id": "v-99",
       "hu": "kártyádat?",
       "en": ": Elhoztad a TB",
       "lesson": 8,
@@ -1289,7 +1387,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "v-93",
+      "id": "v-100",
       "hu": "itt össze",
       "en": "vissza sipákolsz nekem, és akkor látni fogod, hogy elviselhetetlen!",
       "lesson": 8,
@@ -1303,7 +1401,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "v-94",
+      "id": "v-101",
       "hu": "2. beszél 0k. unk",
       "en": "ünk 7",
       "lesson": 8,
@@ -1317,7 +1415,7 @@
       "ocrConfidence": 61
     },
     {
-      "id": "v-95",
+      "id": "v-102",
       "hu": "tök ? í I A",
       "en": "6. nth tau. tok “tok tek —",
       "lesson": 8,
@@ -1331,7 +1429,7 @@
       "ocrConfidence": 61
     },
     {
-      "id": "v-96",
+      "id": "v-103",
       "hu": "szorgalmas — hard",
       "en": "working lusta — lazy",
       "lesson": 9,
@@ -1345,7 +1443,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "v-97",
+      "id": "v-104",
       "hu": "barna hajú — brown",
       "en": "haired csúnya — ugly",
       "lesson": 9,
@@ -1359,7 +1457,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "v-98",
+      "id": "v-105",
       "hu": "divatos — fashionable hosszú ujjú — long",
       "en": "sleeved",
       "lesson": 9,

@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "id": "p-99",
+      "id": "p-106",
       "hu": "© Köszönöm, jól vagyok.",
       "en": null,
       "lesson": 1,
@@ -12,7 +12,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-100",
+      "id": "p-107",
       "hu": "= Köszönöm, remekül vagyok.",
       "en": null,
       "lesson": 1,
@@ -23,7 +23,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-101",
+      "id": "p-108",
       "hu": "és Nem vagyok jól.",
       "en": null,
       "lesson": 1,
@@ -34,7 +34,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-102",
+      "id": "p-109",
       "hu": "és Kicsit ideges vagyok.",
       "en": null,
       "lesson": 1,
@@ -45,7 +45,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-103",
+      "id": "p-110",
       "hu": "= Jó napot kívánok!",
       "en": null,
       "lesson": 1,
@@ -56,7 +56,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-104",
+      "id": "p-111",
       "hu": "- Köszönöm, jól vagyok. És Ön?",
       "en": null,
       "lesson": 1,
@@ -67,7 +67,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-105",
+      "id": "p-112",
       "hu": "- Köszönöm, én is jól vagyok.",
       "en": null,
       "lesson": 1,
@@ -78,7 +78,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-106",
+      "id": "p-113",
       "hu": "- Jó napot! Hogy van?",
       "en": null,
       "lesson": 1,
@@ -89,7 +89,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-107",
+      "id": "p-114",
       "hu": "- Nem vagyok jól. Beteg vagyok. És Ön?",
       "en": null,
       "lesson": 1,
@@ -100,7 +100,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-108",
+      "id": "p-115",
       "hu": "- Én jól vagyok.",
       "en": null,
       "lesson": 1,
@@ -111,7 +111,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-109",
+      "id": "p-116",
       "hu": "Én holland vagyok. Én amerikai vagyok. Én magyar vagyok.",
       "en": null,
       "lesson": 1,
@@ -122,7 +122,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-110",
+      "id": "p-117",
       "hu": "En francia vagyok. En ausztral vagyok. En német vagyok.",
       "en": null,
       "lesson": 1,
@@ -133,7 +133,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-111",
+      "id": "p-118",
       "hu": "Pay attention to the adjacent vowels like \"amerikai, \"kanadai, \"ausztrál\"!",
       "en": null,
       "lesson": 1,
@@ -144,7 +144,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-112",
+      "id": "p-119",
       "hu": "Én holland vagyok. És Ön?",
       "en": null,
       "lesson": 1,
@@ -155,7 +155,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-113",
+      "id": "p-120",
       "hu": "Én amerikai vagyok. És Ön?",
       "en": null,
       "lesson": 1,
@@ -166,7 +166,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-114",
+      "id": "p-121",
       "hu": "Én magyar vagyok. És Ön? ...",
       "en": null,
       "lesson": 1,
@@ -177,7 +177,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-115",
+      "id": "p-122",
       "hu": "Én holland vagyok, Hollandiában élek.",
       "en": null,
       "lesson": 1,
@@ -188,7 +188,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-116",
+      "id": "p-123",
       "hu": "Én amerikai vagyok, Amerikában élek.",
       "en": null,
       "lesson": 1,
@@ -199,7 +199,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-117",
+      "id": "p-124",
       "hu": "Én magyar vagyok, Magyarországon élek. ...",
       "en": null,
       "lesson": 1,
@@ -210,7 +210,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-118",
+      "id": "p-125",
       "hu": "Én holland vagyok, de Amerikában élek.",
       "en": null,
       "lesson": 1,
@@ -221,7 +221,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-119",
+      "id": "p-126",
       "hu": "Én amerikai vagyok, de Magyarországon élek.",
       "en": null,
       "lesson": 1,
@@ -232,7 +232,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-120",
+      "id": "p-127",
       "hu": "Én magyar vagyok, de Olaszországban élek. ...",
       "en": null,
       "lesson": 1,
@@ -243,7 +243,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-121",
+      "id": "p-128",
       "hu": "munkafüzet pg 6.",
       "en": null,
       "lesson": 1,
@@ -254,7 +254,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-122",
+      "id": "p-129",
       "hu": "Én magyar vagyok. Magyar vagyok.",
       "en": null,
       "lesson": 1,
@@ -265,7 +265,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-123",
+      "id": "p-130",
       "hu": "Te portugál vagy? Portugál vagy?",
       "en": null,
       "lesson": 1,
@@ -276,7 +276,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-124",
+      "id": "p-131",
       "hu": "Te mérnök vagy? Mérnök vagy?",
       "en": null,
       "lesson": 1,
@@ -287,7 +287,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-125",
+      "id": "p-132",
       "hu": "e Nem, én holland vagyok.",
       "en": null,
       "lesson": 1,
@@ -298,7 +298,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-126",
+      "id": "p-133",
       "hu": "e Nem, én angol vagyok.",
       "en": null,
       "lesson": 1,
@@ -309,7 +309,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-127",
+      "id": "p-134",
       "hu": ". Back vowels: are the vowels you find in the word \"autó\".",
       "en": null,
       "lesson": 1,
@@ -320,7 +320,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-128",
+      "id": "p-135",
       "hu": ". Front vowels: are the vowels you find in the word teniszütő\".",
       "en": null,
       "lesson": 1,
@@ -331,7 +331,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-129",
+      "id": "p-136",
       "hu": "a. Iskolában vagyok.",
       "en": null,
       "lesson": 1,
@@ -342,7 +342,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-130",
+      "id": "p-137",
       "hu": "b. Én iskolában vagyok, te irodában vagy.",
       "en": null,
       "lesson": 1,
@@ -353,7 +353,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-131",
+      "id": "p-138",
       "hu": "c. Nem vagyok iskolában, irodában vagyok.",
       "en": null,
       "lesson": 1,
@@ -364,7 +364,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-132",
+      "id": "p-139",
       "hu": "Jó reggelt! Jó reggelt!",
       "en": null,
       "lesson": 1,
@@ -375,7 +375,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-133",
+      "id": "p-140",
       "hu": "- Nem, én....27921........ vagyok.",
       "en": null,
       "lesson": 1,
@@ -386,7 +386,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-134",
+      "id": "p-141",
       "hu": "- Igen, én magyar vagyok.",
       "en": null,
       "lesson": 1,
@@ -397,7 +397,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-135",
+      "id": "p-142",
       "hu": "- Nem, én amerikai vagyok.",
       "en": null,
       "lesson": 1,
@@ -408,7 +408,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-136",
+      "id": "p-143",
       "hu": "- Portugál vagyok. Te portugál vagy?",
       "en": null,
       "lesson": 1,
@@ -419,7 +419,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-137",
+      "id": "p-144",
       "hu": "- Nem, én........................ Vagyok.",
       "en": null,
       "lesson": 1,
@@ -430,7 +430,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-138",
+      "id": "p-145",
       "hu": "T zsssésséésésíéí ts. Vagyok. TE lengyel vagy?",
       "en": null,
       "lesson": 1,
@@ -441,7 +441,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-139",
+      "id": "p-146",
       "hu": "- Nem, én angol vagyok.",
       "en": null,
       "lesson": 1,
@@ -452,7 +452,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-140",
+      "id": "p-147",
       "hu": "- Ausztrál vagyok. Te....Auszal vagy?",
       "en": null,
       "lesson": 1,
@@ -463,7 +463,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-141",
+      "id": "p-148",
       "hu": "- Nem, én angol vagyok.",
       "en": null,
       "lesson": 1,
@@ -474,7 +474,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-142",
+      "id": "p-149",
       "hu": "© Köszönöm, jól vagyok.",
       "en": null,
       "lesson": 1,
@@ -485,7 +485,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-143",
+      "id": "p-150",
       "hu": "= Köszönöm, remekül vagyok.",
       "en": null,
       "lesson": 1,
@@ -496,7 +496,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-144",
+      "id": "p-151",
       "hu": "és Nem vagyok jól.",
       "en": null,
       "lesson": 1,
@@ -507,7 +507,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-145",
+      "id": "p-152",
       "hu": "és Kicsit ideges vagyok.",
       "en": null,
       "lesson": 1,
@@ -518,7 +518,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-146",
+      "id": "p-153",
       "hu": "= Jó napot kívánok!",
       "en": null,
       "lesson": 1,
@@ -529,7 +529,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-147",
+      "id": "p-154",
       "hu": "- Köszönöm, jól vagyok. És Ön?",
       "en": null,
       "lesson": 1,
@@ -540,7 +540,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-148",
+      "id": "p-155",
       "hu": "- Köszönöm, én is jól vagyok.",
       "en": null,
       "lesson": 1,
@@ -551,7 +551,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-149",
+      "id": "p-156",
       "hu": "- Jó napot! Hogy van?",
       "en": null,
       "lesson": 1,
@@ -562,7 +562,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-150",
+      "id": "p-157",
       "hu": "- Nem vagyok jól. Beteg vagyok. És Ön?",
       "en": null,
       "lesson": 1,
@@ -573,7 +573,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-151",
+      "id": "p-158",
       "hu": "- Én jól vagyok.",
       "en": null,
       "lesson": 1,
@@ -584,7 +584,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-152",
+      "id": "p-159",
       "hu": "Én holland vagyok. Én amerikai vagyok. Én magyar vagyok.",
       "en": null,
       "lesson": 1,
@@ -595,7 +595,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-153",
+      "id": "p-160",
       "hu": "En francia vagyok. En ausztral vagyok. En német vagyok.",
       "en": null,
       "lesson": 1,
@@ -606,7 +606,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-154",
+      "id": "p-161",
       "hu": "Pay attention to the adjacent vowels like \"amerikai, \"kanadai, \"ausztrál\"!",
       "en": null,
       "lesson": 1,
@@ -617,7 +617,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-155",
+      "id": "p-162",
       "hu": "Én holland vagyok. És Ön?",
       "en": null,
       "lesson": 1,
@@ -628,7 +628,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-156",
+      "id": "p-163",
       "hu": "Én amerikai vagyok. És Ön?",
       "en": null,
       "lesson": 1,
@@ -639,7 +639,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-157",
+      "id": "p-164",
       "hu": "Én magyar vagyok. És Ön? ...",
       "en": null,
       "lesson": 1,
@@ -650,7 +650,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-158",
+      "id": "p-165",
       "hu": "Én holland vagyok, Hollandiában élek.",
       "en": null,
       "lesson": 1,
@@ -661,7 +661,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-159",
+      "id": "p-166",
       "hu": "Én amerikai vagyok, Amerikában élek.",
       "en": null,
       "lesson": 1,
@@ -672,7 +672,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-160",
+      "id": "p-167",
       "hu": "Én magyar vagyok, Magyarországon élek. ...",
       "en": null,
       "lesson": 1,
@@ -683,7 +683,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-161",
+      "id": "p-168",
       "hu": "Én holland vagyok, de Amerikában élek.",
       "en": null,
       "lesson": 1,
@@ -694,7 +694,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-162",
+      "id": "p-169",
       "hu": "Én amerikai vagyok, de Magyarországon élek.",
       "en": null,
       "lesson": 1,
@@ -705,7 +705,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-163",
+      "id": "p-170",
       "hu": "Én magyar vagyok, de Olaszországban élek. ...",
       "en": null,
       "lesson": 1,
@@ -716,7 +716,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-164",
+      "id": "p-171",
       "hu": "munkafüzet pg 6.",
       "en": null,
       "lesson": 1,
@@ -727,7 +727,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-165",
+      "id": "p-172",
       "hu": "Én magyar vagyok. Magyar vagyok.",
       "en": null,
       "lesson": 1,
@@ -738,7 +738,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-166",
+      "id": "p-173",
       "hu": "Te portugál vagy? Portugál vagy?",
       "en": null,
       "lesson": 1,
@@ -749,7 +749,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-167",
+      "id": "p-174",
       "hu": "Te mérnök vagy? Mérnök vagy?",
       "en": null,
       "lesson": 1,
@@ -760,7 +760,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-168",
+      "id": "p-175",
       "hu": "e Nem, én holland vagyok.",
       "en": null,
       "lesson": 1,
@@ -771,7 +771,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-169",
+      "id": "p-176",
       "hu": "e Nem, én angol vagyok.",
       "en": null,
       "lesson": 1,
@@ -782,7 +782,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-170",
+      "id": "p-177",
       "hu": ". Back vowels: are the vowels you find in the word \"autó\".",
       "en": null,
       "lesson": 1,
@@ -793,7 +793,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-171",
+      "id": "p-178",
       "hu": ". Front vowels: are the vowels you find in the word teniszütő\".",
       "en": null,
       "lesson": 1,
@@ -804,7 +804,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-172",
+      "id": "p-179",
       "hu": "a. Iskolában vagyok.",
       "en": null,
       "lesson": 1,
@@ -815,7 +815,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-173",
+      "id": "p-180",
       "hu": "b. Én iskolában vagyok, te irodában vagy.",
       "en": null,
       "lesson": 1,
@@ -826,7 +826,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-174",
+      "id": "p-181",
       "hu": "c. Nem vagyok iskolában, irodában vagyok.",
       "en": null,
       "lesson": 1,
@@ -837,7 +837,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-175",
+      "id": "p-182",
       "hu": "- Nem, én.................... vagyok.",
       "en": null,
       "lesson": 1,
@@ -848,7 +848,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-176",
+      "id": "p-183",
       "hu": "- Igen, én magyar vagyok.",
       "en": null,
       "lesson": 1,
@@ -859,7 +859,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-177",
+      "id": "p-184",
       "hu": "Tszésésséé ése... . vagyok. Te kanadai vagy?",
       "en": null,
       "lesson": 1,
@@ -870,7 +870,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-178",
+      "id": "p-185",
       "hu": "- Nem, én amerikai vagyok.",
       "en": null,
       "lesson": 1,
@@ -881,7 +881,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-179",
+      "id": "p-186",
       "hu": "- Portugál vagyok. Te portugál vagy?",
       "en": null,
       "lesson": 1,
@@ -892,7 +892,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-180",
+      "id": "p-187",
       "hu": "- Nem, én........................ Vagyok.",
       "en": null,
       "lesson": 1,
@@ -903,7 +903,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-181",
+      "id": "p-188",
       "hu": "© sssésséésééééé ts. Vagyok. TE lengyel vagy?",
       "en": null,
       "lesson": 1,
@@ -914,7 +914,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-182",
+      "id": "p-189",
       "hu": "- Nem, én angol vagyok.",
       "en": null,
       "lesson": 1,
@@ -925,7 +925,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-183",
+      "id": "p-190",
       "hu": "- Ausztrál vagyok. Te. és VAGY?",
       "en": null,
       "lesson": 1,
@@ -936,7 +936,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-184",
+      "id": "p-191",
       "hu": "- Nem, én angol vagyok.",
       "en": null,
       "lesson": 1,
@@ -947,7 +947,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-185",
+      "id": "p-192",
       "hu": "Hogy köszönünk? How do we greet?",
       "en": null,
       "lesson": 1,
@@ -958,7 +958,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-186",
+      "id": "p-193",
       "hu": "Jó reggelt kívánok!/Jó reggelt! Good morning!",
       "en": null,
       "lesson": 1,
@@ -969,7 +969,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-187",
+      "id": "p-194",
       "hu": "Jó napot kívánok!/Jó napot! Good day!",
       "en": null,
       "lesson": 1,
@@ -980,7 +980,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-188",
+      "id": "p-195",
       "hu": "Jó estét kívánok!/Jó estét! Good evening!",
       "en": null,
       "lesson": 1,
@@ -991,7 +991,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-189",
+      "id": "p-196",
       "hu": "Jó éjszakat!/Jo éjt! Good night!",
       "en": null,
       "lesson": 1,
@@ -1002,7 +1002,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-190",
+      "id": "p-197",
       "hu": "Magas, mély vagy vegyes?",
       "en": null,
       "lesson": 1,
@@ -1013,7 +1013,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-191",
+      "id": "p-198",
       "hu": "Have a nice week!/ Szép hetet kívánok!",
       "en": null,
       "lesson": 1,
@@ -1024,7 +1024,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-192",
+      "id": "p-199",
       "hu": "4.SZÁG-FINN-OR A u.",
       "en": null,
       "lesson": 1,
@@ -1035,7 +1035,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-193",
+      "id": "p-200",
       "hu": "b) Melyik ország ez? Beszélgessenek a minta alapján! Az interneten is kereshetnek információkat.",
       "en": null,
       "lesson": 1,
@@ -1046,7 +1046,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-194",
+      "id": "p-201",
       "hu": "— Ha a főváros Berlin, akkor az ország Németország.",
       "en": null,
       "lesson": 1,
@@ -1057,7 +1057,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-195",
+      "id": "p-202",
       "hu": "©) Folytassák a kvízt európai és nem európai országokkal, szóban!",
       "en": null,
       "lesson": 1,
@@ -1068,7 +1068,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-196",
+      "id": "p-203",
       "hu": "8. Országok, nemzetiségek és nyelvek. Olvassa el, és egészítse ki a listát!",
       "en": null,
       "lesson": 1,
@@ -1079,7 +1079,7 @@
       "ocrConfidence": 67
     },
     {
-      "id": "p-197",
+      "id": "p-204",
       "hu": "Magyarország magyar kot | | Mongólia mongol E.",
       "en": null,
       "lesson": 1,
@@ -1090,7 +1090,7 @@
       "ocrConfidence": 67
     },
     {
-      "id": "p-198",
+      "id": "p-205",
       "hu": "Norvégia — Albánia — Peru — Ukrajna — Lengyelország — Olaszország — kk.",
       "en": null,
       "lesson": 1,
@@ -1101,7 +1101,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-199",
+      "id": "p-206",
       "hu": "Tallinnban — Szöulban Tokióban N.",
       "en": null,
       "lesson": 1,
@@ -1112,7 +1112,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-200",
+      "id": "p-207",
       "hu": "praziliaban Varsóban Velenceben \" ease eran eerste naena.",
       "en": null,
       "lesson": 1,
@@ -1123,7 +1123,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-201",
+      "id": "p-208",
       "hu": "10. Németországban élek. Te hol élsz? Ön hol él?",
       "en": null,
       "lesson": 1,
@@ -1134,7 +1134,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-202",
+      "id": "p-209",
       "hu": "a) Figyelje meg a szabályos igék ragozását!",
       "en": null,
       "lesson": 1,
@@ -1145,7 +1145,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-203",
+      "id": "p-210",
       "hu": "én élek Olaszországban élek.",
       "en": null,
       "lesson": 1,
@@ -1156,7 +1156,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-204",
+      "id": "p-211",
       "hu": "te élsz Németországban élsz?",
       "en": null,
       "lesson": 1,
@@ -1167,7 +1167,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-205",
+      "id": "p-212",
       "hu": "Ön i Ön hol él?",
       "en": null,
       "lesson": 1,
@@ -1178,7 +1178,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-206",
+      "id": "p-213",
       "hu": "ő Sarah Londonban él.",
       "en": null,
       "lesson": 1,
@@ -1189,7 +1189,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-207",
+      "id": "p-214",
       "hu": "— Németországban élek. És te?",
       "en": null,
       "lesson": 1,
@@ -1200,7 +1200,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-208",
+      "id": "p-215",
       "hu": "— Németországban élek. És Ön?",
       "en": null,
       "lesson": 1,
@@ -1211,7 +1211,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-209",
+      "id": "p-216",
       "hu": "— Tényleg? És hol?",
       "en": null,
       "lesson": 1,
@@ -1222,7 +1222,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-210",
+      "id": "p-217",
       "hu": "Hol végezte tanulmányait?",
       "en": null,
       "lesson": 10,
@@ -1233,7 +1233,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-211",
+      "id": "p-218",
       "hu": "Mi a foglalkozása?",
       "en": null,
       "lesson": 10,
@@ -1244,7 +1244,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-212",
+      "id": "p-219",
       "hu": "Mi a szülei foglalkozása?",
       "en": null,
       "lesson": 10,
@@ -1255,7 +1255,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-213",
+      "id": "p-220",
       "hu": "Mi a testvére foglalkozása?",
       "en": null,
       "lesson": 10,
@@ -1266,7 +1266,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-214",
+      "id": "p-221",
       "hu": "Le tudja vezetni magyar származását?",
       "en": null,
       "lesson": 10,
@@ -1277,7 +1277,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-215",
+      "id": "p-222",
       "hu": "3. Present indefinite conjugation Grammar reference MagyarOk A1+ munkafüzet pg 66.",
       "en": null,
       "lesson": 10,
@@ -1288,7 +1288,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-216",
+      "id": "p-223",
       "hu": "4. Ki mit csinál ma?",
       "en": null,
       "lesson": 10,
@@ -1299,7 +1299,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-217",
+      "id": "p-224",
       "hu": "Mit csinálsz ma este? Levest főzök, telefonálok, magyarul tanulok, portugált tanítok, ...",
       "en": null,
       "lesson": 10,
@@ -1310,7 +1310,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-218",
+      "id": "p-225",
       "hu": "Mit csinál a férje / a fia / Tamás?",
       "en": null,
       "lesson": 10,
@@ -1321,7 +1321,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-219",
+      "id": "p-226",
       "hu": "Ti mit csináltok ma?",
       "en": null,
       "lesson": 10,
@@ -1332,7 +1332,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-220",
+      "id": "p-227",
       "hu": "Önök mit csinálnak ma?",
       "en": null,
       "lesson": 10,
@@ -1343,7 +1343,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-221",
+      "id": "p-228",
       "hu": "Mit csinálnak ma a szomszédok?",
       "en": null,
       "lesson": 10,
@@ -1354,7 +1354,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-222",
+      "id": "p-229",
       "hu": "Enikő rajzol.... egy házat.",
       "en": null,
       "lesson": 10,
@@ -1365,7 +1365,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-223",
+      "id": "p-230",
       "hu": "A szomszédok mit rajzol....?",
       "en": null,
       "lesson": 10,
@@ -1376,7 +1376,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-224",
+      "id": "p-231",
       "hu": "En egy képet fest...",
       "en": null,
       "lesson": 10,
@@ -1387,7 +1387,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-225",
+      "id": "p-232",
       "hu": "A szomszédok mit fest....?",
       "en": null,
       "lesson": 10,
@@ -1398,7 +1398,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-226",
+      "id": "p-233",
       "hu": "En magyarul beszél....",
       "en": null,
       "lesson": 10,
@@ -1409,7 +1409,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-227",
+      "id": "p-234",
       "hu": "Te is beszél.... magyarul?",
       "en": null,
       "lesson": 10,
@@ -1420,7 +1420,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-228",
+      "id": "p-235",
       "hu": "A barátnőd Annie is beszél.... magyarul?",
       "en": null,
       "lesson": 10,
@@ -1431,7 +1431,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-229",
+      "id": "p-236",
       "hu": "Mi nem beszél.... németül.",
       "en": null,
       "lesson": 10,
@@ -1442,7 +1442,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-230",
+      "id": "p-237",
       "hu": "Önök beszél.... angolul?",
       "en": null,
       "lesson": 10,
@@ -1453,7 +1453,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-231",
+      "id": "p-238",
       "hu": "A szomszédok beszél.... angolul?",
       "en": null,
       "lesson": 10,
@@ -1464,7 +1464,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-232",
+      "id": "p-239",
       "hu": "En magyart tanít...",
       "en": null,
       "lesson": 10,
@@ -1475,7 +1475,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-233",
+      "id": "p-240",
       "hu": "Te is tanít... magyart?",
       "en": null,
       "lesson": 10,
@@ -1486,7 +1486,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-234",
+      "id": "p-241",
       "hu": "A barátnőm, Annie nem tanít.... magyart.",
       "en": null,
       "lesson": 10,
@@ -1497,7 +1497,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-235",
+      "id": "p-242",
       "hu": "Mi portugált tanít....",
       "en": null,
       "lesson": 10,
@@ -1508,7 +1508,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-236",
+      "id": "p-243",
       "hu": "Önök is tanít..... portugált?",
       "en": null,
       "lesson": 10,
@@ -1519,7 +1519,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-237",
+      "id": "p-244",
       "hu": "A szomszédok nem tanít.... portugált.",
       "en": null,
       "lesson": 10,
@@ -1530,7 +1530,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-238",
+      "id": "p-245",
       "hu": "Ti mit kér....?",
       "en": null,
       "lesson": 10,
@@ -1541,7 +1541,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-239",
+      "id": "p-246",
       "hu": "En levest kér...., Laci töltött káposztát kér....",
       "en": null,
       "lesson": 10,
@@ -1552,7 +1552,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-240",
+      "id": "p-247",
       "hu": "A szomszédok semmit nem kér....",
       "en": null,
       "lesson": 10,
@@ -1563,7 +1563,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-241",
+      "id": "p-248",
       "hu": "Eszter ad... nekem egy almát.",
       "en": null,
       "lesson": 10,
@@ -1574,7 +1574,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-242",
+      "id": "p-249",
       "hu": "Mi pénzt ad....",
       "en": null,
       "lesson": 10,
@@ -1585,7 +1585,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-243",
+      "id": "p-250",
       "hu": "pályázik (+ra, re) — apply for sg.",
       "en": null,
       "lesson": 10,
@@ -1596,7 +1596,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-244",
+      "id": "p-251",
       "hu": "b) Egészítse ki - hallgassa meg a hangfelvételt!",
       "en": null,
       "lesson": 10,
@@ -1607,7 +1607,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-245",
+      "id": "p-252",
       "hu": "magyar állampolgár !ss7.........",
       "en": null,
       "lesson": 10,
@@ -1618,7 +1618,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-246",
+      "id": "p-253",
       "hu": "- Hol él Kati? Kati lzraelbenél.",
       "en": null,
       "lesson": 10,
@@ -1629,7 +1629,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-247",
+      "id": "p-254",
       "hu": "- Mi Kati foglalkozása? Kati tanar. Portugalt és görögöt tanit.",
       "en": null,
       "lesson": 10,
@@ -1640,7 +1640,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-248",
+      "id": "p-255",
       "hu": "- — Hogy hívják Kati férjét? Kati férjét a nevé Laci.",
       "en": null,
       "lesson": 10,
@@ -1651,7 +1651,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-249",
+      "id": "p-256",
       "hu": "- Mi Kati férje foglalkozása? — katiférje mérnök.",
       "en": null,
       "lesson": 10,
@@ -1662,7 +1662,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-250",
+      "id": "p-257",
       "hu": "- Kati magyar állampolgár? Nem, Kati nem magyar állampolgár. Kati pályázik a magyar állampolgárságra.",
       "en": null,
       "lesson": 10,
@@ -1673,7 +1673,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-251",
+      "id": "p-258",
       "hu": "Itt van az útlevele? Mikor született?",
       "en": null,
       "lesson": 10,
@@ -1684,7 +1684,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-252",
+      "id": "p-259",
       "hu": "Hol végezte tanulmányait?",
       "en": null,
       "lesson": 10,
@@ -1695,7 +1695,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-253",
+      "id": "p-260",
       "hu": "Le tudja vezetni magyar származását?",
       "en": null,
       "lesson": 10,
@@ -1706,7 +1706,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-254",
+      "id": "p-261",
       "hu": "kerül (+ba, +be) — cost pályázik (--ra, --re) — apply for sg.",
       "en": null,
       "lesson": 10,
@@ -1717,7 +1717,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-255",
+      "id": "p-262",
       "hu": "ő/Ön:- ők/Önök: -anak/enek!!!",
       "en": null,
       "lesson": 10,
@@ -1728,7 +1728,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-256",
+      "id": "p-263",
       "hu": "2. Ellenőrizzük a házi feladatot!",
       "en": null,
       "lesson": 11,
@@ -1739,7 +1739,7 @@
       "ocrConfidence": 95
     },
     {
-      "id": "p-257",
+      "id": "p-264",
       "hu": "Először tusol......... (tusolni), utána fogat mos.....(mosni).",
       "en": null,
       "lesson": 11,
@@ -1750,7 +1750,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-258",
+      "id": "p-265",
       "hu": "beszélgessünk az én napirendemről!",
       "en": null,
       "lesson": 11,
@@ -1761,7 +1761,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-259",
+      "id": "p-266",
       "hu": "1. Ön mikor kel?",
       "en": null,
       "lesson": 11,
@@ -1772,7 +1772,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-260",
+      "id": "p-267",
       "hu": "2. Hány órakor reggelizik?",
       "en": null,
       "lesson": 11,
@@ -1783,7 +1783,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-261",
+      "id": "p-268",
       "hu": "3. Hol ebédel?",
       "en": null,
       "lesson": 11,
@@ -1794,7 +1794,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-262",
+      "id": "p-269",
       "hu": "4. Mit csinál délután?",
       "en": null,
       "lesson": 11,
@@ -1805,7 +1805,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-263",
+      "id": "p-270",
       "hu": "5. Mikor vacsorázik?",
       "en": null,
       "lesson": 11,
@@ -1816,7 +1816,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-264",
+      "id": "p-271",
       "hu": "6. Mit csinál este?",
       "en": null,
       "lesson": 11,
@@ -1827,7 +1827,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-265",
+      "id": "p-272",
       "hu": "7. Milyen házimunkát szeret csinálni?",
       "en": null,
       "lesson": 11,
@@ -1838,7 +1838,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-266",
+      "id": "p-273",
       "hu": "8. Milyen házimunkát nem kedvel?",
       "en": null,
       "lesson": 11,
@@ -1849,7 +1849,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-267",
+      "id": "p-274",
       "hu": "9. Van takarítónője?",
       "en": null,
       "lesson": 11,
@@ -1860,7 +1860,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-268",
+      "id": "p-275",
       "hu": "b) Válassza ki a helyes megoldást! / Choose the right word.",
       "en": null,
       "lesson": 11,
@@ -1871,7 +1871,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-269",
+      "id": "p-276",
       "hu": "a. Reggel hétkor kelek / szórakozni megyek.",
       "en": null,
       "lesson": 11,
@@ -1882,7 +1882,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-270",
+      "id": "p-277",
       "hu": "b. Reggeli után lefekszem / fogat mosok.",
       "en": null,
       "lesson": 11,
@@ -1893,7 +1893,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-271",
+      "id": "p-278",
       "hu": "c. Biciklivel / cukorral megyek munkába.",
       "en": null,
       "lesson": 11,
@@ -1904,7 +1904,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-272",
+      "id": "p-279",
       "hu": "d. A barátommal / autóval ebédelek.",
       "en": null,
       "lesson": 11,
@@ -1915,7 +1915,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-273",
+      "id": "p-280",
       "hu": "f. A könyvtárba / klubba szórakozni megyek.",
       "en": null,
       "lesson": 11,
@@ -1926,7 +1926,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-274",
+      "id": "p-281",
       "hu": "9. Délután ruhát vasalok / mosogatok.",
       "en": null,
       "lesson": 11,
@@ -1937,7 +1937,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-275",
+      "id": "p-282",
       "hu": "h. A takarítónő a nappaliban port töröl / mos.",
       "en": null,
       "lesson": 11,
@@ -1948,7 +1948,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-276",
+      "id": "p-283",
       "hu": "e Jo reggelt kívánok!",
       "en": null,
       "lesson": 11,
@@ -1959,7 +1959,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-277",
+      "id": "p-284",
       "hu": "e — Állampolgársági interjúra jöttem.",
       "en": null,
       "lesson": 11,
@@ -1970,7 +1970,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-278",
+      "id": "p-285",
       "hu": "Jó. Hogy hívják?",
       "en": null,
       "lesson": 11,
@@ -1981,7 +1981,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-279",
+      "id": "p-286",
       "hu": "« A nevem Horváthné Katalin.",
       "en": null,
       "lesson": 11,
@@ -1992,7 +1992,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-280",
+      "id": "p-287",
       "hu": "e — Igen, az időpontom ma...ma 10 órakor van.",
       "en": null,
       "lesson": 11,
@@ -2003,7 +2003,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-281",
+      "id": "p-288",
       "hu": "Jó, hát 5 perc múlva 10 óra, akkor legyen szíves, fáradjon be és foglaljon helyet!",
       "en": null,
       "lesson": 11,
@@ -2014,7 +2014,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-282",
+      "id": "p-289",
       "hu": "e Köszönöm szépen!",
       "en": null,
       "lesson": 11,
@@ -2025,7 +2025,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-283",
+      "id": "p-290",
       "hu": "Rendben. Legyen szíves, mutatkozzon be és mesélje el, hogy hogy telik egy napja!",
       "en": null,
       "lesson": 11,
@@ -2036,7 +2036,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-284",
+      "id": "p-291",
       "hu": "állampolgár vagyok és... New Yorkban élek a férjemmel. A férjem magyar.",
       "en": null,
       "lesson": 11,
@@ -2047,7 +2047,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-285",
+      "id": "p-292",
       "hu": "En tanár vagyok.",
       "en": null,
       "lesson": 11,
@@ -2058,7 +2058,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-286",
+      "id": "p-293",
       "hu": "kor reggelizem, utána elmosogatok és az iskolába megyek.",
       "en": null,
       "lesson": 11,
@@ -2069,7 +2069,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-287",
+      "id": "p-294",
       "hu": "És a férje is ilyen elfoglalt?",
       "en": null,
       "lesson": 11,
@@ -2080,7 +2080,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-288",
+      "id": "p-295",
       "hu": "És neki hogy néz ki a napirendje?",
       "en": null,
       "lesson": 11,
@@ -2091,7 +2091,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-289",
+      "id": "p-296",
       "hu": "házban reggelizik, ő az irodában reggelizik minden nap.",
       "en": null,
       "lesson": 11,
@@ -2102,7 +2102,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-290",
+      "id": "p-297",
       "hu": "Akkor látom, hogy mindketten nagyon sokat dolgoznak.",
       "en": null,
       "lesson": 11,
@@ -2113,7 +2113,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-291",
+      "id": "p-298",
       "hu": "Hány óráig vannak az irodában?",
       "en": null,
       "lesson": 11,
@@ -2124,7 +2124,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-292",
+      "id": "p-299",
       "hu": "Rendben, köszönöm szépen!",
       "en": null,
       "lesson": 11,
@@ -2135,7 +2135,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-293",
+      "id": "p-300",
       "hu": "1. Általában mikor kel Kati?",
       "en": null,
       "lesson": 11,
@@ -2146,7 +2146,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-294",
+      "id": "p-301",
       "hu": "2. Ki kel korábban? Kati vagy a férje?",
       "en": null,
       "lesson": 11,
@@ -2157,7 +2157,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-295",
+      "id": "p-302",
       "hu": "4. Mikor végez Kati férje az irodában?",
       "en": null,
       "lesson": 11,
@@ -2168,7 +2168,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-296",
+      "id": "p-303",
       "hu": "5. Hány órakor kezdődik Kati interjúja?",
       "en": null,
       "lesson": 11,
@@ -2179,7 +2179,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-297",
+      "id": "p-304",
       "hu": "2. Ellenőrizzük a házi feladatot!",
       "en": null,
       "lesson": 11,
@@ -2190,7 +2190,7 @@
       "ocrConfidence": 95
     },
     {
-      "id": "p-298",
+      "id": "p-305",
       "hu": "Először tusol......... (tusolni), utána fogat mos.....(mosni).",
       "en": null,
       "lesson": 11,
@@ -2201,7 +2201,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-299",
+      "id": "p-306",
       "hu": "beszélgessünk az én napirendemről!",
       "en": null,
       "lesson": 11,
@@ -2212,7 +2212,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-300",
+      "id": "p-307",
       "hu": "1. Ön mikor kel?",
       "en": null,
       "lesson": 11,
@@ -2223,7 +2223,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-301",
+      "id": "p-308",
       "hu": "2. Hány órakor reggelizik?",
       "en": null,
       "lesson": 11,
@@ -2234,7 +2234,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-302",
+      "id": "p-309",
       "hu": "3. Hol ebédel?",
       "en": null,
       "lesson": 11,
@@ -2245,7 +2245,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-303",
+      "id": "p-310",
       "hu": "4. Mit csinál délután?",
       "en": null,
       "lesson": 11,
@@ -2256,7 +2256,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-304",
+      "id": "p-311",
       "hu": "5. Mikor vacsorázik?",
       "en": null,
       "lesson": 11,
@@ -2267,7 +2267,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-305",
+      "id": "p-312",
       "hu": "6. Mit csinál este?",
       "en": null,
       "lesson": 11,
@@ -2278,7 +2278,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-306",
+      "id": "p-313",
       "hu": "7. Milyen házimunkát szeret csinálni?",
       "en": null,
       "lesson": 11,
@@ -2289,7 +2289,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-307",
+      "id": "p-314",
       "hu": "8. Milyen házimunkát nem kedvel?",
       "en": null,
       "lesson": 11,
@@ -2300,7 +2300,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-308",
+      "id": "p-315",
       "hu": "9. Van takarítónője?",
       "en": null,
       "lesson": 11,
@@ -2311,7 +2311,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-309",
+      "id": "p-316",
       "hu": "b) Válassza ki a helyes megoldást! / Choose the right word.",
       "en": null,
       "lesson": 11,
@@ -2322,7 +2322,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-310",
+      "id": "p-317",
       "hu": "b. Reggeli után lefekszem /|fogat mosok.| After breakfast, | brush my teeth.",
       "en": null,
       "lesson": 11,
@@ -2333,7 +2333,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-311",
+      "id": "p-318",
       "hu": "f. A könyvtárba / klubba szórakozni megyek. ! goto the club to have fun.",
       "en": null,
       "lesson": 11,
@@ -2344,7 +2344,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-312",
+      "id": "p-319",
       "hu": "e Jo reggelt kívánok!",
       "en": null,
       "lesson": 11,
@@ -2355,7 +2355,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-313",
+      "id": "p-320",
       "hu": "e — Állampolgársági interjúra jöttem.",
       "en": null,
       "lesson": 11,
@@ -2366,7 +2366,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-314",
+      "id": "p-321",
       "hu": "Jó. Hogy hívják?",
       "en": null,
       "lesson": 11,
@@ -2377,7 +2377,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-315",
+      "id": "p-322",
       "hu": "« A nevem Horváthné Katalin.",
       "en": null,
       "lesson": 11,
@@ -2388,7 +2388,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-316",
+      "id": "p-323",
       "hu": "e — Igen, az időpontom ma...ma 10 órakor van.",
       "en": null,
       "lesson": 11,
@@ -2399,7 +2399,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-317",
+      "id": "p-324",
       "hu": "Jó, hát 5 perc múlva 10 óra, akkor legyen szíves, fáradjon be és foglaljon helyet!",
       "en": null,
       "lesson": 11,
@@ -2410,7 +2410,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-318",
+      "id": "p-325",
       "hu": "e Köszönöm szépen!",
       "en": null,
       "lesson": 11,
@@ -2421,7 +2421,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-319",
+      "id": "p-326",
       "hu": "Rendben. Legyen szíves, mutatkozzon be és mesélje el, hogy hogy telik egy napja!",
       "en": null,
       "lesson": 11,
@@ -2432,7 +2432,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-320",
+      "id": "p-327",
       "hu": "állampolgár vagyok és... New Yorkban élek a férjemmel. A férjem magyar.",
       "en": null,
       "lesson": 11,
@@ -2443,7 +2443,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-321",
+      "id": "p-328",
       "hu": "En tanár vagyok.",
       "en": null,
       "lesson": 11,
@@ -2454,7 +2454,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-322",
+      "id": "p-329",
       "hu": "kor reggelizem, utána elmosogatok és az iskolába megyek.",
       "en": null,
       "lesson": 11,
@@ -2465,7 +2465,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-323",
+      "id": "p-330",
       "hu": "És a férje is ilyen elfoglalt?",
       "en": null,
       "lesson": 11,
@@ -2476,7 +2476,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-324",
+      "id": "p-331",
       "hu": "És neki hogy néz ki a napirendje?",
       "en": null,
       "lesson": 11,
@@ -2487,7 +2487,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-325",
+      "id": "p-332",
       "hu": "házban reggelizik, ő az irodában reggelizik minden nap.",
       "en": null,
       "lesson": 11,
@@ -2498,7 +2498,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-326",
+      "id": "p-333",
       "hu": "Akkor látom, hogy mindketten nagyon sokat dolgoznak.",
       "en": null,
       "lesson": 11,
@@ -2509,7 +2509,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-327",
+      "id": "p-334",
       "hu": "Hány óráig vannak az irodában?",
       "en": null,
       "lesson": 11,
@@ -2520,7 +2520,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-328",
+      "id": "p-335",
       "hu": "Rendben, köszönöm szépen!",
       "en": null,
       "lesson": 11,
@@ -2531,7 +2531,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-329",
+      "id": "p-336",
       "hu": "1. Általában mikor kel Kati?",
       "en": null,
       "lesson": 11,
@@ -2542,7 +2542,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-330",
+      "id": "p-337",
       "hu": "2. Ki kel korábban? Kati vagy a férje?",
       "en": null,
       "lesson": 11,
@@ -2553,7 +2553,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-331",
+      "id": "p-338",
       "hu": "4. Mikor végez Kati férje az irodában?",
       "en": null,
       "lesson": 11,
@@ -2564,7 +2564,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-332",
+      "id": "p-339",
       "hu": "5. Hány órakor kezdődik Kati interjúja?",
       "en": null,
       "lesson": 11,
@@ -2575,7 +2575,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-333",
+      "id": "p-340",
       "hu": "1. Fehér Dénes napirendje. Írja a képek alá az igét!",
       "en": null,
       "lesson": 11,
@@ -2586,7 +2586,7 @@
       "ocrConfidence": 69
     },
     {
-      "id": "p-334",
+      "id": "p-341",
       "hu": "9. ..értekezleten.ül....... .— 10. meginttelefanálás.szmajleket ír 11. .lemegy.apatkolába..... 12. .megint.oail.az.auitha.",
       "en": null,
       "lesson": 11,
@@ -2597,7 +2597,7 @@
       "ocrConfidence": 69
     },
     {
-      "id": "p-335",
+      "id": "p-342",
       "hu": "17. vassoratioz:cookdioner 18. ...zenéthallat...... 19. tévétmézásyassorázik. 20. ....lefekszikaludni....",
       "en": null,
       "lesson": 11,
@@ -2608,7 +2608,7 @@
       "ocrConfidence": 69
     },
     {
-      "id": "p-336",
+      "id": "p-343",
       "hu": "Dénes bemegy az irodába. Dénes kijön az irodából.",
       "en": null,
       "lesson": 11,
@@ -2619,7 +2619,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-337",
+      "id": "p-344",
       "hu": "Dénes felmegy az emeletre. Dénes lejön az emeletről.",
       "en": null,
       "lesson": 11,
@@ -2630,7 +2630,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-338",
+      "id": "p-345",
       "hu": "b) Mit csinál még Dénes? Egészitse ki az igekötőket logikusan!",
       "en": null,
       "lesson": 11,
@@ -2641,7 +2641,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-339",
+      "id": "p-346",
       "hu": "1. ....... Eláll a székről, és ...........iil a kanapéra. He/she gets up from the chair and sits on the couch.",
       "en": null,
       "lesson": 11,
@@ -2652,7 +2652,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-340",
+      "id": "p-347",
       "hu": "3. .. s... sétdl a parkba, és ........22..sétál a munkahelyére. . He/she walks into the park and walks into their workplace.",
       "en": null,
       "lesson": 11,
@@ -2663,7 +2663,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-341",
+      "id": "p-348",
       "hu": "5. .......Fel.megy a földszintről az emeletre, aztán ........\"...jon az emeletről a földszintre.",
       "en": null,
       "lesson": 11,
@@ -2674,7 +2674,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-342",
+      "id": "p-349",
       "hu": "a) Kulcsszavak. Tisztázza a szavak jelentését!",
       "en": null,
       "lesson": 11,
@@ -2685,7 +2685,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-343",
+      "id": "p-350",
       "hu": "b) Hallgassa meg, mit csinál Dénes egy nap!",
       "en": null,
       "lesson": 11,
@@ -2696,7 +2696,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-344",
+      "id": "p-351",
       "hu": "4. Mikor mit csinál Dénes? Hallgassa meg újra a hangfelvételt, és írja az időpontokat a rajzok alá!",
       "en": null,
       "lesson": 11,
@@ -2707,7 +2707,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-345",
+      "id": "p-352",
       "hu": "4 Fél nyolckor beülök az autóba.",
       "en": null,
       "lesson": 11,
@@ -2718,7 +2718,7 @@
       "ocrConfidence": 77
     },
     {
-      "id": "p-346",
+      "id": "p-353",
       "hu": "Délben harminc perc ebédszünetem van. Általában egy szendvicset eszem.",
       "en": null,
       "lesson": 11,
@@ -2729,7 +2729,7 @@
       "ocrConfidence": 77
     },
     {
-      "id": "p-347",
+      "id": "p-354",
       "hu": "Utána fél ötig az irodában dolgozom. | a A 8.",
       "en": null,
       "lesson": 11,
@@ -2740,7 +2740,7 @@
       "ocrConfidence": 77
     },
     {
-      "id": "p-348",
+      "id": "p-355",
       "hu": "a) Válaszoljon a kérdésekre a minta alapján!",
       "en": null,
       "lesson": 11,
@@ -2751,7 +2751,7 @@
       "ocrConfidence": 77
     },
     {
-      "id": "p-349",
+      "id": "p-356",
       "hu": "b) Gyűjtsön még több választ a Mikor? kérdésre a szövegből!",
       "en": null,
       "lesson": 11,
@@ -2762,7 +2762,7 @@
       "ocrConfidence": 77
     },
     {
-      "id": "p-350",
+      "id": "p-357",
       "hu": "2. Beszélgessünk a családjáról a szavak alapján!",
       "en": null,
       "lesson": 12,
@@ -2773,7 +2773,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-351",
+      "id": "p-358",
       "hu": "- — Ki hol lakik? New Yorkban élek. A szüleim Floridában élnek.",
       "en": null,
       "lesson": 12,
@@ -2784,7 +2784,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-352",
+      "id": "p-359",
       "hu": "- Ki hány éves? Harmincegy éves vagyok. Az apukám hatvanhat éves. Az anyukám hatvanöt éves.",
       "en": null,
       "lesson": 12,
@@ -2795,7 +2795,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-353",
+      "id": "p-360",
       "hu": "- Kiél? Én, az apukám és az anyukám.",
       "en": null,
       "lesson": 12,
@@ -2806,7 +2806,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-354",
+      "id": "p-361",
       "hu": "- Ki született Magyarországon?",
       "en": null,
       "lesson": 12,
@@ -2817,7 +2817,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-355",
+      "id": "p-362",
       "hu": "- Hol született? stamford városában, Connecticut államban, Amerikában.",
       "en": null,
       "lesson": 12,
@@ -2828,7 +2828,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-356",
+      "id": "p-363",
       "hu": "- Van már a családjában magyar állampolgár em, még nincs magyar állampolgár a családomban.",
       "en": null,
       "lesson": 12,
@@ -2839,7 +2839,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-357",
+      "id": "p-364",
       "hu": "- — Kérelmezte már valaki a magyar állampolgárságot?",
       "en": null,
       "lesson": 12,
@@ -2850,7 +2850,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-358",
+      "id": "p-365",
       "hu": "3. Beszélgessünk az állampolgársági kérelméről a szavak alapján!",
       "en": null,
       "lesson": 12,
@@ -2861,7 +2861,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-359",
+      "id": "p-366",
       "hu": "legyen szíves most pótolja be! Köszönjük szépen!",
       "en": null,
       "lesson": 12,
@@ -2872,7 +2872,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-360",
+      "id": "p-367",
       "hu": "I am not married. nem vagyok házas.",
       "en": null,
       "lesson": 12,
@@ -2883,7 +2883,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-361",
+      "id": "p-368",
       "hu": "My dad was born in (year?). Az édesapám ezer-killencszaz-6tvennegy-ben szuletett.",
       "en": null,
       "lesson": 12,
@@ -2894,7 +2894,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-362",
+      "id": "p-369",
       "hu": "Hol született? stamford városában, Connecticut államban, Amerikában.",
       "en": null,
       "lesson": 12,
@@ -2905,7 +2905,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-363",
+      "id": "p-370",
       "hu": "Hol végezte tanulmányait? A Northeastern Egyetemen végeztem tanulmányaimat.",
       "en": null,
       "lesson": 12,
@@ -2916,7 +2916,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-364",
+      "id": "p-371",
       "hu": "Most hol él?",
       "en": null,
       "lesson": 12,
@@ -2927,7 +2927,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-365",
+      "id": "p-372",
       "hu": "Meséljen a munkájáról!",
       "en": null,
       "lesson": 12,
@@ -2938,7 +2938,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-366",
+      "id": "p-373",
       "hu": "Meséljen a magyar származásáról!",
       "en": null,
       "lesson": 12,
@@ -2949,7 +2949,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-367",
+      "id": "p-374",
       "hu": "Mivel tölti szabadidejét? szeretek futni és magyarul tanulni.",
       "en": null,
       "lesson": 12,
@@ -2960,7 +2960,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-368",
+      "id": "p-375",
       "hu": "Járt már Magyarországon?",
       "en": null,
       "lesson": 12,
@@ -2971,7 +2971,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-369",
+      "id": "p-376",
       "hu": "Gratulálok! Ön nemsokára magyar állampolgár lesz!",
       "en": null,
       "lesson": 12,
@@ -2982,7 +2982,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-370",
+      "id": "p-377",
       "hu": "Parancsoljon, üljön le!",
       "en": null,
       "lesson": 12,
@@ -2993,7 +2993,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-371",
+      "id": "p-378",
       "hu": "Hogy tetszik Önnek Budapest?",
       "en": null,
       "lesson": 12,
@@ -3004,7 +3004,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-372",
+      "id": "p-379",
       "hu": "Kérem foglaljon helyet!",
       "en": null,
       "lesson": 12,
@@ -3015,7 +3015,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-373",
+      "id": "p-380",
       "hu": "Hol végezte tanulmányait?",
       "en": null,
       "lesson": 12,
@@ -3026,7 +3026,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-374",
+      "id": "p-381",
       "hu": "Itt írja alá!",
       "en": null,
       "lesson": 12,
@@ -3037,7 +3037,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-375",
+      "id": "p-382",
       "hu": "Határozott ragozás (Present Definite Conjugation) Grammar reference MagyarOk A1+ .",
       "en": null,
       "lesson": 12,
@@ -3048,7 +3048,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-376",
+      "id": "p-383",
       "hu": "thone - probably the most famous Hungarian rock-musical: \"István, a király\".",
       "en": null,
       "lesson": 12,
@@ -3059,7 +3059,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-377",
+      "id": "p-384",
       "hu": "- Akarod-e a szent hitet megtartani, és igaz módon megőrizni?",
       "en": null,
       "lesson": 12,
@@ -3070,7 +3070,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-378",
+      "id": "p-385",
       "hu": "- Akarsz-e a szent egyháznak, és papjainak védője és oltalmazója lenni?",
       "en": null,
       "lesson": 12,
@@ -3081,7 +3081,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-379",
+      "id": "p-386",
       "hu": "- Akarod-e az országot atyáid igazsága szerint kormányozni és védelmezni?",
       "en": null,
       "lesson": 12,
@@ -3092,7 +3092,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-380",
+      "id": "p-387",
       "hu": "- Úgy legyen. Amen.",
       "en": null,
       "lesson": 12,
@@ -3103,7 +3103,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-381",
+      "id": "p-388",
       "hu": "ő, On mossa ők, Önök ...............",
       "en": null,
       "lesson": 12,
@@ -3114,7 +3114,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-382",
+      "id": "p-389",
       "hu": "ő, On hozza ők, ÖNÖK .....",
       "en": null,
       "lesson": 12,
@@ -3125,7 +3125,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-383",
+      "id": "p-390",
       "hu": "we should send you some other listening exercises instead of this one. Köszönjük!",
       "en": null,
       "lesson": 12,
@@ -3136,7 +3136,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-384",
+      "id": "p-391",
       "hu": "Beszéljük meg a következő szavak, kifejezések jelentését!",
       "en": null,
       "lesson": 12,
@@ -3147,7 +3147,7 @@
       "ocrConfidence": 70
     },
     {
-      "id": "p-385",
+      "id": "p-392",
       "hu": "- — csirkefogó (a rascal - who does things that you disapprove of).",
       "en": null,
       "lesson": 12,
@@ -3158,7 +3158,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-386",
+      "id": "p-393",
       "hu": "Legyen szíves nézze meg ezt a rövid videót és egészítse ki!",
       "en": null,
       "lesson": 12,
@@ -3169,7 +3169,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-387",
+      "id": "p-394",
       "hu": "- — Megyek már!",
       "en": null,
       "lesson": 12,
@@ -3180,7 +3180,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-388",
+      "id": "p-395",
       "hu": "- A...........vagy? Régen láttalak!",
       "en": null,
       "lesson": 12,
@@ -3191,7 +3191,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-389",
+      "id": "p-396",
       "hu": "- Te vagy az én Ádám fiam?",
       "en": null,
       "lesson": 12,
@@ -3202,7 +3202,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-390",
+      "id": "p-397",
       "hu": "- — Ugyan, ne beszélj már!",
       "en": null,
       "lesson": 12,
@@ -3213,7 +3213,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-391",
+      "id": "p-398",
       "hu": "- Minden héten ez megy.",
       "en": null,
       "lesson": 12,
@@ -3224,7 +3224,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-392",
+      "id": "p-399",
       "hu": "- Es megn sültél, mondd, Adám?",
       "en": null,
       "lesson": 12,
@@ -3235,7 +3235,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-393",
+      "id": "p-400",
       "hu": "- Hát...................., vannak-e?",
       "en": null,
       "lesson": 12,
@@ -3246,7 +3246,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-394",
+      "id": "p-401",
       "hu": "- — És mit csináltál, úgy mindig?",
       "en": null,
       "lesson": 12,
@@ -3257,7 +3257,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-395",
+      "id": "p-402",
       "hu": "- — Jártam erre-arra.",
       "en": null,
       "lesson": 12,
@@ -3268,7 +3268,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-396",
+      "id": "p-403",
       "hu": "- Es sohasem jártál rosszul, igaz?",
       "en": null,
       "lesson": 12,
@@ -3279,7 +3279,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-397",
+      "id": "p-404",
       "hu": "- Es megn sültél, mondd, Adám?",
       "en": null,
       "lesson": 12,
@@ -3290,7 +3290,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-398",
+      "id": "p-405",
       "hu": "- Te magad mit csinálsz?",
       "en": null,
       "lesson": 12,
@@ -3301,7 +3301,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-399",
+      "id": "p-406",
       "hu": "- Hat ez az, hogy mérnök, mint te voltál.",
       "en": null,
       "lesson": 12,
@@ -3312,7 +3312,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-400",
+      "id": "p-407",
       "hu": "- — Szóval.............. vagy.",
       "en": null,
       "lesson": 12,
@@ -3323,7 +3323,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-401",
+      "id": "p-408",
       "hu": "- Azén Ádám ............ feltaláló. Ismered netán?",
       "en": null,
       "lesson": 12,
@@ -3334,7 +3334,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-402",
+      "id": "p-409",
       "hu": "- — Sokat utazgat, nagyon híres. Biztos hogy nem ...............?",
       "en": null,
       "lesson": 12,
@@ -3345,7 +3345,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-403",
+      "id": "p-410",
       "hu": "- — Ő én vagyok.",
       "en": null,
       "lesson": 12,
@@ -3356,7 +3356,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-404",
+      "id": "p-411",
       "hu": "- — Ő te vagy? Ah, ő te vagy.",
       "en": null,
       "lesson": 12,
@@ -3367,7 +3367,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-405",
+      "id": "p-412",
       "hu": "- — Igen. Én vagyok a te Ádám fiad.",
       "en": null,
       "lesson": 12,
@@ -3378,7 +3378,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-406",
+      "id": "p-413",
       "hu": "- Te vagy az én Ádám fiam.",
       "en": null,
       "lesson": 12,
@@ -3389,7 +3389,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-407",
+      "id": "p-414",
       "hu": "- Mit gondolsz Ádámról?",
       "en": null,
       "lesson": 12,
@@ -3400,7 +3400,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-408",
+      "id": "p-415",
       "hu": "- Hat... Hogy egy kis csirkefogó.",
       "en": null,
       "lesson": 12,
@@ -3411,7 +3411,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-409",
+      "id": "p-416",
       "hu": "- Nagyon ....................., hogy látlak Adam.",
       "en": null,
       "lesson": 12,
@@ -3422,7 +3422,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-410",
+      "id": "p-417",
       "hu": "- — Milesz az ebéd?",
       "en": null,
       "lesson": 12,
@@ -3433,7 +3433,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-411",
+      "id": "p-418",
       "hu": "Meséljen a magyar származásáról! Talk about your Hungarian origin!",
       "en": null,
       "lesson": 12,
@@ -3444,7 +3444,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-412",
+      "id": "p-419",
       "hu": "Járt már Magyarországon? Have you been to Hungary?",
       "en": null,
       "lesson": 12,
@@ -3455,7 +3455,7 @@
       "ocrConfidence": 86
     },
     {
-      "id": "p-413",
+      "id": "p-420",
       "hu": "- — Megbeszéljük, hogy mi lesz a házi feladat.",
       "en": null,
       "lesson": 13,
@@ -3466,7 +3466,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-414",
+      "id": "p-421",
       "hu": "2. Józsi főzni tanul. Melyik igealak illik a mondatba?",
       "en": null,
       "lesson": 13,
@@ -3477,7 +3477,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-415",
+      "id": "p-422",
       "hu": "a) Egy kicsit már tudok / tudom főzni, de szeretnék / szeretném jobban megtanulni.",
       "en": null,
       "lesson": 13,
@@ -3488,7 +3488,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-416",
+      "id": "p-423",
       "hu": "b) Most éppen levest főzök / főzöm, remélem finom lesz.",
       "en": null,
       "lesson": 13,
@@ -3499,7 +3499,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-417",
+      "id": "p-424",
       "hu": "c) Apukám azt mond / mondja, hogy az ő kedvence a gulyásleves.",
       "en": null,
       "lesson": 13,
@@ -3510,7 +3510,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-418",
+      "id": "p-425",
       "hu": "d) Holnap reggel bundáskenyeret sütök / sütöm.",
       "en": null,
       "lesson": 13,
@@ -3521,7 +3521,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-419",
+      "id": "p-426",
       "hu": "e) Az öcsém legjobban a töltött káposztát szeret / szereti.",
       "en": null,
       "lesson": 13,
@@ -3532,7 +3532,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-420",
+      "id": "p-427",
       "hu": "f) . Érettségi után szeretnék / szeretném szakácsnak tanulni.",
       "en": null,
       "lesson": 13,
@@ -3543,7 +3543,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-421",
+      "id": "p-428",
       "hu": "3. Laci kínaiul tanul. Melyik igealak illik a mondatba?",
       "en": null,
       "lesson": 13,
@@ -3554,7 +3554,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-422",
+      "id": "p-429",
       "hu": "c) Főleg a szavakat tanulok / tanulom nehezen.",
       "en": null,
       "lesson": 13,
@@ -3565,7 +3565,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-423",
+      "id": "p-430",
       "hu": "f) Holnap koran kelek / kelem, mert reggel még tanulok / tanulom egy kicsit.",
       "en": null,
       "lesson": 13,
@@ -3576,7 +3576,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-424",
+      "id": "p-431",
       "hu": "újság,...., bicikli..., virág..., munka...",
       "en": null,
       "lesson": 13,
@@ -3587,7 +3587,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-425",
+      "id": "p-432",
       "hu": "állampolgárság....., magyar származás....., férj...., feleség.....",
       "en": null,
       "lesson": 13,
@@ -3598,7 +3598,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-426",
+      "id": "p-433",
       "hu": "ők + állampolgárság - .............",
       "en": null,
       "lesson": 13,
@@ -3609,7 +3609,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-427",
+      "id": "p-434",
       "hu": "c) Egészítsük ki a párbeszédet!",
       "en": null,
       "lesson": 13,
@@ -3620,7 +3620,7 @@
       "ocrConfidence": 74
     },
     {
-      "id": "p-428",
+      "id": "p-435",
       "hu": "András: Az én anyukám tanár. Az Ön ............... (On, anyuka) orvos?",
       "en": null,
       "lesson": 13,
@@ -3631,7 +3631,7 @@
       "ocrConfidence": 74
     },
     {
-      "id": "p-429",
+      "id": "p-436",
       "hu": "Imre: Igen, az ..................... (én, anyuka) orvos.",
       "en": null,
       "lesson": 13,
@@ -3642,7 +3642,7 @@
       "ocrConfidence": 74
     },
     {
-      "id": "p-430",
+      "id": "p-437",
       "hu": "Imre: Az .......................... (én, apuka) egy irodában dolgozik.",
       "en": null,
       "lesson": 13,
@@ -3653,7 +3653,7 @@
       "ocrConfidence": 74
     },
     {
-      "id": "p-431",
+      "id": "p-438",
       "hu": "Andrés: A ........................ (én, testvér) szeret olvasni.",
       "en": null,
       "lesson": 13,
@@ -3664,7 +3664,7 @@
       "ocrConfidence": 74
     },
     {
-      "id": "p-432",
+      "id": "p-439",
       "hu": "Imre: Nekem sajnos nincs ......................... (én, testvér). De a ....................",
       "en": null,
       "lesson": 13,
@@ -3675,7 +3675,7 @@
       "ocrConfidence": 74
     },
     {
-      "id": "p-433",
+      "id": "p-440",
       "hu": "(én, nagymama) nagyon szeret olvasni!",
       "en": null,
       "lesson": 13,
@@ -3686,7 +3686,7 @@
       "ocrConfidence": 74
     },
     {
-      "id": "p-434",
+      "id": "p-441",
       "hu": "ÖN ee été... (ÖN, Nagymama) is nyugdíjas?",
       "en": null,
       "lesson": 13,
@@ -3697,7 +3697,7 @@
       "ocrConfidence": 74
     },
     {
-      "id": "p-435",
+      "id": "p-442",
       "hu": "tesésséséééééééééé tti. (ÉN, dédnagymama) már nyugdíjas!",
       "en": null,
       "lesson": 13,
@@ -3708,7 +3708,7 @@
       "ocrConfidence": 78
     },
     {
-      "id": "p-436",
+      "id": "p-443",
       "hu": "e — Egészítsük ki!",
       "en": null,
       "lesson": 13,
@@ -3719,7 +3719,7 @@
       "ocrConfidence": 65
     },
     {
-      "id": "p-437",
+      "id": "p-444",
       "hu": "én mosok mi ..mosunk .. .",
       "en": null,
       "lesson": 13,
@@ -3730,7 +3730,7 @@
       "ocrConfidence": 65
     },
     {
-      "id": "p-438",
+      "id": "p-445",
       "hu": "te ....ÜISZ...... ti... ültök.........",
       "en": null,
       "lesson": 13,
@@ -3741,7 +3741,7 @@
       "ocrConfidence": 65
     },
     {
-      "id": "p-439",
+      "id": "p-446",
       "hu": "én állok mi állunk...",
       "en": null,
       "lesson": 13,
@@ -3752,18 +3752,7 @@
       "ocrConfidence": 65
     },
     {
-      "id": "p-440",
-      "hu": "6, Ön ők, Önök AMOK.",
-      "en": null,
-      "lesson": 13,
-      "sourceFile": "13. óra: 13th lesson/13. óraterv _revision.(latest).pdf",
-      "lineIndex": 23,
-      "sourceType": "pdf_ocr",
-      "pageNumber": 9,
-      "ocrConfidence": 65
-    },
-    {
-      "id": "p-441",
+      "id": "p-447",
       "hu": "e — Egészítsük ki!",
       "en": null,
       "lesson": 13,
@@ -3774,7 +3763,7 @@
       "ocrConfidence": 65
     },
     {
-      "id": "p-442",
+      "id": "p-448",
       "hu": "én .nézek mi ...nézünk........",
       "en": null,
       "lesson": 13,
@@ -3785,7 +3774,7 @@
       "ocrConfidence": 65
     },
     {
-      "id": "p-443",
+      "id": "p-449",
       "hu": "tenézel.......... Ti néztek........",
       "en": null,
       "lesson": 13,
@@ -3793,10 +3782,10 @@
       "lineIndex": 3,
       "sourceType": "pdf_ocr",
       "pageNumber": 10,
-      "ocrConfidence": 70
+      "ocrConfidence": 71
     },
     {
-      "id": "p-444",
+      "id": "p-450",
       "hu": "én vásárolok . mi .. vásárolunk...........",
       "en": null,
       "lesson": 13,
@@ -3804,10 +3793,10 @@
       "lineIndex": 6,
       "sourceType": "pdf_ocr",
       "pageNumber": 10,
-      "ocrConfidence": 70
+      "ocrConfidence": 71
     },
     {
-      "id": "p-445",
+      "id": "p-451",
       "hu": "ő, Ön vásárol. ők, Önök ....vásárolnak...",
       "en": null,
       "lesson": 13,
@@ -3815,10 +3804,10 @@
       "lineIndex": 8,
       "sourceType": "pdf_ocr",
       "pageNumber": 10,
-      "ocrConfidence": 70
+      "ocrConfidence": 71
     },
     {
-      "id": "p-446",
+      "id": "p-452",
       "hu": "te .használsz ti ...használtök,,....",
       "en": null,
       "lesson": 13,
@@ -3826,10 +3815,10 @@
       "lineIndex": 15,
       "sourceType": "pdf_ocr",
       "pageNumber": 10,
-      "ocrConfidence": 70
+      "ocrConfidence": 71
     },
     {
-      "id": "p-447",
+      "id": "p-453",
       "hu": "e — Egészítsük ki!",
       "en": null,
       "lesson": 13,
@@ -3837,10 +3826,10 @@
       "lineIndex": 17,
       "sourceType": "pdf_ocr",
       "pageNumber": 10,
-      "ocrConfidence": 70
+      "ocrConfidence": 71
     },
     {
-      "id": "p-448",
+      "id": "p-454",
       "hu": "Én .JAnuok mi tanulunk...",
       "en": null,
       "lesson": 13,
@@ -3848,10 +3837,10 @@
       "lineIndex": 18,
       "sourceType": "pdf_ocr",
       "pageNumber": 10,
-      "ocrConfidence": 70
+      "ocrConfidence": 71
     },
     {
-      "id": "p-449",
+      "id": "p-455",
       "hu": "te köhögsz ui. köhögtök .",
       "en": null,
       "lesson": 13,
@@ -3862,7 +3851,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-450",
+      "id": "p-456",
       "hu": "ő, Ön köhög ők, Önök .. KÖhÖögnek ......",
       "en": null,
       "lesson": 13,
@@ -3873,7 +3862,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-451",
+      "id": "p-457",
       "hu": "ő, Ön táncol ők, Önök ..1ancolnak , .....",
       "en": null,
       "lesson": 13,
@@ -3884,7 +3873,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-452",
+      "id": "p-458",
       "hu": "e — Egészítsük ki!",
       "en": null,
       "lesson": 13,
@@ -3895,7 +3884,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-453",
+      "id": "p-459",
       "hu": "Én vagyok mi Vagyunk ..",
       "en": null,
       "lesson": 13,
@@ -3906,7 +3895,7 @@
       "ocrConfidence": 63
     },
     {
-      "id": "p-454",
+      "id": "p-460",
       "hu": "én ...é/ek..... mi élünk ........",
       "en": null,
       "lesson": 13,
@@ -3914,10 +3903,10 @@
       "lineIndex": 3,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-455",
+      "id": "p-461",
       "hu": "e — Egészítsük ki!",
       "en": null,
       "lesson": 13,
@@ -3925,10 +3914,10 @@
       "lineIndex": 6,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-456",
+      "id": "p-462",
       "hu": "Hol éltek? él — ti, Onök Hol élnek?",
       "en": null,
       "lesson": 13,
@@ -3936,10 +3925,10 @@
       "lineIndex": 8,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-457",
+      "id": "p-463",
       "hu": "...Tudsz. énekelni? Tud — te, On ...[ud...... énekelni?",
       "en": null,
       "lesson": 13,
@@ -3947,10 +3936,10 @@
       "lineIndex": 10,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-458",
+      "id": "p-464",
       "hu": "Szeretetekfutni? szeret — ti, Önök Szeretetnek futni?",
       "en": null,
       "lesson": 13,
@@ -3958,10 +3947,10 @@
       "lineIndex": 11,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-459",
+      "id": "p-465",
       "hu": "Milyen nyelven ............. Beszél — te, On Milyen nyelven ............",
       "en": null,
       "lesson": 13,
@@ -3969,10 +3958,10 @@
       "lineIndex": 12,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-460",
+      "id": "p-466",
       "hu": "e — Egészítsük ki!",
       "en": null,
       "lesson": 13,
@@ -3980,10 +3969,10 @@
       "lineIndex": 14,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-461",
+      "id": "p-467",
       "hu": "Hol tanit.0fok ? tanít — ti, Onök Hol tanítanak?",
       "en": null,
       "lesson": 13,
@@ -3991,10 +3980,10 @@
       "lineIndex": 16,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-462",
+      "id": "p-468",
       "hu": "Sokat sétál.10K? sétál — ti, Onök Sokat sétál. Nak?",
       "en": null,
       "lesson": 13,
@@ -4002,10 +3991,10 @@
       "lineIndex": 17,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-463",
+      "id": "p-469",
       "hu": "Karacsonykor nagyon Orül — te, On Karácsonykor nagyon örül.....",
       "en": null,
       "lesson": 13,
@@ -4013,10 +4002,10 @@
       "lineIndex": 19,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-464",
+      "id": "p-470",
       "hu": "Milyen nyelven beszél.$2.? | Beszél — te, On Milyen nyelven beszél....?",
       "en": null,
       "lesson": 13,
@@ -4024,10 +4013,10 @@
       "lineIndex": 22,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-465",
+      "id": "p-471",
       "hu": "e — Melyik személy? Melyik végződés?",
       "en": null,
       "lesson": 13,
@@ -4035,10 +4024,659 @@
       "lineIndex": 23,
       "sourceType": "pdf_ocr",
       "pageNumber": 12,
-      "ocrConfidence": 81
+      "ocrConfidence": 82
     },
     {
-      "id": "p-466",
+      "id": "p-472",
+      "hu": "Kér egy teát?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/(19) Inbox _ s@scottschmidt.io _ Proton Mail.pdf",
+      "lineIndex": 10,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-473",
+      "hu": "1. Melyik napon van a férfi múzeumban?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/(19) Inbox _ s@scottschmidt.io _ Proton Mail.pdf",
+      "lineIndex": 24,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-474",
+      "hu": "2. Mikor megy múzeumba?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/(19) Inbox _ s@scottschmidt.io _ Proton Mail.pdf",
+      "lineIndex": 25,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-475",
+      "hu": "3. Milyen nyelvtan tanul a férfi? És melyik napon van a nyelvóra?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/(19) Inbox _ s@scottschmidt.io _ Proton Mail.pdf",
+      "lineIndex": 26,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-476",
+      "hu": "4.Hol tanul a férfi pénteken?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/(19) Inbox _ s@scottschmidt.io _ Proton Mail.pdf",
+      "lineIndex": 27,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-477",
+      "hu": "5. Mit csinál a férfi vasárnap?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/(19) Inbox _ s@scottschmidt.io _ Proton Mail.pdf",
+      "lineIndex": 28,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-478",
+      "hu": "Köszönöm szépen!/ Thank you very much.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/(19) Inbox _ s@scottschmidt.io _ Proton Mail.pdf",
+      "lineIndex": 29,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-479",
+      "hu": "Have a nice week!/ Szép hetet kívánok!",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/(19) Inbox _ s@scottschmidt.io _ Proton Mail.pdf",
+      "lineIndex": 31,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-480",
+      "hu": "Megkínálhatom egy csésze teával? Can I offer you a cup of coffee?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 6,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
+    },
+    {
+      "id": "p-481",
+      "hu": "Kér egy csészekávét? kér — ask, \"want\" Do you want a cup of coffee?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 8,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
+    },
+    {
+      "id": "p-482",
+      "hu": "Igen kérek. Két cukorral legyen szíves! Yes, I \"ask\". With 2 sugar please!",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 9,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
+    },
+    {
+      "id": "p-483",
+      "hu": "Hozhatok egy pohár vizet? Can I bring a glass of water?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
+    },
+    {
+      "id": "p-484",
+      "hu": "Parancsol egy pohár vizet?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 90
+    },
+    {
+      "id": "p-485",
+      "hu": "neve Berényi Péter.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 4,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "p-486",
+      "hu": "anyukám neve Fehér Kati.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 6,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "p-487",
+      "hu": "Az édesanyja hol született? — Az anyukám Budapesten született.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 9,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "p-488",
+      "hu": "Volt már Erdélyben? Igen, már háromszor jártam/voltam Erdélyben.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 11,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "p-489",
+      "hu": "Hol végezte tanulmányait? Én Budapesten, az ELTE egyetemen diplomáztam.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 13,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "p-490",
+      "hu": "diplomázik — graduate diplomáztam — I graduated — past tense!",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "p-491",
+      "hu": "Most hol él? Jelenleg Amerikában, New Yorkban élek.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "p-492",
+      "hu": "Mert a felmenőim magyarok. A nagyszüleim és a szüleim is Budapesten születtek.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14 Vocab list.pdf",
+      "lineIndex": 18,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 93
+    },
+    {
+      "id": "p-493",
+      "hu": "- Megkinalhatom egy teával?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-494",
+      "hu": "/ Kér egy teat?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 13,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-495",
+      "hu": "- — Igen, köszönöm. Tej nélkül, egy cukorral iszom.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 1,
+      "ocrConfidence": 91
+    },
+    {
+      "id": "p-496",
+      "hu": "Az édesanyját hogy hívják?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 11,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 88
+    },
+    {
+      "id": "p-497",
+      "hu": "Az édesapját hogy hívják?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 88
+    },
+    {
+      "id": "p-498",
+      "hu": "Az édesanyja hol született?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 88
+    },
+    {
+      "id": "p-499",
+      "hu": "Járt mar Magyarországon / Erdélyben / Szlovákiában?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 88
+    },
+    {
+      "id": "p-500",
+      "hu": "Volt már Erdélyben?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 18,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 2,
+      "ocrConfidence": 88
+    },
+    {
+      "id": "p-501",
+      "hu": "Hol végezte tanulmányait?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 4,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 3,
+      "ocrConfidence": 94
+    },
+    {
+      "id": "p-502",
+      "hu": "Most hol él?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 5,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 3,
+      "ocrConfidence": 94
+    },
+    {
+      "id": "p-503",
+      "hu": "Miért szeretne magyar állampolgár lenni?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 6,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 3,
+      "ocrConfidence": 94
+    },
+    {
+      "id": "p-504",
+      "hu": "3. Kössük össze!",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 7,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 3,
+      "ocrConfidence": 94
+    },
+    {
+      "id": "p-505",
+      "hu": "4. Beszélgessünk és használjuk ezeket a szavakat!",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 22,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 3,
+      "ocrConfidence": 94
+    },
+    {
+      "id": "p-506",
+      "hu": "5. Gyakoroljuk a határozott ragozást!",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 4,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 86
+    },
+    {
+      "id": "p-507",
+      "hu": "a) én: Elnézést, nem ért..... a mondatot.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 86
+    },
+    {
+      "id": "p-508",
+      "hu": "Kitölt..... a jelentkezési lapot.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 86
+    },
+    {
+      "id": "p-509",
+      "hu": "Már nagyon vár.... az állampolgársági interjút.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 16,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 86
+    },
+    {
+      "id": "p-510",
+      "hu": "b) te: Ért.... ezt a szót?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 17,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 86
+    },
+    {
+      "id": "p-511",
+      "hu": "Kitölt..... a jelentkezési lapot?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 18,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 86
+    },
+    {
+      "id": "p-512",
+      "hu": "Vár..... a nyaralást?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 19,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 4,
+      "ocrConfidence": 86
+    },
+    {
+      "id": "p-513",
+      "hu": "c) ő, Ön: A fiam ért..... a magyar mondatot.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 4,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-514",
+      "hu": "A fiam kitölt..... a kérelmet.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 5,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-515",
+      "hu": "Ön vár.... már a nyaralást?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 6,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-516",
+      "hu": "d) mi: Nem ért..... a feladatot.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 7,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-517",
+      "hu": "Már nagyon vár.... az állampolgársági interjút.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 8,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-518",
+      "hu": "Kitölt.... a kérelmet.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 9,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-519",
+      "hu": "e) ti: Ért..... a kérdést?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 10,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-520",
+      "hu": "Vár..... már a magyarországi nyaralást?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 11,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-521",
+      "hu": "Kitölt.... a kérelmet.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 12,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-522",
+      "hu": "f) ők. Önök: Ért.... a magyar nyelvet.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 13,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-523",
+      "hu": "Már nagyon vár..... a magyar állampolgársági interjújukat.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-524",
+      "hu": "Kitölt.... a kérelmet.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 15,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 5,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-525",
+      "hu": "2. Kedd: a hét ketted(ik) napja.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 6,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 6,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-526",
+      "hu": "3. Szerda: szláv nyelvből ered. Jelentése: középső.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 8,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 6,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-527",
+      "hu": "4. Csütörtök: szláv nyelvből ered. Jelentése: negyedik.",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 6,
+      "ocrConfidence": 92
+    },
+    {
+      "id": "p-528",
+      "hu": "a) Fordítsuk le a mondatokat!",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 5,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 7,
+      "ocrConfidence": 87
+    },
+    {
+      "id": "p-529",
+      "hu": "b) Hogy halad a szavak mindmapekbe rendezésével és tanulásával?",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 10,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 9,
+      "ocrConfidence": 88
+    },
+    {
+      "id": "p-530",
+      "hu": "tanulni. Köszönjük szépen!",
+      "en": null,
+      "lesson": 14,
+      "sourceFile": "14. óra: 14th lesson/14. óraterv_tea, kávé (latest) (1).pdf",
+      "lineIndex": 14,
+      "sourceType": "pdf_ocr",
+      "pageNumber": 9,
+      "ocrConfidence": 88
+    },
+    {
+      "id": "p-531",
       "hu": "\" Az autó kék?",
       "en": null,
       "lesson": 2,
@@ -4049,7 +4687,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-467",
+      "id": "p-532",
       "hu": "\" Az autó szürke?",
       "en": null,
       "lesson": 2,
@@ -4060,7 +4698,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-468",
+      "id": "p-533",
       "hu": "* Az apuka jóképű?",
       "en": null,
       "lesson": 2,
@@ -4071,7 +4709,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-469",
+      "id": "p-534",
       "hu": "\" Az apuka szakállas?",
       "en": null,
       "lesson": 2,
@@ -4082,7 +4720,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-470",
+      "id": "p-535",
       "hu": "\" Az autó barna? - Nem, az autó kék.",
       "en": null,
       "lesson": 2,
@@ -4093,7 +4731,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-471",
+      "id": "p-536",
       "hu": "\" Az újságíró szőke? - Nem, az újságíró barna.",
       "en": null,
       "lesson": 2,
@@ -4104,7 +4742,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-472",
+      "id": "p-537",
       "hu": "\" Az apuka öreg? - ...",
       "en": null,
       "lesson": 2,
@@ -4115,7 +4753,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-473",
+      "id": "p-538",
       "hu": "Hr = Ez Horváthné Kati.",
       "en": null,
       "lesson": 2,
@@ -4126,7 +4764,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-474",
+      "id": "p-539",
       "hu": "Es ez ki? Ez Kati férje, Laci.",
       "en": null,
       "lesson": 2,
@@ -4137,7 +4775,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-475",
+      "id": "p-540",
       "hu": "Kati tanar? Igen, Kati tanár.",
       "en": null,
       "lesson": 2,
@@ -4148,7 +4786,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-476",
+      "id": "p-541",
       "hu": "Laci is tanár? Nem, Laci mérnök.",
       "en": null,
       "lesson": 2,
@@ -4159,7 +4797,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-477",
+      "id": "p-542",
       "hu": "Te tanar A Ti tanárok .",
       "en": null,
       "lesson": 2,
@@ -4170,7 +4808,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-478",
+      "id": "p-543",
       "hu": "Ő tanár. Ők tanárok.",
       "en": null,
       "lesson": 2,
@@ -4181,7 +4819,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-479",
+      "id": "p-544",
       "hu": "Patrik a szobában yan.",
       "en": null,
       "lesson": 2,
@@ -4192,7 +4830,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-480",
+      "id": "p-545",
       "hu": "Ők .... // Önök .angolok...",
       "en": null,
       "lesson": 2,
@@ -4203,7 +4841,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-481",
+      "id": "p-546",
       "hu": "\" Te szőke vagy?",
       "en": null,
       "lesson": 2,
@@ -4214,7 +4852,7 @@
       "ocrConfidence": 78
     },
     {
-      "id": "p-482",
+      "id": "p-547",
       "hu": "+ On ausztrál?",
       "en": null,
       "lesson": 2,
@@ -4225,7 +4863,7 @@
       "ocrConfidence": 78
     },
     {
-      "id": "p-483",
+      "id": "p-548",
       "hu": "\" On mérnök?",
       "en": null,
       "lesson": 2,
@@ -4236,7 +4874,7 @@
       "ocrConfidence": 78
     },
     {
-      "id": "p-484",
+      "id": "p-549",
       "hu": "Te szakallas vagy? Te öreg vagy? On apuka? On szőke?",
       "en": null,
       "lesson": 2,
@@ -4247,7 +4885,7 @@
       "ocrConfidence": 78
     },
     {
-      "id": "p-485",
+      "id": "p-550",
       "hu": "I'm esszé s sss... YOATS old.",
       "en": null,
       "lesson": 2,
@@ -4258,7 +4896,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-486",
+      "id": "p-551",
       "hu": "Ezt a csatolmanyban találja.",
       "en": null,
       "lesson": 2,
@@ -4269,7 +4907,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-487",
+      "id": "p-552",
       "hu": "noun/adjective/adverb: két kutya “two dogs.” Kettő is used elsewhere: Kettőt !",
       "en": null,
       "lesson": 2,
@@ -4280,7 +4918,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-488",
+      "id": "p-553",
       "hu": "(accusative), a hatodikban the usual nominal case endings: e.g., négyet \"four garian 987 654,32 corresponds to English 987,654.32.",
       "en": null,
       "lesson": 2,
@@ -4291,7 +4929,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-489",
+      "id": "p-554",
       "hu": "0 nulla, semmi 31 harmincegy ist első 21st huszonegyedik !",
       "en": null,
       "lesson": 2,
@@ -4302,7 +4940,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-490",
+      "id": "p-555",
       "hu": "6 hat 64 hatvannégy 7th hetedik 27th — huszonhetedik i!",
       "en": null,
       "lesson": 2,
@@ -4313,7 +4951,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-491",
+      "id": "p-556",
       "hu": "10 tíz 86 —nyolcvanhat 1lth tizenegyedik 31st harmincegyedik !",
       "en": null,
       "lesson": 2,
@@ -4324,7 +4962,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-492",
+      "id": "p-557",
       "hu": "15 tizenöt 200 kétszáz 16th tizenhatodik 80th nyolcvanadik !",
       "en": null,
       "lesson": 2,
@@ -4335,7 +4973,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-493",
+      "id": "p-558",
       "hu": "24 — huszonnégy 1000 000 — egymillió time\" and másodszor \"(for the) second time.” !",
       "en": null,
       "lesson": 2,
@@ -4346,7 +4984,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-494",
+      "id": "p-559",
       "hu": "25 huszonot 2000 000 kétmillió !",
       "en": null,
       "lesson": 2,
@@ -4357,7 +4995,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-495",
+      "id": "p-560",
       "hu": "Mit jelent az, hogy autó? Autó azt jelenti, hogy car.",
       "en": null,
       "lesson": 2,
@@ -4368,7 +5006,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-496",
+      "id": "p-561",
       "hu": "Mit jelent az, hogy ház? Ház azt jelenti, hogy house.",
       "en": null,
       "lesson": 2,
@@ -4379,7 +5017,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-497",
+      "id": "p-562",
       "hu": "kék — blue Az autó kék? Is the car blue?",
       "en": null,
       "lesson": 2,
@@ -4390,7 +5028,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-498",
+      "id": "p-563",
       "hu": "szürke — grey A kocsi szürke? Is the car grey?",
       "en": null,
       "lesson": 2,
@@ -4401,7 +5039,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-499",
+      "id": "p-564",
       "hu": "szép — beautiful (women) Az anyuka szép? Is the mum beautiful?",
       "en": null,
       "lesson": 2,
@@ -4412,7 +5050,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-500",
+      "id": "p-565",
       "hu": "Ez itt a Horváth család. Ez ki? This is the Horváth family? Who is this?",
       "en": null,
       "lesson": 2,
@@ -4423,7 +5061,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-501",
+      "id": "p-566",
       "hu": "Ez Horváthné Kati. Ő az anyuka. — This is Kati Horváthné. She is the mum.",
       "en": null,
       "lesson": 2,
@@ -4434,7 +5072,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-502",
+      "id": "p-567",
       "hu": "Kati a feleség. Kati is the wife.",
       "en": null,
       "lesson": 2,
@@ -4445,7 +5083,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-503",
+      "id": "p-568",
       "hu": "És ez ki? And, who is this?",
       "en": null,
       "lesson": 2,
@@ -4456,7 +5094,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-504",
+      "id": "p-569",
       "hu": "Ez Kati férje, Laci. This is Kati\"s husband, Laci.",
       "en": null,
       "lesson": 2,
@@ -4467,7 +5105,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-505",
+      "id": "p-570",
       "hu": "Laci az apuka. Ő a férj. Laci is the dad. He is the husband.",
       "en": null,
       "lesson": 2,
@@ -4478,7 +5116,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-506",
+      "id": "p-571",
       "hu": "Kati tanár? Is Kati a teacher?",
       "en": null,
       "lesson": 2,
@@ -4489,7 +5127,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-507",
+      "id": "p-572",
       "hu": "Igen, Kati tanár. Yes, Kati is a teacher.",
       "en": null,
       "lesson": 2,
@@ -4500,7 +5138,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-508",
+      "id": "p-573",
       "hu": "Laci is tanár? Is Laci also a teacher?",
       "en": null,
       "lesson": 2,
@@ -4511,7 +5149,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-509",
+      "id": "p-574",
       "hu": "Nem, Laci mérnök. No, Laci is an engineer.",
       "en": null,
       "lesson": 2,
@@ -4522,7 +5160,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-510",
+      "id": "p-575",
       "hu": "1. En tanár vagyok. 1. Mi tanárok vagyunk.",
       "en": null,
       "lesson": 2,
@@ -4533,7 +5171,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-511",
+      "id": "p-576",
       "hu": "2. Te tanár vagy. 2. Ti tanárok vagytok.",
       "en": null,
       "lesson": 2,
@@ -4544,7 +5182,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-512",
+      "id": "p-577",
       "hu": "1. Németország P2!\"1...... élek. 5. Zürichben...... tanulok.",
       "en": null,
       "lesson": 2,
@@ -4555,7 +5193,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-513",
+      "id": "p-578",
       "hu": "2. Szeged.en........ élsz? 6. Düsseldorfban...... élsz?",
       "en": null,
       "lesson": 2,
@@ -4566,7 +5204,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-514",
+      "id": "p-579",
       "hu": "3. Olaszorszdg..ban..... élek. 7. Onis Kijev.Pe\"...... él?",
       "en": null,
       "lesson": 2,
@@ -4577,7 +5215,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-515",
+      "id": "p-580",
       "hu": "4. Vera Magyarorszag..on....... él. 8. Most Helsinki.2en..... vagyok.",
       "en": null,
       "lesson": 2,
@@ -4588,7 +5226,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-516",
+      "id": "p-581",
       "hu": "+ Egészítse ki a mondatokat a minta alapján!",
       "en": null,
       "lesson": 2,
@@ -4599,7 +5237,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-517",
+      "id": "p-582",
       "hu": "2 Portugál vagy? ..... Portugáliában... élsz?",
       "en": null,
       "lesson": 2,
@@ -4610,7 +5248,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-518",
+      "id": "p-583",
       "hu": "3 Wisangol......Nagy:Britanniaban él.",
       "en": null,
       "lesson": 2,
@@ -4621,7 +5259,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-519",
+      "id": "p-584",
       "hu": "4 Ön magyar? .......... Magyarországon 3... él?",
       "en": null,
       "lesson": 2,
@@ -4632,7 +5270,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-520",
+      "id": "p-585",
       "hu": "6. Japán vagy? ........JAPÁNban een BIST?",
       "en": null,
       "lesson": 2,
@@ -4643,7 +5281,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-521",
+      "id": "p-586",
       "hu": "8. Ön török? Törökországban él?",
       "en": null,
       "lesson": 2,
@@ -4654,7 +5292,7 @@
       "ocrConfidence": 76
     },
     {
-      "id": "p-522",
+      "id": "p-587",
       "hu": "2. a) Szeretnék bemutatkozni.",
       "en": null,
       "lesson": 3,
@@ -4665,7 +5303,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-523",
+      "id": "p-588",
       "hu": "b) Legyen szíves mutatkozzon be!",
       "en": null,
       "lesson": 3,
@@ -4676,7 +5314,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-524",
+      "id": "p-589",
       "hu": "4. Horváthné Kati a barátnőjével beszélget.",
       "en": null,
       "lesson": 3,
@@ -4687,7 +5325,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-525",
+      "id": "p-590",
       "hu": "a) Beszéljük meg a szavak jelentését!",
       "en": null,
       "lesson": 3,
@@ -4698,7 +5336,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-526",
+      "id": "p-591",
       "hu": "nagyon sajnálom! - ....................",
       "en": null,
       "lesson": 3,
@@ -4709,7 +5347,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-527",
+      "id": "p-592",
       "hu": "Kati: Hány éves az anyukád?",
       "en": null,
       "lesson": 3,
@@ -4720,7 +5358,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-528",
+      "id": "p-593",
       "hu": "Szilvia: Az anyukám 68 (hatvannyolc) éves.",
       "en": null,
       "lesson": 3,
@@ -4731,7 +5369,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-529",
+      "id": "p-594",
       "hu": "Szilvia: Nem, a lanyom mar 19 (tizenkilenc) éves.",
       "en": null,
       "lesson": 3,
@@ -4742,7 +5380,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-530",
+      "id": "p-595",
       "hu": "nagymamád még él? te + a Nagymama = .............",
       "en": null,
       "lesson": 3,
@@ -4753,7 +5391,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-531",
+      "id": "p-596",
       "hu": "Kati: Nem, sajnos az én nagymamám már nem él.",
       "en": null,
       "lesson": 3,
@@ -4764,7 +5402,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-532",
+      "id": "p-597",
       "hu": "az anyuka — én + az anyuka — az anyuka.... mi + az anyuka — az anyuka....",
       "en": null,
       "lesson": 3,
@@ -4775,7 +5413,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-533",
+      "id": "p-598",
       "hu": "ő, On + az anyuka — az anyuka... ők, Önök + az anyuka — az anyuka......",
       "en": null,
       "lesson": 3,
@@ -4786,7 +5424,7 @@
       "ocrConfidence": 84
     },
     {
-      "id": "p-534",
+      "id": "p-599",
       "hu": "Az L betű szerepel a szóban és jó helyen van.",
       "en": null,
       "lesson": 3,
@@ -4797,7 +5435,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-535",
+      "id": "p-600",
       "hu": "Az R betű szerepel a szóban, de nem jó helyen van.",
       "en": null,
       "lesson": 3,
@@ -4808,7 +5446,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-536",
+      "id": "p-601",
       "hu": "Az ! betű nem szerepel a szóban.",
       "en": null,
       "lesson": 3,
@@ -4819,7 +5457,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-537",
+      "id": "p-602",
       "hu": "Beszélgessünk! — Let’s talk! Szeretnék bemutatkozni!",
       "en": null,
       "lesson": 3,
@@ -4830,7 +5468,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-538",
+      "id": "p-603",
       "hu": "Legyen szives, mutatkozzon be! = Kérem, mutatkozzon be!",
       "en": null,
       "lesson": 3,
@@ -4841,7 +5479,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-539",
+      "id": "p-604",
       "hu": "Jó napot kívánok! Good day!",
       "en": null,
       "lesson": 3,
@@ -4852,7 +5490,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-540",
+      "id": "p-605",
       "hu": "Üdvözlöm! Győri Anett vagyok. Welcome! I am Győri Anett.",
       "en": null,
       "lesson": 3,
@@ -4863,7 +5501,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-541",
+      "id": "p-606",
       "hu": "találkozásnak. meet you.",
       "en": null,
       "lesson": 3,
@@ -4874,7 +5512,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-542",
+      "id": "p-607",
       "hu": "(Te) hogy érzed magad? How \"do you feel yourself\" ?",
       "en": null,
       "lesson": 3,
@@ -4885,7 +5523,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-543",
+      "id": "p-608",
       "hu": "Sajnos nem vagyok jól. Fáradt vagyok. Unfortnately I am not well. I am tired.",
       "en": null,
       "lesson": 3,
@@ -4896,7 +5534,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-544",
+      "id": "p-609",
       "hu": "Köszönöm, nagyon jól! Thank you, I am very well.",
       "en": null,
       "lesson": 3,
@@ -4907,7 +5545,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-545",
+      "id": "p-610",
       "hu": "És te ? Te hogy vagy? And You? How are you?",
       "en": null,
       "lesson": 3,
@@ -4918,7 +5556,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-546",
+      "id": "p-611",
       "hu": "Én is jól vagyok. Köszönöm! I am also well. Thank you!",
       "en": null,
       "lesson": 3,
@@ -4929,7 +5567,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-547",
+      "id": "p-612",
       "hu": "Köszönöm! Remekül vagyok! Thank you! I feel great!",
       "en": null,
       "lesson": 3,
@@ -4940,7 +5578,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-548",
+      "id": "p-613",
       "hu": "jól vagyok! also well!",
       "en": null,
       "lesson": 3,
@@ -4951,7 +5589,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-549",
+      "id": "p-614",
       "hu": "Én mérnök vagyok. I am an engineer.",
       "en": null,
       "lesson": 3,
@@ -4962,7 +5600,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-550",
+      "id": "p-615",
       "hu": "(Ön) Portugál? Are you Portugese?",
       "en": null,
       "lesson": 3,
@@ -4973,7 +5611,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-551",
+      "id": "p-616",
       "hu": "Portugáliában dolgozok. in Portugal.",
       "en": null,
       "lesson": 3,
@@ -4984,7 +5622,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-552",
+      "id": "p-617",
       "hu": "Házakat és kerteket tervezek. I design houses and gardens.",
       "en": null,
       "lesson": 3,
@@ -4995,7 +5633,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-553",
+      "id": "p-618",
       "hu": "És Ön, mivel foglalkozik? And you (polite) what do you do?",
       "en": null,
       "lesson": 3,
@@ -5006,7 +5644,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-554",
+      "id": "p-619",
       "hu": "Én orvos vagyok. I am a doctor.",
       "en": null,
       "lesson": 3,
@@ -5017,7 +5655,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-555",
+      "id": "p-620",
       "hu": "Angol vagyok és Angliában is élek. I am English and I live in England.",
       "en": null,
       "lesson": 3,
@@ -5028,7 +5666,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-556",
+      "id": "p-621",
       "hu": "A férjem rendőr, Lisszabonban egy your husband's job?",
       "en": null,
       "lesson": 3,
@@ -5039,7 +5677,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-557",
+      "id": "p-622",
       "hu": "1. adm.£/7...., a ím. 4... 7. abarát..om...., a barát..ad....",
       "en": null,
       "lesson": 3,
@@ -5050,7 +5688,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-558",
+      "id": "p-623",
       "hu": "15. Egészítse ki logikusan, a minta alapján!",
       "en": null,
       "lesson": 3,
@@ -5061,7 +5699,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-559",
+      "id": "p-624",
       "hu": "1. — Hol él a feleséged 2 — A feleségem ? Németországban.",
       "en": null,
       "lesson": 3,
@@ -5072,7 +5710,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-560",
+      "id": "p-625",
       "hu": "5. — Mi a pontos ....... $ÍMER sé — e ÁMON ki esssssssséésss ) PEtŐfi utca 3. 1.",
       "en": null,
       "lesson": 3,
@@ -5083,7 +5721,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-561",
+      "id": "p-626",
       "hu": "KÉRDŐSZÓK: Ki? Mi? Hol?",
       "en": null,
       "lesson": 3,
@@ -5094,7 +5732,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-562",
+      "id": "p-627",
       "hu": "Ki? Who? Ki vagy? Hány éves?How old? Hány éves vagy?",
       "en": null,
       "lesson": 3,
@@ -5105,7 +5743,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-563",
+      "id": "p-628",
       "hu": "Hol? Where? Hol élsz? Milyen ...? Milyen nyelven beszélsz?",
       "en": null,
       "lesson": 3,
@@ -5116,7 +5754,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-564",
+      "id": "p-629",
       "hu": "16. Egészítse ki!",
       "en": null,
       "lesson": 3,
@@ -5127,7 +5765,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-565",
+      "id": "p-630",
       "hu": "4. — MIEN... nemzetiségű vagy? — Dán.",
       "en": null,
       "lesson": 3,
@@ -5138,7 +5776,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-566",
+      "id": "p-631",
       "hu": "10.— 0 VON BÉCS? — Ausztriában.",
       "en": null,
       "lesson": 3,
@@ -5149,7 +5787,7 @@
       "ocrConfidence": 71
     },
     {
-      "id": "p-567",
+      "id": "p-632",
       "hu": "FÜL fülem füled füle A fülem kicsi.",
       "en": null,
       "lesson": 4,
@@ -5160,7 +5798,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-568",
+      "id": "p-633",
       "hu": "SZÁJ szájam szájad szája A szájam piros.",
       "en": null,
       "lesson": 4,
@@ -5171,7 +5809,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-569",
+      "id": "p-634",
       "hu": "FOG fogam fogad foga A fogam fehér.",
       "en": null,
       "lesson": 4,
@@ -5182,7 +5820,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-570",
+      "id": "p-635",
       "hu": "Topic: Legyen szíves mutatkozzon be és meséljen magyar származásáról is!",
       "en": null,
       "lesson": 4,
@@ -5193,7 +5831,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-571",
+      "id": "p-636",
       "hu": "- Mit csinál?",
       "en": null,
       "lesson": 4,
@@ -5204,7 +5842,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-572",
+      "id": "p-637",
       "hu": "- Ön magyar származású?",
       "en": null,
       "lesson": 4,
@@ -5215,7 +5853,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-573",
+      "id": "p-638",
       "hu": "- Ki magyar a családjában?",
       "en": null,
       "lesson": 4,
@@ -5226,7 +5864,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-574",
+      "id": "p-639",
       "hu": "Ezt a csatolmányban találja. (You find this in the attachment).",
       "en": null,
       "lesson": 4,
@@ -5237,7 +5875,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-575",
+      "id": "p-640",
       "hu": "Practice: Mi a könyv címe? (What's the title of the book?) Let translate the titles!",
       "en": null,
       "lesson": 4,
@@ -5248,7 +5886,7 @@
       "ocrConfidence": 67
     },
     {
-      "id": "p-576",
+      "id": "p-641",
       "hu": "(On) Hany éves?",
       "en": null,
       "lesson": 4,
@@ -5259,7 +5897,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-577",
+      "id": "p-642",
       "hu": "Az anyukája hány éves?",
       "en": null,
       "lesson": 4,
@@ -5270,7 +5908,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-578",
+      "id": "p-643",
       "hu": "Az apukája hány éves?",
       "en": null,
       "lesson": 4,
@@ -5281,7 +5919,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-579",
+      "id": "p-644",
       "hu": "A testvére hány éves?",
       "en": null,
       "lesson": 4,
@@ -5292,7 +5930,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-580",
+      "id": "p-645",
       "hu": "A kutyája hány éves?",
       "en": null,
       "lesson": 4,
@@ -5303,7 +5941,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-581",
+      "id": "p-646",
       "hu": "A tanára hány éves?",
       "en": null,
       "lesson": 4,
@@ -5314,7 +5952,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-582",
+      "id": "p-647",
       "hu": "En tanar vagyok. Mi tanárok vagyunk.",
       "en": null,
       "lesson": 4,
@@ -5325,7 +5963,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-583",
+      "id": "p-648",
       "hu": "Te tanár vagy. Ti tanarok vagytok.",
       "en": null,
       "lesson": 4,
@@ -5336,7 +5974,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-584",
+      "id": "p-649",
       "hu": "Van barátom. Van lakásom. Nincs férjem.",
       "en": null,
       "lesson": 4,
@@ -5347,7 +5985,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-585",
+      "id": "p-650",
       "hu": "SZOBA VAN KÉT SZOBÁM.",
       "en": null,
       "lesson": 4,
@@ -5358,7 +5996,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-586",
+      "id": "p-651",
       "hu": "Practice: Beszélgessünk és használjuk ezeket a szavakat!",
       "en": null,
       "lesson": 4,
@@ -5369,7 +6007,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-587",
+      "id": "p-652",
       "hu": "b) Hany éves?",
       "en": null,
       "lesson": 4,
@@ -5380,7 +6018,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-588",
+      "id": "p-653",
       "hu": "(Én) Horváth Kati vagyok. I am Kati Horváth.",
       "en": null,
       "lesson": 4,
@@ -5391,7 +6029,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-589",
+      "id": "p-654",
       "hu": "Magyarországon, Budapesten élek. I live in Hungary, Budapest.",
       "en": null,
       "lesson": 4,
@@ -5402,7 +6040,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-590",
+      "id": "p-655",
       "hu": "(Én) harmincöt (35) éves vagyok. I am 35 years old.",
       "en": null,
       "lesson": 4,
@@ -5413,7 +6051,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-591",
+      "id": "p-656",
       "hu": "Én tanár vagyok. I am a teacher.",
       "en": null,
       "lesson": 4,
@@ -5424,7 +6062,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-592",
+      "id": "p-657",
       "hu": "Magyar származású vagyok. I am of Hungarian origin.",
       "en": null,
       "lesson": 4,
@@ -5435,7 +6073,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-593",
+      "id": "p-658",
       "hu": "A szüleim magyarok. My parents are Hungarians.",
       "en": null,
       "lesson": 4,
@@ -5446,7 +6084,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-594",
+      "id": "p-659",
       "hu": "A férjem német. My husband is German.",
       "en": null,
       "lesson": 4,
@@ -5457,7 +6095,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-595",
+      "id": "p-660",
       "hu": "Ő mérnök. He is an engineer.",
       "en": null,
       "lesson": 4,
@@ -5468,7 +6106,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-596",
+      "id": "p-661",
       "hu": "Van egy testvérem. I have a sibling.",
       "en": null,
       "lesson": 4,
@@ -5479,7 +6117,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-597",
+      "id": "p-662",
       "hu": "(On) Hol él? Where do you live?",
       "en": null,
       "lesson": 4,
@@ -5490,7 +6128,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-598",
+      "id": "p-663",
       "hu": "(On) Hany éves? How old are you?",
       "en": null,
       "lesson": 4,
@@ -5501,7 +6139,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-599",
+      "id": "p-664",
       "hu": "Have a nice week!/ Szép hetet kívánok!",
       "en": null,
       "lesson": 5,
@@ -5512,7 +6150,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-600",
+      "id": "p-665",
       "hu": "Topic: Legyen szíves mutatkozzon be és meséljen a családjáról!",
       "en": null,
       "lesson": 5,
@@ -5523,7 +6161,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-601",
+      "id": "p-666",
       "hu": "7 Mi az anyja / apja / testvére / felesége / férje / fia / lánya / dédanyja neve?",
       "en": null,
       "lesson": 5,
@@ -5534,7 +6172,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-602",
+      "id": "p-667",
       "hu": "= Hol él az apja / anyja / testvére / fia / lánya / nagyapja?",
       "en": null,
       "lesson": 5,
@@ -5545,7 +6183,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-603",
+      "id": "p-668",
       "hu": "7 Hány éves?",
       "en": null,
       "lesson": 5,
@@ -5556,7 +6194,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-604",
+      "id": "p-669",
       "hu": "- Hany éves az anyja / apja / testvére / kutyája / felesége / fia / lánya?",
       "en": null,
       "lesson": 5,
@@ -5567,7 +6205,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-605",
+      "id": "p-670",
       "hu": "A nevem Erzsébet. Az Ön neve Erzsébet.",
       "en": null,
       "lesson": 5,
@@ -5578,7 +6216,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-606",
+      "id": "p-671",
       "hu": "Amerikai állampolgár vagyok. Ön amerikai állampolgár.",
       "en": null,
       "lesson": 5,
@@ -5589,7 +6227,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-607",
+      "id": "p-672",
       "hu": "Magyarországon élek. Ön Magyarországon él.",
       "en": null,
       "lesson": 5,
@@ -5600,7 +6238,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-608",
+      "id": "p-673",
       "hu": "Van egy férjem és két gyerekem. Van egy férje és két gyereke.",
       "en": null,
       "lesson": 5,
@@ -5611,7 +6249,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-609",
+      "id": "p-674",
       "hu": "- Télen hideg van. Januárban hideg van.",
       "en": null,
       "lesson": 5,
@@ -5622,7 +6260,7 @@
       "ocrConfidence": 78
     },
     {
-      "id": "p-610",
+      "id": "p-675",
       "hu": "3 Nyáron meleg van. Júliusban meleg van.",
       "en": null,
       "lesson": 5,
@@ -5633,7 +6271,7 @@
       "ocrConfidence": 78
     },
     {
-      "id": "p-611",
+      "id": "p-676",
       "hu": "\" SÜT A NAP.",
       "en": null,
       "lesson": 5,
@@ -5644,7 +6282,7 @@
       "ocrConfidence": 78
     },
     {
-      "id": "p-612",
+      "id": "p-677",
       "hu": "Tavasszal süt a nap. Májusban sokat süt a nap.",
       "en": null,
       "lesson": 5,
@@ -5655,7 +6293,7 @@
       "ocrConfidence": 78
     },
     {
-      "id": "p-613",
+      "id": "p-678",
       "hu": "Ny. és ESIK AZ ESŐ.",
       "en": null,
       "lesson": 5,
@@ -5666,7 +6304,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-614",
+      "id": "p-679",
       "hu": "Ősszel esik az eső. Októberben sokat esik az eső.",
       "en": null,
       "lesson": 5,
@@ -5677,7 +6315,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-615",
+      "id": "p-680",
       "hu": "Is FÚJ A SZÉL.",
       "en": null,
       "lesson": 5,
@@ -5688,7 +6326,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-616",
+      "id": "p-681",
       "hu": ") . ko Tavasszal fúj a szél. Áprilisban fúj a szél.",
       "en": null,
       "lesson": 5,
@@ -5699,7 +6337,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-617",
+      "id": "p-682",
       "hu": "sof Le A élen esik a hó. Decemberben esik a hó.",
       "en": null,
       "lesson": 5,
@@ -5710,7 +6348,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-618",
+      "id": "p-683",
       "hu": "1. Az első hónap a január. A január téli hónap.",
       "en": null,
       "lesson": 5,
@@ -5721,7 +6359,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-619",
+      "id": "p-684",
       "hu": "2. A második hónap a február. A február ...",
       "en": null,
       "lesson": 5,
@@ -5732,7 +6370,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-620",
+      "id": "p-685",
       "hu": "3. A harmadik hónap a március. A március ...",
       "en": null,
       "lesson": 5,
@@ -5743,7 +6381,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-621",
+      "id": "p-686",
       "hu": "4. A negyedik hónap az április. Az április ...",
       "en": null,
       "lesson": 5,
@@ -5754,7 +6392,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-622",
+      "id": "p-687",
       "hu": "5. Az ötödik hónap a május. A május ...",
       "en": null,
       "lesson": 5,
@@ -5765,7 +6403,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-623",
+      "id": "p-688",
       "hu": "6. A hatodik hónap a június. A június ...",
       "en": null,
       "lesson": 5,
@@ -5776,7 +6414,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-624",
+      "id": "p-689",
       "hu": "7. A hetedik hónap a július. A július ...",
       "en": null,
       "lesson": 5,
@@ -5787,7 +6425,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-625",
+      "id": "p-690",
       "hu": "8. A nyolcadik hónap az augusztus. Az augusztus ...",
       "en": null,
       "lesson": 5,
@@ -5798,7 +6436,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-626",
+      "id": "p-691",
       "hu": "9. A kilencedik hónap a szeptember. A szeptember ...",
       "en": null,
       "lesson": 5,
@@ -5809,7 +6447,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-627",
+      "id": "p-692",
       "hu": "10. A tizedik hónap az október. Az október ...",
       "en": null,
       "lesson": 5,
@@ -5820,7 +6458,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-628",
+      "id": "p-693",
       "hu": "11. A tizenegyedik (!) hónap a november. A november ...",
       "en": null,
       "lesson": 5,
@@ -5831,7 +6469,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-629",
+      "id": "p-694",
       "hu": "12. A tizenkettedik (!) hónap a december. A december ...",
       "en": null,
       "lesson": 5,
@@ -5842,7 +6480,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-630",
+      "id": "p-695",
       "hu": "Ezerkilencszáznyolcvankettő február 28-án (1982. február 28-án) születtem.",
       "en": null,
       "lesson": 5,
@@ -5853,7 +6491,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-631",
+      "id": "p-696",
       "hu": "Mikor született az édesanyja / édesapja? ............. született.",
       "en": null,
       "lesson": 5,
@@ -5864,7 +6502,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-632",
+      "id": "p-697",
       "hu": "Mikor született a barátja / férje / felesége? ............. született.",
       "en": null,
       "lesson": 5,
@@ -5875,7 +6513,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-633",
+      "id": "p-698",
       "hu": "Mikor született a húga? Mikor született a testvére? ............. született.",
       "en": null,
       "lesson": 5,
@@ -5886,7 +6524,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-634",
+      "id": "p-699",
       "hu": "happy to help you. Köszönjük szépen!",
       "en": null,
       "lesson": 5,
@@ -5897,7 +6535,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-635",
+      "id": "p-700",
       "hu": "Töltött káposzta finom.",
       "en": null,
       "lesson": 5,
@@ -5908,7 +6546,7 @@
       "ocrConfidence": 73
     },
     {
-      "id": "p-636",
+      "id": "p-701",
       "hu": "pe\" Fi a Csirkepaprikéas finom.",
       "en": null,
       "lesson": 5,
@@ -5919,7 +6557,7 @@
       "ocrConfidence": 73
     },
     {
-      "id": "p-637",
+      "id": "p-702",
       "hu": "A Nagymamám csirkepaprikása finom.",
       "en": null,
       "lesson": 5,
@@ -5930,7 +6568,7 @@
       "ocrConfidence": 73
     },
     {
-      "id": "p-638",
+      "id": "p-703",
       "hu": "eg [o Cigányzene szép.",
       "en": null,
       "lesson": 5,
@@ -5941,7 +6579,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-639",
+      "id": "p-704",
       "hu": "| \\ Csardas szép.",
       "en": null,
       "lesson": 5,
@@ -5952,7 +6590,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-640",
+      "id": "p-705",
       "hu": "Petőfi Sandor hires magyar költő volt.",
       "en": null,
       "lesson": 5,
@@ -5963,7 +6601,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-641",
+      "id": "p-706",
       "hu": "Bíró László Bíró László híres magyar feltaláló volt. A golyóstollat feltalálta.",
       "en": null,
       "lesson": 5,
@@ -5974,7 +6612,7 @@
       "ocrConfidence": 72
     },
     {
-      "id": "p-642",
+      "id": "p-707",
       "hu": "Hány? — How many? Mennyi? — How much?",
       "en": null,
       "lesson": 5,
@@ -5985,7 +6623,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-643",
+      "id": "p-708",
       "hu": "Hány testvére van? Mennyi vizet iszol?",
       "en": null,
       "lesson": 5,
@@ -5996,7 +6634,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-644",
+      "id": "p-709",
       "hu": "Hány kutyája van? Mennyi időt tölt otthon?",
       "en": null,
       "lesson": 5,
@@ -6007,7 +6645,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-645",
+      "id": "p-710",
       "hu": "Hány óra van? Mennyi az idő?",
       "en": null,
       "lesson": 5,
@@ -6018,7 +6656,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-646",
+      "id": "p-711",
       "hu": "#Négyszer főzök egy héten. zÖt napot dolgozok egy héten.",
       "en": null,
       "lesson": 5,
@@ -6029,7 +6667,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-647",
+      "id": "p-712",
       "hu": "Hany óra van?/ Mennyi az idő?",
       "en": null,
       "lesson": 6,
@@ -6040,7 +6678,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-648",
+      "id": "p-713",
       "hu": "Have a nice week!/ Szép hetet kívánok!",
       "en": null,
       "lesson": 6,
@@ -6051,7 +6689,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-649",
+      "id": "p-714",
       "hu": "- Megbeszéljük, hogy mi lesz a házi feladat.",
       "en": null,
       "lesson": 6,
@@ -6062,7 +6700,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-650",
+      "id": "p-715",
       "hu": "nap napos Napos idő van.",
       "en": null,
       "lesson": 6,
@@ -6073,7 +6711,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-651",
+      "id": "p-716",
       "hu": "eső esős Esős idő van.",
       "en": null,
       "lesson": 6,
@@ -6084,7 +6722,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-652",
+      "id": "p-717",
       "hu": "szél szeles Szeles idő van.",
       "en": null,
       "lesson": 6,
@@ -6095,7 +6733,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-653",
+      "id": "p-718",
       "hu": "köd ködös Ködös idő van.",
       "en": null,
       "lesson": 6,
@@ -6106,7 +6744,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-654",
+      "id": "p-719",
       "hu": "felhő felhős Felhős idő van.",
       "en": null,
       "lesson": 6,
@@ -6117,7 +6755,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-655",
+      "id": "p-720",
       "hu": "meleg meleg eső Meleg eső esik.",
       "en": null,
       "lesson": 6,
@@ -6128,7 +6766,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-656",
+      "id": "p-721",
       "hu": "hideg hideg szél Hideg szél fúj.",
       "en": null,
       "lesson": 6,
@@ -6139,7 +6777,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-657",
+      "id": "p-722",
       "hu": "b) Let’s chat! - Beszélgessünk!",
       "en": null,
       "lesson": 6,
@@ -6150,7 +6788,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-658",
+      "id": "p-723",
       "hu": "Szeles idő van?",
       "en": null,
       "lesson": 6,
@@ -6161,7 +6799,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-659",
+      "id": "p-724",
       "hu": "Az Egyesült Államok az .......................... lett.",
       "en": null,
       "lesson": 6,
@@ -6172,7 +6810,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-660",
+      "id": "p-725",
       "hu": "Oroszország a .... sss lett.",
       "en": null,
       "lesson": 6,
@@ -6183,7 +6821,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-661",
+      "id": "p-726",
       "hu": "Japán a o.oo lt.",
       "en": null,
       "lesson": 6,
@@ -6194,7 +6832,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-662",
+      "id": "p-727",
       "hu": "Olaszország a .... sss sss sss. lett.",
       "en": null,
       "lesson": 6,
@@ -6205,7 +6843,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-663",
+      "id": "p-728",
       "hu": "Magyarország a ...... sss sss lett.",
       "en": null,
       "lesson": 6,
@@ -6216,7 +6854,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-664",
+      "id": "p-729",
       "hu": "Spanyolország a ..... sss sss. lett.",
       "en": null,
       "lesson": 6,
@@ -6227,7 +6865,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-665",
+      "id": "p-730",
       "hu": "Topic: Legyen szíves mutatkozzon be és meséljen a családjáról!",
       "en": null,
       "lesson": 6,
@@ -6238,7 +6876,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-666",
+      "id": "p-731",
       "hu": "- Mi az anyja / apja / testvére / felesége / férje / fia / lánya / dédanyja neve?",
       "en": null,
       "lesson": 6,
@@ -6249,7 +6887,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-667",
+      "id": "p-732",
       "hu": "- Hány éves Ön?",
       "en": null,
       "lesson": 6,
@@ -6260,7 +6898,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-668",
+      "id": "p-733",
       "hu": "- Hány éves az anyja / apja / testvére / kutyája / felesége / fia / lánya?",
       "en": null,
       "lesson": 6,
@@ -6271,7 +6909,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-669",
+      "id": "p-734",
       "hu": "- Mikor született?",
       "en": null,
       "lesson": 6,
@@ -6282,7 +6920,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-670",
+      "id": "p-735",
       "hu": "- Mikor született az apja / anyja / nagyanyja / testvére / felesége / férje?",
       "en": null,
       "lesson": 6,
@@ -6293,7 +6931,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-671",
+      "id": "p-736",
       "hu": "e Things you can count should be expressed with \"hány\".",
       "en": null,
       "lesson": 6,
@@ -6304,7 +6942,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-672",
+      "id": "p-737",
       "hu": "Hány testvéred van?",
       "en": null,
       "lesson": 6,
@@ -6315,7 +6953,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-673",
+      "id": "p-738",
       "hu": "Hány autód van?",
       "en": null,
       "lesson": 6,
@@ -6326,7 +6964,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-674",
+      "id": "p-739",
       "hu": "! Hány óra van?",
       "en": null,
       "lesson": 6,
@@ -6337,7 +6975,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-675",
+      "id": "p-740",
       "hu": "De: mennyi az idő?",
       "en": null,
       "lesson": 6,
@@ -6348,7 +6986,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-676",
+      "id": "p-741",
       "hu": "! \"Hány\" and mennyi\" can take endings: Mennyit dolgozik?",
       "en": null,
       "lesson": 6,
@@ -6359,7 +6997,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-677",
+      "id": "p-742",
       "hu": "Hányszor dolgozik egy héten?",
       "en": null,
       "lesson": 6,
@@ -6370,7 +7008,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-678",
+      "id": "p-743",
       "hu": "e Hány óra van? / Hány óra?",
       "en": null,
       "lesson": 6,
@@ -6381,7 +7019,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-679",
+      "id": "p-744",
       "hu": "e Mennyi az idő?",
       "en": null,
       "lesson": 6,
@@ -6392,7 +7030,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-680",
+      "id": "p-745",
       "hu": "1 1 9 óra van.",
       "en": null,
       "lesson": 6,
@@ -6403,7 +7041,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-681",
+      "id": "p-746",
       "hu": "2 óra 15 perc van.",
       "en": null,
       "lesson": 6,
@@ -6414,7 +7052,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-682",
+      "id": "p-747",
       "hu": "2 óra múlt 15 perccel.",
       "en": null,
       "lesson": 6,
@@ -6425,7 +7063,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-683",
+      "id": "p-748",
       "hu": "9 3: 2 óra mult 30 perccel.",
       "en": null,
       "lesson": 6,
@@ -6436,7 +7074,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-684",
+      "id": "p-749",
       "hu": "10 2 2 óra 45 perc van.",
       "en": null,
       "lesson": 6,
@@ -6447,7 +7085,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-685",
+      "id": "p-750",
       "hu": "3 2 óra mult 45 perccel.",
       "en": null,
       "lesson": 6,
@@ -6458,7 +7096,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-686",
+      "id": "p-751",
       "hu": "Ez egy magyar kokárda. Az egy kék autó.",
       "en": null,
       "lesson": 6,
@@ -6469,7 +7107,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-687",
+      "id": "p-752",
       "hu": "Ezek itt kokárdák. Azok ott autók.",
       "en": null,
       "lesson": 6,
@@ -6480,7 +7118,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-688",
+      "id": "p-753",
       "hu": "Mikor született az anyukája? When was your mother born?",
       "en": null,
       "lesson": 6,
@@ -6491,7 +7129,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-689",
+      "id": "p-754",
       "hu": "Az anyukám ezerkilencszázhatvanhárom, július tizennyolcadikán született.",
       "en": null,
       "lesson": 6,
@@ -6502,7 +7140,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-690",
+      "id": "p-755",
       "hu": "(Ön) mikor született? When were you born?",
       "en": null,
       "lesson": 6,
@@ -6513,7 +7151,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-691",
+      "id": "p-756",
       "hu": "(Én) ezerkilencszáznyolcvannyolc, szeptember elsején születtem.",
       "en": null,
       "lesson": 6,
@@ -6524,7 +7162,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-692",
+      "id": "p-757",
       "hu": "Mennyi az idő? / Hany óra van?",
       "en": null,
       "lesson": 6,
@@ -6535,7 +7173,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-693",
+      "id": "p-758",
       "hu": "1. Rajzolja be a mutatókat!",
       "en": null,
       "lesson": 6,
@@ -6546,7 +7184,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-694",
+      "id": "p-759",
       "hu": "2. Hany óra van? Írja le betűkkel!",
       "en": null,
       "lesson": 6,
@@ -6557,7 +7195,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-695",
+      "id": "p-760",
       "hu": "3. Kosse össze!",
       "en": null,
       "lesson": 6,
@@ -6568,7 +7206,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-696",
+      "id": "p-761",
       "hu": "5:55 Ot perc múlva fél öt.",
       "en": null,
       "lesson": 6,
@@ -6579,7 +7217,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-697",
+      "id": "p-762",
       "hu": "4:35 Ot perc múlva negyed hat.",
       "en": null,
       "lesson": 6,
@@ -6590,7 +7228,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-698",
+      "id": "p-763",
       "hu": "4:25 Öt perccel mult fél öt.",
       "en": null,
       "lesson": 6,
@@ -6601,7 +7239,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-699",
+      "id": "p-764",
       "hu": "4:5 Öt perccel múlt háromnegyed öt.",
       "en": null,
       "lesson": 6,
@@ -6612,7 +7250,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-700",
+      "id": "p-765",
       "hu": "5:1 Ht perc múlva hat óra.",
       "en": null,
       "lesson": 6,
@@ -6623,7 +7261,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-701",
+      "id": "p-766",
       "hu": "4. És itt hány óra van?",
       "en": null,
       "lesson": 6,
@@ -6634,7 +7272,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-702",
+      "id": "p-767",
       "hu": "5. Időzónák. Egészitse ki!",
       "en": null,
       "lesson": 6,
@@ -6645,7 +7283,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-703",
+      "id": "p-768",
       "hu": "0. Amikor Bukarestben délelőtt tíz (10) óra van, akkor Bécsben még csak kilenc (9) óra van.",
       "en": null,
       "lesson": 6,
@@ -6656,7 +7294,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-704",
+      "id": "p-769",
       "hu": "NEL (7) ÓTA VAN.",
       "en": null,
       "lesson": 6,
@@ -6667,7 +7305,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-705",
+      "id": "p-770",
       "hu": "még csak .....lizenhal | ÓTA ve... VAU e... perc (16.08) van.",
       "en": null,
       "lesson": 6,
@@ -6678,7 +7316,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-706",
+      "id": "p-771",
       "hu": "még csak ... Zenket éra..hamine perc (12.30) van.",
       "en": null,
       "lesson": 6,
@@ -6689,7 +7327,7 @@
       "ocrConfidence": 64
     },
     {
-      "id": "p-707",
+      "id": "p-772",
       "hu": "3. Kösse össze!",
       "en": null,
       "lesson": 6,
@@ -6700,7 +7338,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-708",
+      "id": "p-773",
       "hu": "5:55 Ot perc múlva fél öt.",
       "en": null,
       "lesson": 6,
@@ -6711,7 +7349,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-709",
+      "id": "p-774",
       "hu": "4:3; Öt perc múlva negyed hat.",
       "en": null,
       "lesson": 6,
@@ -6722,7 +7360,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-710",
+      "id": "p-775",
       "hu": "4:25 Ot perccel mult fél öt.",
       "en": null,
       "lesson": 6,
@@ -6733,7 +7371,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-711",
+      "id": "p-776",
       "hu": "4:50 Öt perccel múlt háromnegyed öt.",
       "en": null,
       "lesson": 6,
@@ -6744,7 +7382,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-712",
+      "id": "p-777",
       "hu": "5:1 Öt perc múlva hat óra.",
       "en": null,
       "lesson": 6,
@@ -6755,7 +7393,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-713",
+      "id": "p-778",
       "hu": "4. És itt hány óra van?",
       "en": null,
       "lesson": 6,
@@ -6766,7 +7404,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-714",
+      "id": "p-779",
       "hu": "5. Időzónák. Egészítse ki!",
       "en": null,
       "lesson": 6,
@@ -6777,7 +7415,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-715",
+      "id": "p-780",
       "hu": "0. Amikor Bukarestben délelőtt tíz (10) óra van, akkor Bécsben még csak kilenc (9) óra van.",
       "en": null,
       "lesson": 6,
@@ -6788,7 +7426,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-716",
+      "id": "p-781",
       "hu": "1. Amikor Budapesten reggel nyolc (8) óra van, akkor Londonban még csak hét (7) óra van.",
       "en": null,
       "lesson": 6,
@@ -6799,7 +7437,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-717",
+      "id": "p-782",
       "hu": "2. Amikor New Yorkban reggel negyed nyolc (7.15) van, akkor Szófiában már negyed három (14.15) van.",
       "en": null,
       "lesson": 6,
@@ -6810,7 +7448,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-718",
+      "id": "p-783",
       "hu": "már Ankarában fél nyolc múlt öt perccel / öt perccel múlt fél nyolc (19.35).",
       "en": null,
       "lesson": 6,
@@ -6821,7 +7459,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-719",
+      "id": "p-784",
       "hu": "Mi az édesanyja neve? Az édesanyám neve Betty.",
       "en": null,
       "lesson": 7,
@@ -6832,7 +7470,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-720",
+      "id": "p-785",
       "hu": "1. Legyen szíves mutatkozzon be!",
       "en": null,
       "lesson": 7,
@@ -6843,7 +7481,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-721",
+      "id": "p-786",
       "hu": "A nevem Scott. New Yorkban élek. Harmincegy éves vagyok. Szoftvermérnök vagyok.",
       "en": null,
       "lesson": 7,
@@ -6854,7 +7492,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-722",
+      "id": "p-787",
       "hu": "Ön házas? Nem vagyok házas. Van testvére? Nincs testvérem. Milyen nyelven beszél? Beszélek angolul és magyarul.",
       "en": null,
       "lesson": 7,
@@ -6865,7 +7503,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-723",
+      "id": "p-788",
       "hu": "Please click on \"autó, iskola, teniszütő\" (top left corner).",
       "en": null,
       "lesson": 7,
@@ -6876,7 +7514,7 @@
       "ocrConfidence": 82
     },
     {
-      "id": "p-724",
+      "id": "p-789",
       "hu": "do say the words aloud so that your teacher can hear your pronunciation. Köszönjük!",
       "en": null,
       "lesson": 7,
@@ -6887,7 +7525,7 @@
       "ocrConfidence": 95
     },
     {
-      "id": "p-725",
+      "id": "p-790",
       "hu": "I have a friend. Van egy barátom.",
       "en": null,
       "lesson": 7,
@@ -6898,7 +7536,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-726",
+      "id": "p-791",
       "hu": "We have a beautiful house. Van egy szép hazünk.",
       "en": null,
       "lesson": 7,
@@ -6909,7 +7547,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-727",
+      "id": "p-792",
       "hu": "He doesn’t have a car. Nincs autója.",
       "en": null,
       "lesson": 7,
@@ -6920,7 +7558,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-728",
+      "id": "p-793",
       "hu": "Az harmadik hónap a március A, kjjencedik hónap a szeptember.",
       "en": null,
       "lesson": 7,
@@ -6931,7 +7569,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-729",
+      "id": "p-794",
       "hu": "Az tizenegyedik hónap a november Az hetedik hónap a július.",
       "en": null,
       "lesson": 7,
@@ -6942,7 +7580,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-730",
+      "id": "p-795",
       "hu": "Use the demonstrative articles (mutató névmások) ez, az.",
       "en": null,
       "lesson": 7,
@@ -6953,7 +7591,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-731",
+      "id": "p-796",
       "hu": "- — — Mennyibe kerül ez a szék?",
       "en": null,
       "lesson": 7,
@@ -6964,7 +7602,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-732",
+      "id": "p-797",
       "hu": "- Ez a szék kilencezernyolcszázkilencven forintba kerül.",
       "en": null,
       "lesson": 7,
@@ -6975,7 +7613,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-733",
+      "id": "p-798",
       "hu": "- Mennyibe kerül..... ez... a szék.....?",
       "en": null,
       "lesson": 7,
@@ -6986,7 +7624,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-734",
+      "id": "p-799",
       "hu": "- — Jó napot kívánok!",
       "en": null,
       "lesson": 7,
@@ -6997,7 +7635,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-735",
+      "id": "p-800",
       "hu": "- — Jó napot kívánok!",
       "en": null,
       "lesson": 7,
@@ -7008,7 +7646,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-736",
+      "id": "p-801",
       "hu": "- 250 forint. Van finom szalámis .................... 350 forint.",
       "en": null,
       "lesson": 7,
@@ -7019,7 +7657,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-737",
+      "id": "p-802",
       "hu": "- 300 forintba kerül.",
       "en": null,
       "lesson": 7,
@@ -7030,7 +7668,7 @@
       "ocrConfidence": 85
     },
     {
-      "id": "p-738",
+      "id": "p-803",
       "hu": "- — Köszönöm szépen. Most nem kérek semmit. Viszlát!",
       "en": null,
       "lesson": 7,
@@ -7041,7 +7679,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-739",
+      "id": "p-804",
       "hu": "- — Viszlát!",
       "en": null,
       "lesson": 7,
@@ -7052,7 +7690,7 @@
       "ocrConfidence": 81
     },
     {
-      "id": "p-740",
+      "id": "p-805",
       "hu": "Van+ autó +m. I have a car. Nincs + haz + am. I don’t have a house.",
       "en": null,
       "lesson": 7,
@@ -7063,7 +7701,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-741",
+      "id": "p-806",
       "hu": "Van feleségem. Nincs lakásom.",
       "en": null,
       "lesson": 7,
@@ -7074,7 +7712,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-742",
+      "id": "p-807",
       "hu": "\"Van macskám. Nincs testvérem.",
       "en": null,
       "lesson": 7,
@@ -7085,7 +7723,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-743",
+      "id": "p-808",
       "hu": "Van egy piros autóm. Nincs sok kérdésem.",
       "en": null,
       "lesson": 7,
@@ -7096,7 +7734,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-744",
+      "id": "p-809",
       "hu": "Van egy fekete kutyám. Nincs piros cipőm.",
       "en": null,
       "lesson": 7,
@@ -7107,7 +7745,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-745",
+      "id": "p-810",
       "hu": "Ez egy piros autó. Ezek az autók pirosak.",
       "en": null,
       "lesson": 7,
@@ -7118,7 +7756,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-746",
+      "id": "p-811",
       "hu": "Az egy nagy haz. Azok a hazak szépek.",
       "en": null,
       "lesson": 7,
@@ -7129,7 +7767,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-747",
+      "id": "p-812",
       "hu": "Mennyibe kerül ez a/az ... ? Mennyibe kerülnek ezek a/az ...?",
       "en": null,
       "lesson": 7,
@@ -7140,7 +7778,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-748",
+      "id": "p-813",
       "hu": "Mennyibe kerül az a/az...? Mennyibe kerülnek azok a/az...?",
       "en": null,
       "lesson": 7,
@@ -7151,7 +7789,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-749",
+      "id": "p-814",
       "hu": "Milyen színű ez?",
       "en": null,
       "lesson": 8,
@@ -7162,7 +7800,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-750",
+      "id": "p-815",
       "hu": "Have a nice week!/ Szép hetet kívánok!",
       "en": null,
       "lesson": 8,
@@ -7173,7 +7811,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-751",
+      "id": "p-816",
       "hu": "Beszélek magyarul. | speak Hungarian.",
       "en": null,
       "lesson": 8,
@@ -7184,7 +7822,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-752",
+      "id": "p-817",
       "hu": "Beszélem a magyart. | speak the Hungarian.",
       "en": null,
       "lesson": 8,
@@ -7195,7 +7833,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-753",
+      "id": "p-818",
       "hu": "Rajzol egy házat. He draws a house.",
       "en": null,
       "lesson": 8,
@@ -7206,7 +7844,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-754",
+      "id": "p-819",
       "hu": "Látom a macskát.",
       "en": null,
       "lesson": 8,
@@ -7217,7 +7855,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-755",
+      "id": "p-820",
       "hu": "Jól beszélem a magyart.",
       "en": null,
       "lesson": 8,
@@ -7228,7 +7866,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-756",
+      "id": "p-821",
       "hu": "Rajzol egy macskát.",
       "en": null,
       "lesson": 8,
@@ -7239,7 +7877,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-757",
+      "id": "p-822",
       "hu": "Szeretem a férjem.",
       "en": null,
       "lesson": 8,
@@ -7250,7 +7888,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-758",
+      "id": "p-823",
       "hu": "- Van kabátod?",
       "en": null,
       "lesson": 8,
@@ -7261,7 +7899,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-759",
+      "id": "p-824",
       "hu": "- — Igen, van kabátom.",
       "en": null,
       "lesson": 8,
@@ -7272,7 +7910,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-760",
+      "id": "p-825",
       "hu": "- Es van piros kabátod?",
       "en": null,
       "lesson": 8,
@@ -7283,7 +7921,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-761",
+      "id": "p-826",
       "hu": "- — Igen, van piros kabátom.",
       "en": null,
       "lesson": 8,
@@ -7294,7 +7932,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-762",
+      "id": "p-827",
       "hu": "- Es van lila kabátod?",
       "en": null,
       "lesson": 8,
@@ -7305,7 +7943,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-763",
+      "id": "p-828",
       "hu": "- Nem, nincs lila kabátom.",
       "en": null,
       "lesson": 8,
@@ -7316,7 +7954,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-764",
+      "id": "p-829",
       "hu": "Egy haz húszmillió forintba kerül.",
       "en": null,
       "lesson": 8,
@@ -7327,7 +7965,7 @@
       "ocrConfidence": 79
     },
     {
-      "id": "p-765",
+      "id": "p-830",
       "hu": "családom Magyarországon, Martfűn él.",
       "en": null,
       "lesson": 8,
@@ -7338,7 +7976,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-766",
+      "id": "p-831",
       "hu": "sajnos nem olyan jól.",
       "en": null,
       "lesson": 8,
@@ -7349,7 +7987,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-767",
+      "id": "p-832",
       "hu": "Szabaduszé vagyok, így nincs .",
       "en": null,
       "lesson": 8,
@@ -7360,7 +7998,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-768",
+      "id": "p-833",
       "hu": "mindig érdekes kiállítások vannak.",
       "en": null,
       "lesson": 8,
@@ -7371,7 +8009,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-769",
+      "id": "p-834",
       "hu": "teniszpályák, uszodák és konditermek.",
       "en": null,
       "lesson": 8,
@@ -7382,7 +8020,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-770",
+      "id": "p-835",
       "hu": "nagyon szeretek úszni!",
       "en": null,
       "lesson": 8,
@@ -7393,7 +8031,7 @@
       "ocrConfidence": 94
     },
     {
-      "id": "p-771",
+      "id": "p-836",
       "hu": "és rizst. Hétvégén néha étterembe B . .",
       "en": null,
       "lesson": 8,
@@ -7404,7 +8042,7 @@
       "ocrConfidence": 88
     },
     {
-      "id": "p-772",
+      "id": "p-837",
       "hu": "- Vigyázz, 40 kilométer a sebességhatár!",
       "en": null,
       "lesson": 8,
@@ -7415,7 +8053,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-773",
+      "id": "p-838",
       "hu": "- Vigyázz Vilmos, gyalogos!",
       "en": null,
       "lesson": 8,
@@ -7426,7 +8064,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-774",
+      "id": "p-839",
       "hu": ": Vedd ki az orromból a kezed!",
       "en": null,
       "lesson": 8,
@@ -7437,7 +8075,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-775",
+      "id": "p-840",
       "hu": ": Nézd Vilmos, hogy megcsinálták annak az étteremnek a homlokzatát!",
       "en": null,
       "lesson": 8,
@@ -7448,7 +8086,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-776",
+      "id": "p-841",
       "hu": ": Azért csak lassan Vilmos, hatvannal mész... Errefelé szoktak rendőrök lenni.",
       "en": null,
       "lesson": 8,
@@ -7459,7 +8097,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-777",
+      "id": "p-842",
       "hu": ": Persze hogy elhoztam. De egyébként benne vagyok az adatbázisban.",
       "en": null,
       "lesson": 8,
@@ -7470,7 +8108,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-778",
+      "id": "p-843",
       "hu": ": Azért csak legyen nálad.",
       "en": null,
       "lesson": 8,
@@ -7481,7 +8119,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-779",
+      "id": "p-844",
       "hu": ": Húsz éve járok a ....., a .........",
       "en": null,
       "lesson": 8,
@@ -7492,7 +8130,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-780",
+      "id": "p-845",
       "hu": "is fogunk többet.",
       "en": null,
       "lesson": 8,
@@ -7503,7 +8141,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-781",
+      "id": "p-846",
       "hu": ": Sárga! Vilmos! Sárga, lassíts!",
       "en": null,
       "lesson": 8,
@@ -7514,7 +8152,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-782",
+      "id": "p-847",
       "hu": ": Látom, hogy sárga, mit gondolsz, én mit nézek?",
       "en": null,
       "lesson": 8,
@@ -7525,7 +8163,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-783",
+      "id": "p-848",
       "hu": "háta annak a kislánynak. Csoda hogy megfáznak, aztán nem lesz gyerekük.",
       "en": null,
       "lesson": 8,
@@ -7536,7 +8174,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-784",
+      "id": "p-849",
       "hu": ": Na, itt ezen most be, balra... Vigyázz, jönnek szembe!",
       "en": null,
       "lesson": 8,
@@ -7547,7 +8185,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-785",
+      "id": "p-850",
       "hu": ": Úgy, és akkor a következő már a Bornemissza.",
       "en": null,
       "lesson": 8,
@@ -7558,7 +8196,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-786",
+      "id": "p-851",
       "hu": "Nem, várjál, nem, várjál. Nem Bornemissza, nem látom jól. Belojanisz.",
       "en": null,
       "lesson": 8,
@@ -7569,7 +8207,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-787",
+      "id": "p-852",
       "hu": "Belojanisz utca. Hogy ezt hogy nem nevezték át!",
       "en": null,
       "lesson": 8,
@@ -7580,7 +8218,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-788",
+      "id": "p-853",
       "hu": "Várjál Vilmos, elrontottuk, a következőn kellett!",
       "en": null,
       "lesson": 8,
@@ -7591,7 +8229,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-789",
+      "id": "p-854",
       "hu": ": Hát ez nem igaz Klára, mi az ördögnek bámulod akkor azt a térképet?",
       "en": null,
       "lesson": 8,
@@ -7602,7 +8240,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-790",
+      "id": "p-855",
       "hu": ": lttvan, ez az Őrjárat utca, tessék!",
       "en": null,
       "lesson": 8,
@@ -7613,7 +8251,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-791",
+      "id": "p-856",
       "hu": ": Majd én összehajtogatom!",
       "en": null,
       "lesson": 8,
@@ -7624,7 +8262,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-792",
+      "id": "p-857",
       "hu": ": Én is olvastam, negyvennyolccal megyek!",
       "en": null,
       "lesson": 8,
@@ -7635,7 +8273,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-793",
+      "id": "p-858",
       "hu": ": Mi van, mit csinálsz? Miért álltál meg?",
       "en": null,
       "lesson": 8,
@@ -7646,7 +8284,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-794",
+      "id": "p-859",
       "hu": "Itt nem lehet parkolni, még megállni se, Vilmos!",
       "en": null,
       "lesson": 8,
@@ -7657,7 +8295,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-795",
+      "id": "p-860",
       "hu": ": Ne a Lánchídon menj, az be lesz dugulva.",
       "en": null,
       "lesson": 8,
@@ -7668,7 +8306,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-796",
+      "id": "p-861",
       "hu": ": Csak mondom, mer a végén még ideges leszel.",
       "en": null,
       "lesson": 8,
@@ -7679,7 +8317,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-797",
+      "id": "p-862",
       "hu": ": Nézd mekkora dzsipje van, és mekkora emberke ül benne! Megszűnik a sávod!",
       "en": null,
       "lesson": 8,
@@ -7690,7 +8328,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-798",
+      "id": "p-863",
       "hu": "mindentől, én nem is értem.",
       "en": null,
       "lesson": 8,
@@ -7701,7 +8339,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-799",
+      "id": "p-864",
       "hu": "soha életemben nem vettem el tőlük egy forintot sem. És akko..............",
       "en": null,
       "lesson": 8,
@@ -7712,7 +8350,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-800",
+      "id": "p-865",
       "hu": ": Kár ezen bosszankodni!",
       "en": null,
       "lesson": 8,
@@ -7723,7 +8361,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-801",
+      "id": "p-866",
       "hu": ": Várj csak Drágám! Ezt még itt kinnt akartam odaadni neked. Születésnapodra!",
       "en": null,
       "lesson": 8,
@@ -7734,7 +8372,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-802",
+      "id": "p-867",
       "hu": ": Születésnapom??? Hát az majd csak....",
       "en": null,
       "lesson": 8,
@@ -7745,7 +8383,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-803",
+      "id": "p-868",
       "hu": ": Bontsd ki, olyan kíváncsi vagyok!",
       "en": null,
       "lesson": 8,
@@ -7756,7 +8394,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-804",
+      "id": "p-869",
       "hu": ": Ennyi pénzt! Fölöslegesen!",
       "en": null,
       "lesson": 8,
@@ -7767,7 +8405,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-805",
+      "id": "p-870",
       "hu": ": Na menjünk, mert elkésünk!",
       "en": null,
       "lesson": 8,
@@ -7778,7 +8416,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-806",
+      "id": "p-871",
       "hu": ": Kerüljünk jobbra, mert gödrös!",
       "en": null,
       "lesson": 8,
@@ -7789,7 +8427,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-807",
+      "id": "p-872",
       "hu": ": A következő lehetőségnél fordulj jobbra!",
       "en": null,
       "lesson": 8,
@@ -7800,7 +8438,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-808",
+      "id": "p-873",
       "hu": ": Az első lehetőségnél fordulj vissza!",
       "en": null,
       "lesson": 8,
@@ -7811,7 +8449,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-809",
+      "id": "p-874",
       "hu": ": Érted? Do you understand?",
       "en": null,
       "lesson": 8,
@@ -7822,7 +8460,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-810",
+      "id": "p-875",
       "hu": "Emlékszik? Do you remember ?",
       "en": null,
       "lesson": 8,
@@ -7833,7 +8471,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-811",
+      "id": "p-876",
       "hu": "( i Látom a kutyát. — I see the dog. Latok egy kutyát. - I see a dog.",
       "en": null,
       "lesson": 8,
@@ -7844,7 +8482,7 @@
       "ocrConfidence": 87
     },
     {
-      "id": "p-812",
+      "id": "p-877",
       "hu": "Ha a szobába megyek, leveszem a cipőt. If I go into the room, I take off my shoes.",
       "en": null,
       "lesson": 8,
@@ -7855,7 +8493,7 @@
       "ocrConfidence": 80
     },
     {
-      "id": "p-813",
+      "id": "p-878",
       "hu": "2 Szabályos igék .. Bart.",
       "en": null,
       "lesson": 8,
@@ -7866,7 +8504,7 @@
       "ocrConfidence": 61
     },
     {
-      "id": "p-814",
+      "id": "p-879",
       "hu": "10. Csoportositsa az igéket! Megoldasait a hangfelvétellel is ellenőrizheti. uf) u.",
       "en": null,
       "lesson": 8,
@@ -7877,7 +8515,7 @@
       "ocrConfidence": 61
     },
     {
-      "id": "p-815",
+      "id": "p-880",
       "hu": "Ki mit csinál?",
       "en": null,
       "lesson": 9,
@@ -7888,7 +8526,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-816",
+      "id": "p-881",
       "hu": "Have a nice week!/ Szép hetet kivanok!",
       "en": null,
       "lesson": 9,
@@ -7899,7 +8537,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-817",
+      "id": "p-882",
       "hu": "And have a nice journey to Florida! / Es jó utat kívánok Floridába!",
       "en": null,
       "lesson": 9,
@@ -7910,7 +8548,7 @@
       "ocrConfidence": 89
     },
     {
-      "id": "p-818",
+      "id": "p-883",
       "hu": "1. Beszélgessünk! / Meséljen magáról!",
       "en": null,
       "lesson": 9,
@@ -7921,7 +8559,7 @@
       "ocrConfidence": 90
     },
     {
-      "id": "p-819",
+      "id": "p-884",
       "hu": "3. Mi a foglalkozásuk? Mit csinálnak? És Ön? Beszélgessünk a képekről!",
       "en": null,
       "lesson": 9,
@@ -7932,7 +8570,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-820",
+      "id": "p-885",
       "hu": "pl.: Egy orvos gyógyít. Egy asszisztens leveleket ír.",
       "en": null,
       "lesson": 9,
@@ -7943,7 +8581,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-821",
+      "id": "p-886",
       "hu": "és sokat mesél, főz és takarít.",
       "en": null,
       "lesson": 9,
@@ -7954,7 +8592,7 @@
       "ocrConfidence": 83
     },
     {
-      "id": "p-822",
+      "id": "p-887",
       "hu": "és házakat tervez.",
       "en": null,
       "lesson": 9,
@@ -7965,7 +8603,7 @@
       "ocrConfidence": 67
     },
     {
-      "id": "p-823",
+      "id": "p-888",
       "hu": "Emese egy étteremben dolgozik és finom ételeket főz.",
       "en": null,
       "lesson": 9,
@@ -7976,7 +8614,7 @@
       "ocrConfidence": 67
     },
     {
-      "id": "p-824",
+      "id": "p-889",
       "hu": "e Emese férje, Istvan ........................... Istvan egész nap számítógépeket javít.",
       "en": null,
       "lesson": 9,
@@ -7987,7 +8625,7 @@
       "ocrConfidence": 67
     },
     {
-      "id": "p-825",
+      "id": "p-890",
       "hu": "e Es Ön? Mi az Ön munkája? Mit csinál a munkahelyén?",
       "en": null,
       "lesson": 9,
@@ -7998,7 +8636,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-826",
+      "id": "p-891",
       "hu": "c) Ki mit csinál?",
       "en": null,
       "lesson": 9,
@@ -8009,7 +8647,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-827",
+      "id": "p-892",
       "hu": "Az üzletember gyerekeket nevel.",
       "en": null,
       "lesson": 9,
@@ -8020,7 +8658,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-828",
+      "id": "p-893",
       "hu": "A tanár asztalt csinál.",
       "en": null,
       "lesson": 9,
@@ -8031,7 +8669,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-829",
+      "id": "p-894",
       "hu": "Az orvos számítógépeket javít.",
       "en": null,
       "lesson": 9,
@@ -8042,7 +8680,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-830",
+      "id": "p-895",
       "hu": "A családanya dokumentumokat fordít.",
       "en": null,
       "lesson": 9,
@@ -8053,7 +8691,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-831",
+      "id": "p-896",
       "hu": "A szakács üzletet köt.",
       "en": null,
       "lesson": 9,
@@ -8064,7 +8702,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-832",
+      "id": "p-897",
       "hu": "Az asztalos gyerekeket tanít.",
       "en": null,
       "lesson": 9,
@@ -8075,7 +8713,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-833",
+      "id": "p-898",
       "hu": "Az informatikus embereket gyógyít.",
       "en": null,
       "lesson": 9,
@@ -8086,7 +8724,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-834",
+      "id": "p-899",
       "hu": "A fordító ételeket főz.",
       "en": null,
       "lesson": 9,
@@ -8097,7 +8735,7 @@
       "ocrConfidence": 91
     },
     {
-      "id": "p-835",
+      "id": "p-900",
       "hu": "Milyen ez a tűzoltó?",
       "en": null,
       "lesson": 9,
@@ -8108,7 +8746,7 @@
       "ocrConfidence": 60
     },
     {
-      "id": "p-836",
+      "id": "p-901",
       "hu": "Milyen ez a nappali szoba? Milyen ez az ebéd?",
       "en": null,
       "lesson": 9,
@@ -8119,7 +8757,7 @@
       "ocrConfidence": 60
     },
     {
-      "id": "p-837",
+      "id": "p-902",
       "hu": "Hol született? Ki ez a férfi? Mi a neve?",
       "en": null,
       "lesson": 9,
@@ -8130,7 +8768,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-838",
+      "id": "p-903",
       "hu": "Milyen? — What kind ? Mikor? — When? Miért? — Why?",
       "en": null,
       "lesson": 9,
@@ -8141,7 +8779,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-839",
+      "id": "p-904",
       "hu": "Milyen színű ez a toll? Mikor született? Miért nem ír?",
       "en": null,
       "lesson": 9,
@@ -8152,7 +8790,7 @@
       "ocrConfidence": 92
     },
     {
-      "id": "p-840",
+      "id": "p-905",
       "hu": "Mi a foglalkozása ? / Mivel foglalkozik ? — What is your occupation?",
       "en": null,
       "lesson": 9,
@@ -8163,7 +8801,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-841",
+      "id": "p-906",
       "hu": "Mit csinál ? - What do you do?",
       "en": null,
       "lesson": 9,
@@ -8174,7 +8812,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-842",
+      "id": "p-907",
       "hu": "orvos — doctor Az orvos embereket gyógyít.",
       "en": null,
       "lesson": 9,
@@ -8185,7 +8823,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-843",
+      "id": "p-908",
       "hu": "tanár — teacher A tanár gyerekeket tanít.",
       "en": null,
       "lesson": 9,
@@ -8196,7 +8834,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-844",
+      "id": "p-909",
       "hu": "mérnök — engineer A mérnök házakat tervez.",
       "en": null,
       "lesson": 9,
@@ -8207,7 +8845,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-845",
+      "id": "p-910",
       "hu": "informatikus — IT Az informatikus számítógépeket javít.",
       "en": null,
       "lesson": 9,
@@ -8218,7 +8856,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-846",
+      "id": "p-911",
       "hu": "rendőr — policeman A rendőr felügyel.",
       "en": null,
       "lesson": 9,
@@ -8229,7 +8867,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-847",
+      "id": "p-912",
       "hu": "asszisztens — assistant — Az asszisztens telefonál és leveleket ir.",
       "en": null,
       "lesson": 9,
@@ -8240,7 +8878,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-848",
+      "id": "p-913",
       "hu": "fogorvos — dentist A fogorvos fogakat gyógyít.",
       "en": null,
       "lesson": 9,
@@ -8251,7 +8889,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-849",
+      "id": "p-914",
       "hu": "szakács - cook A szakács finom ételeket főz.",
       "en": null,
       "lesson": 9,
@@ -8262,7 +8900,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-850",
+      "id": "p-915",
       "hu": "családanya — mother A családanya gyerekeket nevel.",
       "en": null,
       "lesson": 9,
@@ -8273,7 +8911,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-851",
+      "id": "p-916",
       "hu": "takarító — cleaner A takarító szobákat, irodákat takarít.",
       "en": null,
       "lesson": 9,
@@ -8284,7 +8922,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-852",
+      "id": "p-917",
       "hu": "üzletember — businessman Az üzletember üzletet köt.",
       "en": null,
       "lesson": 9,
@@ -8295,7 +8933,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-853",
+      "id": "p-918",
       "hu": "fordító — translator A fordító dokumentumokat fordít.",
       "en": null,
       "lesson": 9,
@@ -8306,7 +8944,7 @@
       "ocrConfidence": 93
     },
     {
-      "id": "p-854",
+      "id": "p-919",
       "hu": "oe fő Keep it up!",
       "en": null,
       "lesson": 9,
@@ -8317,7 +8955,7 @@
       "ocrConfidence": 72
     },
     {
-      "id": "p-855",
+      "id": "p-920",
       "hu": "én én + szerint => szerintem Szerintem dr. Palfi Janos magyar.",
       "en": null,
       "lesson": 9,
@@ -8328,7 +8966,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-856",
+      "id": "p-921",
       "hu": "te te + szerint — szerinted Szerinted is magyar dr. Pálfi János?",
       "en": null,
       "lesson": 9,
@@ -8339,7 +8977,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-857",
+      "id": "p-922",
       "hu": "Ön Ön + szerint == Ön szerint Ön szerint is magyar dr. Pálfi János?",
       "en": null,
       "lesson": 9,
@@ -8350,7 +8988,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-858",
+      "id": "p-923",
       "hu": "Péter Péter + szerint — Péter szerint Péter szerint is magyar dr. Pálfi János?",
       "en": null,
       "lesson": 9,
@@ -8361,7 +8999,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-859",
+      "id": "p-924",
       "hu": "c) Melyik foglalkozás érdekes? Beszélgessenek a minta alapján!",
       "en": null,
       "lesson": 9,
@@ -8372,7 +9010,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-860",
+      "id": "p-925",
       "hu": "— Szerinted a teniszező érdekes foglalkozás?",
       "en": null,
       "lesson": 9,
@@ -8383,7 +9021,7 @@
       "ocrConfidence": 66
     },
     {
-      "id": "p-861",
+      "id": "p-926",
       "hu": "— Ön szerint a teniszező érdekes foglalkozás?",
       "en": null,
       "lesson": 9,
