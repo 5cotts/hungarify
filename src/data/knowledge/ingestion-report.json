@@ -1,12 +1,45 @@
 {
-  "generatedAt": "2026-03-25T06:44:58.455Z",
+  "generatedAt": "2026-03-25T07:47:43.363Z",
   "sourceRoot": "/Users/scott/Documents/Code/hungarify/knowledge-source",
   "counts": {
     "lessons": 13,
-    "vocab": 579,
-    "rules": 267,
-    "phrases": 75,
-    "drillSeeds": 653,
-    "skippedChatLines": 209
+    "vocab": 98,
+    "rules": 68,
+    "phrases": 763,
+    "drillSeeds": 831,
+    "skippedChatLines": 0
+  },
+  "ingest": {
+    "nonPdf": {
+      "filesScanned": 0,
+      "cacheHits": 0,
+      "cacheMisses": 0,
+      "filesReprocessed": 0,
+      "filesRemoved": 0
+    },
+    "pdf": {
+      "enabled": true,
+      "pdfFilesScanned": 0,
+      "pdfPagesOcrd": 0,
+      "pdfItemsExtracted": 0,
+      "pdfItemsKept": 0,
+      "pdfItemsDroppedLowConfidence": 0,
+      "sourceCacheHits": 0,
+      "sourceCacheMisses": 0,
+      "sourceFilesReprocessed": 0,
+      "sourceFilesRemoved": 0
+    }
+  },
+  "pdf": {
+    "enabled": true,
+    "pdfFilesScanned": 0,
+    "pdfPagesOcrd": 0,
+    "pdfItemsExtracted": 0,
+    "pdfItemsKept": 0,
+    "pdfItemsDroppedLowConfidence": 0,
+    "sourceCacheHits": 0,
+    "sourceCacheMisses": 0,
+    "sourceFilesReprocessed": 0,
+    "sourceFilesRemoved": 0
   }
 }
